@@ -1,0 +1,2403 @@
+{
+    "1": {
+        "product_name": "Комод Рошаль-2 Wood",
+        "product_href": "https://divan.ru/product/komod-roshal-2-wood",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "69 990руб.",
+        "product_discount": "14%"
+    },
+    "2": {
+        "product_name": "ТВ-тумба Леман-2 Wood",
+        "product_href": "https://divan.ru/product/tv-tumba-leman-2-wood",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "20%"
+    },
+    "3": {
+        "product_name": "ТВ-тумба Риальто-1 Wood",
+        "product_href": "https://divan.ru/product/tv-tumba-rialto-1-wood",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "20%"
+    },
+    "4": {
+        "product_name": "ТВ-тумба Леман-1 Latte",
+        "product_href": "https://divan.ru/product/tv-tumba-leman-latte",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "22 990руб.",
+        "product_discount": "21%"
+    },
+    "5": {
+        "product_name": "ТВ-тумба Сальвадор Wood",
+        "product_href": "https://divan.ru/product/tv-tumba-salvador-wood",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "15 990руб.",
+        "product_discount": "6%"
+    },
+    "6": {
+        "product_name": "ТВ-тумба Леман-1 Wood",
+        "product_href": "https://divan.ru/product/tv-tumba-leman-wood",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "22 990руб.",
+        "product_discount": "21%"
+    },
+    "7": {
+        "product_name": "ТВ-тумба Лорэна Wood",
+        "product_href": "https://divan.ru/product/tv-tumba-lorena-wood",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "21 990руб.",
+        "product_discount": "22%"
+    },
+    "8": {
+        "product_name": "ТВ-тумба Орланд Wood",
+        "product_href": "https://divan.ru/product/tv-tumba-orland-wood",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "15%"
+    },
+    "9": {
+        "product_name": "Комод Орланд-1 Wood",
+        "product_href": "https://divan.ru/product/komod-orland-1-wood",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "21 990руб.",
+        "product_discount": "18%"
+    },
+    "10": {
+        "product_name": "ТВ-тумба Леман-2 Marble",
+        "product_href": "https://divan.ru/product/tv-tumba-leman-2-marble",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "20%"
+    },
+    "11": {
+        "product_name": "ТВ-тумба Йорген-1 White",
+        "product_href": "https://divan.ru/product/tv-tumba-jorgen-1-white",
+        "product_new_price": "19 480руб.",
+        "product_old_price": "20 990руб.",
+        "product_discount": "7%"
+    },
+    "12": {
+        "product_name": "Обувница Монмарт Дуб Сонома",
+        "product_href": "https://divan.ru/product/obuvnitsa-monmart-dub-sonoma",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "25%"
+    },
+    "13": {
+        "product_name": "ТВ-тумба Рошаль Wood",
+        "product_href": "https://divan.ru/product/tv-tumba-roshal-wood",
+        "product_new_price": "27 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "6%"
+    },
+    "14": {
+        "product_name": "ТВ-тумба Леман-2 Latte",
+        "product_href": "https://divan.ru/product/tv-tumba-leman-2-latte",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "20%"
+    },
+    "15": {
+        "product_name": "Комод Леванте-1 White",
+        "product_href": "https://divan.ru/product/komod-levante-1-white",
+        "product_new_price": "26 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "10%"
+    },
+    "16": {
+        "product_name": "Тумба прикроватная Тиффани Вудлайн Крем",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-tiffani",
+        "product_new_price": "7290руб.",
+        "product_old_price": "10 290руб.",
+        "product_discount": "29%"
+    },
+    "17": {
+        "product_name": "Комод Риальто-2 Wood",
+        "product_href": "https://divan.ru/product/komod-rialto-2-wood",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "49 990руб.",
+        "product_discount": "10%"
+    },
+    "18": {
+        "product_name": "Комод Лорэна Latte",
+        "product_href": "https://divan.ru/product/komod-lorena-latte",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "26 990руб.",
+        "product_discount": "18%"
+    },
+    "19": {
+        "product_name": "ТВ-тумба Йорген-1 Grey",
+        "product_href": "https://divan.ru/product/tv-tumba-jorgen-1-grey",
+        "product_new_price": "19 480руб.",
+        "product_old_price": "21 290руб.",
+        "product_discount": "8%"
+    },
+    "20": {
+        "product_name": "ТВ-тумба Монмарт Дуб Сонома",
+        "product_href": "https://divan.ru/product/tv-tumba-monmart-dub-sonoma",
+        "product_new_price": "15 990руб.",
+        "product_old_price": "21 990руб.",
+        "product_discount": "27%"
+    },
+    "21": {
+        "product_name": "ТВ-тумба Риальто-2 Wood",
+        "product_href": "https://divan.ru/product/tv-tumba-rialto-2-wood",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "36 990руб.",
+        "product_discount": "18%"
+    },
+    "22": {
+        "product_name": "Тумба прикроватная Рошаль Wood",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-roshal-wood",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "11 990руб.",
+        "product_discount": "8%"
+    },
+    "23": {
+        "product_name": "Комод Норд-2 Белый",
+        "product_href": "https://divan.ru/product/komod-nord-2-belyj",
+        "product_new_price": "30 690руб.",
+        "product_old_price": "34 490руб.",
+        "product_discount": "11%"
+    },
+    "24": {
+        "product_name": "ТВ-тумба Йорген-2 White",
+        "product_href": "https://divan.ru/product/tv-tumba-jorgen-2-white",
+        "product_new_price": "21 480руб.",
+        "product_old_price": "22 990руб.",
+        "product_discount": "6%"
+    },
+    "25": {
+        "product_name": "Комод Рошаль-1 Wood",
+        "product_href": "https://divan.ru/product/komod-roshal-1-wood",
+        "product_new_price": "39 990руб.",
+        "product_old_price": "45 990руб.",
+        "product_discount": "13%"
+    },
+    "26": {
+        "product_name": "Комод Монмарт Дуб Сонома",
+        "product_href": "https://divan.ru/product/komod-monmart-dub-sonoma",
+        "product_new_price": "26 990руб.",
+        "product_old_price": "32 990руб.",
+        "product_discount": "18%"
+    },
+    "27": {
+        "product_name": "Тумба прикроватная Лорэна Black",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-lorena-black",
+        "product_new_price": "8990руб.",
+        "product_old_price": "10 990руб.",
+        "product_discount": "18%"
+    },
+    "28": {
+        "product_name": "Комод Риальто-1 Wood",
+        "product_href": "https://divan.ru/product/komod-rialto-1-wood",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "16%"
+    },
+    "29": {
+        "product_name": "ТВ-тумба Нордик-2 Dark",
+        "product_href": "https://divan.ru/product/tv-tumba-nordik-2-dark",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "12 990руб.",
+        "product_discount": "15%"
+    },
+    "30": {
+        "product_name": "Тумба прикроватная Норд Белый",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-nord-belyj",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "16 490руб.",
+        "product_discount": "9%"
+    },
+    "31": {
+        "product_name": "ТВ-тумба Скульт-1 Wood",
+        "product_href": "https://divan.ru/product/tv-tumba-skult-1-wood",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "26%"
+    },
+    "32": {
+        "product_name": "Комод Нордик-1 Scandi Plain",
+        "product_href": "https://divan.ru/product/komod-nordik-1-scandi-plain",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "20%"
+    },
+    "33": {
+        "product_name": "ТВ-тумба Хансен-1 White",
+        "product_href": "https://divan.ru/product/tv-tumba-hansen-1-white",
+        "product_new_price": "14 490руб.",
+        "product_old_price": "15 990руб.",
+        "product_discount": "9%"
+    },
+    "34": {
+        "product_name": "Обувница Тонхейм-2",
+        "product_href": "https://divan.ru/product/obuvnitsa-tonhejm-2",
+        "product_new_price": "7990руб.",
+        "product_old_price": "10 990руб.",
+        "product_discount": "27%"
+    },
+    "35": {
+        "product_name": "ТВ-тумба Лорэна Latte",
+        "product_href": "https://divan.ru/product/tv-tumba-lorena-latte",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "21 990руб.",
+        "product_discount": "22%"
+    },
+    "36": {
+        "product_name": "Тумба прикроватная Риальто Wood",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-rialto-wood",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "20%"
+    },
+    "37": {
+        "product_name": "ТВ-тумба Нордик-3 Kant",
+        "product_href": "https://divan.ru/product/tv-tumba-nordik-3-kant",
+        "product_new_price": "9990руб.",
+        "product_old_price": "11 990руб.",
+        "product_discount": "16%"
+    },
+    "38": {
+        "product_name": "Тумба прикроватная Ивейн Latte",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-latte",
+        "product_new_price": "6990руб.",
+        "product_old_price": "8740руб.",
+        "product_discount": "20%"
+    },
+    "39": {
+        "product_name": "ТВ-тумба Стелла Дуб Сонома",
+        "product_href": "https://divan.ru/product/tv-tumba-stella-dub-sonoma",
+        "product_new_price": "9990руб.",
+        "product_old_price": "12 990руб.",
+        "product_discount": "23%"
+    },
+    "40": {
+        "product_name": "ТВ-тумба Йорген-3 Grey",
+        "product_href": "https://divan.ru/product/tv-tumba-jorgen-3-grey",
+        "product_new_price": "22 980руб.",
+        "product_old_price": "25 290руб.",
+        "product_discount": "9%"
+    },
+    "41": {
+        "product_name": "Комод Лорэна Wood",
+        "product_href": "https://divan.ru/product/komod-lorena-wood",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "26 990руб.",
+        "product_discount": "18%"
+    },
+    "42": {
+        "product_name": "Тумба прикроватная Нордик Dark",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-nordik-dark",
+        "product_new_price": "6990руб.",
+        "product_old_price": "8990руб.",
+        "product_discount": "22%"
+    },
+    "43": {
+        "product_name": "Тумба прикроватная Лорэна Whitе",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-lorena-white",
+        "product_new_price": "7990руб.",
+        "product_old_price": "10 990руб.",
+        "product_discount": "27%"
+    },
+    "44": {
+        "product_name": "ТВ-тумба Нордик-1 Dark",
+        "product_href": "https://divan.ru/product/tv-tumba-nordik-1-dark",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "15 990руб.",
+        "product_discount": "18%"
+    },
+    "45": {
+        "product_name": "Комод Нордик-6 Dark",
+        "product_href": "https://divan.ru/product/komod-nordik-6-dark",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "17%"
+    },
+    "46": {
+        "product_name": "Комод Окленд-2 Дуб Ирландский",
+        "product_href": "https://divan.ru/product/komod-oklend-2-dub-irlandskij",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "17 990руб.",
+        "product_discount": "22%"
+    },
+    "47": {
+        "product_name": "ТВ-тумба Хансен-1 Grey",
+        "product_href": "https://divan.ru/product/tv-tumba-hansen-1-grey",
+        "product_new_price": "14 490руб.",
+        "product_old_price": "15 990руб.",
+        "product_discount": "9%"
+    },
+    "48": {
+        "product_name": "ТВ-тумба Нордик-2 Scandi Plain",
+        "product_href": "https://divan.ru/product/tv-tumba-nordik-2-scandi-plain",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "12 990руб.",
+        "product_discount": "15%"
+    },
+    "49": {
+        "product_name": "ТВ-тумба Лорэна Whitе",
+        "product_href": "https://divan.ru/product/tv-tumba-lorena-white",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "21 990руб.",
+        "product_discount": "22%"
+    },
+    "50": {
+        "product_name": "Тумба прикроватная Мостар White",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-mostar-white",
+        "product_new_price": "3990руб.",
+        "product_old_price": "4990руб.",
+        "product_discount": "20%"
+    },
+    "51": {
+        "product_name": "Комод Стелла-2 Дуб Сонома",
+        "product_href": "https://divan.ru/product/komod-stella-2-dub-sonoma",
+        "product_new_price": "5990руб.",
+        "product_old_price": "6990руб.",
+        "product_discount": "14%"
+    },
+    "52": {
+        "product_name": "ТВ-тумба Равенна Plain",
+        "product_href": "https://divan.ru/product/tv-tumba-ravenna-plain",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "26 990руб.",
+        "product_discount": "14%"
+    },
+    "53": {
+        "product_name": "ТВ-тумба Магеллан Сосна Винтаж",
+        "product_href": "https://divan.ru/product/tv-tumba-magellan-sosna-vintaj",
+        "product_new_price": "15 190руб.",
+        "product_old_price": "18 690руб.",
+        "product_discount": "18%"
+    },
+    "54": {
+        "product_name": "Комод Лорэна Whitе",
+        "product_href": "https://divan.ru/product/komod-lorena-white",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "26 990руб.",
+        "product_discount": "18%"
+    },
+    "55": {
+        "product_name": "Тумба прикроватная Ивейн Double Latte",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-double-latte",
+        "product_new_price": "7990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "20%"
+    },
+    "56": {
+        "product_name": "ТВ-тумба Хельга Белый",
+        "product_href": "https://divan.ru/product/tv-tumba-helga-belyj",
+        "product_new_price": "11 490руб.",
+        "product_old_price": "15 490руб.",
+        "product_discount": "25%"
+    },
+    "57": {
+        "product_name": "Офисная тумба Нордик-7 Scandi Plain",
+        "product_href": "https://divan.ru/product/ofisnaya-tumba-nordik-7-scandi-plain",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "15 990руб.",
+        "product_discount": "18%"
+    },
+    "58": {
+        "product_name": "Комод Монблан-1 Аквамарин",
+        "product_href": "https://divan.ru/product/komod-monblan-1-akvamarin",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "12%"
+    },
+    "59": {
+        "product_name": "Тумба прикроватная Лофт Дуб Золотистый",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-loft-dub-zolotistyj",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "17%"
+    },
+    "60": {
+        "product_name": "Тумба прикроватная Норд Дуб Золотой",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-nord-dub-zolotoj",
+        "product_new_price": "14 690руб.",
+        "product_old_price": "16 490руб.",
+        "product_discount": "10%"
+    },
+    "61": {
+        "product_name": "Тумба прикроватная Ивейн Double Scandi Simple",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-double-scandi-simple",
+        "product_new_price": "7990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "20%"
+    },
+    "62": {
+        "product_name": "ТВ-тумба Хансен-2 White",
+        "product_href": "https://divan.ru/product/tv-tumba-hansen-2-white",
+        "product_new_price": "16 490руб.",
+        "product_old_price": "17 990руб.",
+        "product_discount": "8%"
+    },
+    "63": {
+        "product_name": "Тумба прикроватная Саксан White",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-saksan",
+        "product_new_price": "2990руб.",
+        "product_old_price": "3990руб.",
+        "product_discount": "25%"
+    },
+    "64": {
+        "product_name": "Тумба прикроватная Орланд Wood",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-orland-wood",
+        "product_new_price": "7990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "20%"
+    },
+    "65": {
+        "product_name": "Тумба прикроватная Ивейн Double Grey",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-double-grey",
+        "product_new_price": "7990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "20%"
+    },
+    "66": {
+        "product_name": "Обувница Кристэн-1 Белая",
+        "product_href": "https://divan.ru/product/obuvnitsa-kristen-1-belaya",
+        "product_new_price": "6990руб.",
+        "product_old_price": "8390руб.",
+        "product_discount": "16%"
+    },
+    "67": {
+        "product_name": "Тумба прикроватная Ивейн Double Wood Simple",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-double-wood-simple",
+        "product_new_price": "7990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "20%"
+    },
+    "68": {
+        "product_name": "Тумба прикроватная Стелла Дуб Сонома",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-stella-dub-sonoma",
+        "product_new_price": "4490руб.",
+        "product_old_price": "4990руб.",
+        "product_discount": "10%"
+    },
+    "69": {
+        "product_name": "Тумба прикроватная Лорэна Wood",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-lorena-wood",
+        "product_new_price": "8990руб.",
+        "product_old_price": "10 990руб.",
+        "product_discount": "18%"
+    },
+    "70": {
+        "product_name": "Тумба прикроватная Бриджфорд White",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-bridjford-white",
+        "product_new_price": "7690руб.",
+        "product_old_price": "8990руб.",
+        "product_discount": "14%"
+    },
+    "71": {
+        "product_name": "Комод Нордик-1 Light",
+        "product_href": "https://divan.ru/product/komod-nordik-1-light",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "20%"
+    },
+    "72": {
+        "product_name": "Тумба прикроватная Окленд Белый",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-oklend-belyj",
+        "product_new_price": "5990руб.",
+        "product_old_price": "6990руб.",
+        "product_discount": "14%"
+    },
+    "73": {
+        "product_name": "ТВ-тумба Тонхейм",
+        "product_href": "https://divan.ru/product/tv-tumba-tonhejm",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "25%"
+    },
+    "74": {
+        "product_name": "ТВ-тумба Лорэна Black",
+        "product_href": "https://divan.ru/product/tv-tumba-lorena-black",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "21 990руб.",
+        "product_discount": "22%"
+    },
+    "75": {
+        "product_name": "ТВ-тумба Техно Дуб Золотой",
+        "product_href": "https://divan.ru/product/tv-tumba-tehno-dub-zolotoj",
+        "product_new_price": "21 290руб.",
+        "product_old_price": "23 490руб.",
+        "product_discount": "9%"
+    },
+    "76": {
+        "product_name": "Тумба прикроватная Тонхейм",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-tonhejm",
+        "product_new_price": "8990руб.",
+        "product_old_price": "11 990руб.",
+        "product_discount": "25%"
+    },
+    "77": {
+        "product_name": "Комод Сальвадор-2 Wood",
+        "product_href": "https://divan.ru/product/komod-salvador-2-wood",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "28 990руб.",
+        "product_discount": "17%"
+    },
+    "78": {
+        "product_name": "ТВ-тумба Хансен-2 Grey",
+        "product_href": "https://divan.ru/product/tv-tumba-hansen-2-grey",
+        "product_new_price": "16 690руб.",
+        "product_old_price": "17 990руб.",
+        "product_discount": "7%"
+    },
+    "79": {
+        "product_name": "Тумба прикроватная Ивейн Scandi Simple",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-scandi-simple",
+        "product_new_price": "6990руб.",
+        "product_old_price": "8740руб.",
+        "product_discount": "20%"
+    },
+    "80": {
+        "product_name": "ТВ-тумба Нордик-2 Light",
+        "product_href": "https://divan.ru/product/tv-tumba-nordik-2-light",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "12 990руб.",
+        "product_discount": "15%"
+    },
+    "81": {
+        "product_name": "Комод Лорэна Black",
+        "product_href": "https://divan.ru/product/komod-lorena-black",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "26 990руб.",
+        "product_discount": "18%"
+    },
+    "82": {
+        "product_name": "Обувница Кристэн-2 Белая",
+        "product_href": "https://divan.ru/product/obuvnitsa-kristen-2-belaya",
+        "product_new_price": "5990руб.",
+        "product_old_price": "7190руб.",
+        "product_discount": "16%"
+    },
+    "83": {
+        "product_name": "Обувница Техно Дуб Крафт Белый",
+        "product_href": "https://divan.ru/product/obuvnitsa-tehno-dub-kraft-belyj",
+        "product_new_price": "14 690руб.",
+        "product_old_price": "16 290руб.",
+        "product_discount": "9%"
+    },
+    "84": {
+        "product_name": "ТВ-тумба Нордик-1 Scandi Plain",
+        "product_href": "https://divan.ru/product/tv-tumba-nordik-1-scandi-plain",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "15 990руб.",
+        "product_discount": "18%"
+    },
+    "85": {
+        "product_name": "Тумба прикроватная Ивейн Iron Double Latte",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-iron-double-latte",
+        "product_new_price": "9990руб.",
+        "product_old_price": "12 490руб.",
+        "product_discount": "20%"
+    },
+    "86": {
+        "product_name": "Тумба прикроватная Лорэна Latte",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-lorena-latte",
+        "product_new_price": "8990руб.",
+        "product_old_price": "10 990руб.",
+        "product_discount": "18%"
+    },
+    "87": {
+        "product_name": "Тумба прикроватная Бриджфорд Latte",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-bridjford-latte",
+        "product_new_price": "7690руб.",
+        "product_old_price": "8990руб.",
+        "product_discount": "14%"
+    },
+    "88": {
+        "product_name": "Комод Гритон-3 Light",
+        "product_href": "https://divan.ru/product/komod-griton-3-light",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "15%"
+    },
+    "89": {
+        "product_name": "Комод Теджонс-4 Deco Santiago",
+        "product_href": "https://divan.ru/product/komod-tedjons-4-05-santyago",
+        "product_new_price": "46 990руб.",
+        "product_old_price": "56 990руб.",
+        "product_discount": "17%"
+    },
+    "90": {
+        "product_name": "ТВ-тумба Нордик-3 Scandi Plain",
+        "product_href": "https://divan.ru/product/tv-tumba-nordik-3-scandi-plain",
+        "product_new_price": "9990руб.",
+        "product_old_price": "11 990руб.",
+        "product_discount": "16%"
+    },
+    "91": {
+        "product_name": "Обувница Монмарт Белый",
+        "product_href": "https://divan.ru/product/obuvnitsa-monmart-belyj",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "25%"
+    },
+    "92": {
+        "product_name": "Тумба прикроватная Монмарт Белый",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-monmart-belyj",
+        "product_new_price": "7990руб.",
+        "product_old_price": "10 990руб.",
+        "product_discount": "27%"
+    },
+    "93": {
+        "product_name": "Тумба прикроватная Ивейн Open Wood Simple",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-open-wood-simple",
+        "product_new_price": "5990руб.",
+        "product_old_price": "7190руб.",
+        "product_discount": "16%"
+    },
+    "94": {
+        "product_name": "Обувница Техно Дуб Золотой",
+        "product_href": "https://divan.ru/product/obuvnitsa-tehno-dub-zolotoj",
+        "product_new_price": "14 490руб.",
+        "product_old_price": "16 290руб.",
+        "product_discount": "11%"
+    },
+    "95": {
+        "product_name": "ТВ-тумба Хансен-3 White",
+        "product_href": "https://divan.ru/product/tv-tumba-hansen-3-white",
+        "product_new_price": "18 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "5%"
+    },
+    "96": {
+        "product_name": "Тумба прикроватная Ивейн Open White",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-open-white",
+        "product_new_price": "5990руб.",
+        "product_old_price": "7190руб.",
+        "product_discount": "16%"
+    },
+    "97": {
+        "product_name": "Комод Теджонс-4 Deco Milk",
+        "product_href": "https://divan.ru/product/komod-tedjons-4-05-milk",
+        "product_new_price": "46 990руб.",
+        "product_old_price": "56 990руб.",
+        "product_discount": "17%"
+    },
+    "98": {
+        "product_name": "Обувница Тонхейм-1",
+        "product_href": "https://divan.ru/product/obuvnitsa-tonhejm-1",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "30%"
+    },
+    "99": {
+        "product_name": "Комод Монблан-4 Графит",
+        "product_href": "https://divan.ru/product/komod-monblan-4-grafit",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "53 990руб.",
+        "product_discount": "16%"
+    },
+    "100": {
+        "product_name": "Комод Теджонс-4 Art Milk",
+        "product_href": "https://divan.ru/product/komod-tedjons-4-04-milk",
+        "product_new_price": "46 990руб.",
+        "product_old_price": "56 990руб.",
+        "product_discount": "17%"
+    },
+    "101": {
+        "product_name": "Тумба прикроватная Равенна Plain",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ravenna-plain",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "11 990руб.",
+        "product_discount": "8%"
+    },
+    "102": {
+        "product_name": "Комод Монмарт Белый",
+        "product_href": "https://divan.ru/product/komod-monmart-belyj",
+        "product_new_price": "26 990руб.",
+        "product_old_price": "32 990руб.",
+        "product_discount": "18%"
+    },
+    "103": {
+        "product_name": "Тумба прикроватная Ивейн Iron Latte",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-iron-latte",
+        "product_new_price": "8990руб.",
+        "product_old_price": "11 240руб.",
+        "product_discount": "20%"
+    },
+    "104": {
+        "product_name": "Офисная тумба Нордик-7 Dark",
+        "product_href": "https://divan.ru/product/ofisnaya-tumba-nordik-7-dark",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "15 990руб.",
+        "product_discount": "18%"
+    },
+    "105": {
+        "product_name": "Тумба прикроватная Ришон White",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-rishon-white",
+        "product_new_price": "6990руб.",
+        "product_old_price": "8990руб.",
+        "product_discount": "22%"
+    },
+    "106": {
+        "product_name": "Тумба прикроватная Ивейн Double White",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-double-white",
+        "product_new_price": "7990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "20%"
+    },
+    "107": {
+        "product_name": "Комод Нордик-6 Light",
+        "product_href": "https://divan.ru/product/komod-nordik-6-light",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "26%"
+    },
+    "108": {
+        "product_name": "Тумба прикроватная Ивейн Iron Wood Simple",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-iron-wood-simple",
+        "product_new_price": "8990руб.",
+        "product_old_price": "11 240руб.",
+        "product_discount": "20%"
+    },
+    "109": {
+        "product_name": "ТВ-тумба Скульт-2 Wood",
+        "product_href": "https://divan.ru/product/tv-tumba-skult-2-wood",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "28%"
+    },
+    "110": {
+        "product_name": "ТВ-тумба Хорстен Дуб Вотан",
+        "product_href": "https://divan.ru/product/tv-tumba-horsten-dub-votan",
+        "product_new_price": "12 290руб.",
+        "product_old_price": "16 290руб.",
+        "product_discount": "24%"
+    },
+    "111": {
+        "product_name": "Комод Теджонс-3 Art Grafit",
+        "product_href": "https://divan.ru/product/komod-tedjons-3-04-grafit",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "13%"
+    },
+    "112": {
+        "product_name": "Тумба прикроватная Ивейн Iron Open Wood Simple",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-iron-open-wood-simple",
+        "product_new_price": "7990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "20%"
+    },
+    "113": {
+        "product_name": "ТВ-тумба Монмарт Белый",
+        "product_href": "https://divan.ru/product/tv-tumba-monmart-belyj",
+        "product_new_price": "15 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "20%"
+    },
+    "114": {
+        "product_name": "ТВ-тумба Линц Light",
+        "product_href": "https://divan.ru/product/tv-tumba-linc-light",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "17 990руб.",
+        "product_discount": "22%"
+    },
+    "115": {
+        "product_name": "ТВ-тумба Хансен-3 Grey",
+        "product_href": "https://divan.ru/product/tv-tumba-hansen-3-grey",
+        "product_new_price": "18 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "5%"
+    },
+    "116": {
+        "product_name": "Тумба прикроватная Ивейн White",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-white",
+        "product_new_price": "6990руб.",
+        "product_old_price": "8740руб.",
+        "product_discount": "20%"
+    },
+    "117": {
+        "product_name": "Тумба прикроватная Стелла Белый",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-stella-belyj",
+        "product_new_price": "4490руб.",
+        "product_old_price": "4990руб.",
+        "product_discount": "10%"
+    },
+    "118": {
+        "product_name": "Комод Окленд-1 Дуб Ирландский",
+        "product_href": "https://divan.ru/product/komod-oklend-1-dub-irlandskij",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "23%"
+    },
+    "119": {
+        "product_name": "Комод Сальвадор-1 Wood",
+        "product_href": "https://divan.ru/product/komod-salvador-1-wood",
+        "product_new_price": "15 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "20%"
+    },
+    "120": {
+        "product_name": "Комод Нордик-1 Dark",
+        "product_href": "https://divan.ru/product/komod-nordik-1-dark",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "20%"
+    },
+    "121": {
+        "product_name": "Комод Шевертон",
+        "product_href": "https://divan.ru/product/komod-sheverton",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "11%"
+    },
+    "122": {
+        "product_name": "Комод Стелла-2 Белый",
+        "product_href": "https://divan.ru/product/komod-stella-2-belyj",
+        "product_new_price": "5990руб.",
+        "product_old_price": "6990руб.",
+        "product_discount": "14%"
+    },
+    "123": {
+        "product_name": "Комод Теджонс-4 Art Grafit",
+        "product_href": "https://divan.ru/product/komod-tedjons-4-04-grafit",
+        "product_new_price": "46 990руб.",
+        "product_old_price": "56 990руб.",
+        "product_discount": "17%"
+    },
+    "124": {
+        "product_name": "Комод Теджонс-1 Deco Santiago",
+        "product_href": "https://divan.ru/product/komod-tedjons-1-05-santyago",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "17%"
+    },
+    "125": {
+        "product_name": "ТВ-тумба Нордик-1 Light",
+        "product_href": "https://divan.ru/product/tv-tumba-nordik-1-light",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "15 990руб.",
+        "product_discount": "18%"
+    },
+    "126": {
+        "product_name": "Тумба прикроватная Сальвадор Wood",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-salvador-wood",
+        "product_new_price": "6990руб.",
+        "product_old_price": "7990руб.",
+        "product_discount": "12%"
+    },
+    "127": {
+        "product_name": "Комод Окленд-2 Белый",
+        "product_href": "https://divan.ru/product/komod-oklend-2-belyj",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "17 990руб.",
+        "product_discount": "22%"
+    },
+    "128": {
+        "product_name": "ТВ-тумба Стелла Белый",
+        "product_href": "https://divan.ru/product/tv-tumba-stella-belyj",
+        "product_new_price": "9990руб.",
+        "product_old_price": "12 990руб.",
+        "product_discount": "23%"
+    },
+    "129": {
+        "product_name": "Тумба прикроватная Ивейн Iron Open White",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-iron-open-white",
+        "product_new_price": "7990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "20%"
+    },
+    "130": {
+        "product_name": "ТВ-тумба Нордик-3 Dark",
+        "product_href": "https://divan.ru/product/tv-tumba-nordik-3-dark",
+        "product_new_price": "9990руб.",
+        "product_old_price": "11 990руб.",
+        "product_discount": "16%"
+    },
+    "131": {
+        "product_name": "ТВ-тумба Леман-1 Marble",
+        "product_href": "https://divan.ru/product/tv-tumba-leman-marble",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "22 990руб.",
+        "product_discount": "21%"
+    },
+    "132": {
+        "product_name": "ТВ-тумба Гритон-4 Light",
+        "product_href": "https://divan.ru/product/tv-tumba-griton-4-light",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "15 990руб.",
+        "product_discount": "18%"
+    },
+    "133": {
+        "product_name": "Комод Теджонс-4 Deco Grafit",
+        "product_href": "https://divan.ru/product/komod-tedjons-4-05-grafit",
+        "product_new_price": "46 990руб.",
+        "product_old_price": "56 990руб.",
+        "product_discount": "17%"
+    },
+    "134": {
+        "product_name": "Комод Теджонс-1 Art Milk",
+        "product_href": "https://divan.ru/product/komod-tedjons-1-04-milk",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "17%"
+    },
+    "135": {
+        "product_name": "Комод Тонхейм-2",
+        "product_href": "https://divan.ru/product/komod-tonhejm-2",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "22 990руб.",
+        "product_discount": "26%"
+    },
+    "136": {
+        "product_name": "ТВ-тумба Гритон-1 Light",
+        "product_href": "https://divan.ru/product/tv-tumba-griton-1-light",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "17%"
+    },
+    "137": {
+        "product_name": "Тумба прикроватная Ивейн Iron Double Wood Simple",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-iron-double-wood-simple",
+        "product_new_price": "9990руб.",
+        "product_old_price": "12 490руб.",
+        "product_discount": "20%"
+    },
+    "138": {
+        "product_name": "ТВ-тумба Окленд Дуб Ирландский",
+        "product_href": "https://divan.ru/product/tv-tumba-oklend-dub-irlandskij",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "29%"
+    },
+    "139": {
+        "product_name": "ТВ-тумба Гритон-3 Light",
+        "product_href": "https://divan.ru/product/tv-tumba-griton-3-light",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "13 990руб.",
+        "product_discount": "21%"
+    },
+    "140": {
+        "product_name": "ТВ-тумба Скульт-3 Wood",
+        "product_href": "https://divan.ru/product/tv-tumba-skult-3-wood",
+        "product_new_price": "18 990руб.",
+        "product_old_price": "25 990руб.",
+        "product_discount": "26%"
+    },
+    "141": {
+        "product_name": "ТВ-тумба Нордик-3 Light",
+        "product_href": "https://divan.ru/product/tv-tumba-nordik-3-light",
+        "product_new_price": "9990руб.",
+        "product_old_price": "11 990руб.",
+        "product_discount": "16%"
+    },
+    "142": {
+        "product_name": "Комод Монблан-1 Графит",
+        "product_href": "https://divan.ru/product/komod-monblan-1-grafit",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "12%"
+    },
+    "143": {
+        "product_name": "Комод Окленд-1 Белый",
+        "product_href": "https://divan.ru/product/komod-oklend-1-belyj",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "23%"
+    },
+    "144": {
+        "product_name": "ТВ-тумба Линц Brown",
+        "product_href": "https://divan.ru/product/tv-tumba-linc-brown",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "17 990руб.",
+        "product_discount": "22%"
+    },
+    "145": {
+        "product_name": "ТВ-тумба Окленд Белый",
+        "product_href": "https://divan.ru/product/tv-tumba-oklend-belyj",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "29%"
+    },
+    "146": {
+        "product_name": "Тумба прикроватная Нордик Scandi Plain",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-nordik-scandi-plain",
+        "product_new_price": "6990руб.",
+        "product_old_price": "8990руб.",
+        "product_discount": "22%"
+    },
+    "147": {
+        "product_name": "ТВ-тумба Шевертон",
+        "product_href": "https://divan.ru/product/tv-tumba-sheverton",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "13 990руб.",
+        "product_discount": "14%"
+    },
+    "148": {
+        "product_name": "Тумба прикроватная Окленд Дуб Ирландский",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-oklend-dub-irlandskij",
+        "product_new_price": "5990руб.",
+        "product_old_price": "6990руб.",
+        "product_discount": "14%"
+    },
+    "149": {
+        "product_name": "Тумба прикроватная Гритон Light",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-griton-light",
+        "product_new_price": "6990руб.",
+        "product_old_price": "8990руб.",
+        "product_discount": "22%"
+    },
+    "150": {
+        "product_name": "Тумба прикроватная Шевертон",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-sheverton",
+        "product_new_price": "6490руб.",
+        "product_old_price": "7990руб.",
+        "product_discount": "18%"
+    },
+    "151": {
+        "product_name": "ТВ-тумба Техно Дуб Крафт Белый",
+        "product_href": "https://divan.ru/product/tv-tumba-tehno-dub-kraft-belyj",
+        "product_new_price": "21 490руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "10%"
+    },
+    "152": {
+        "product_name": "Комод Нордик-6 Scandi Plain",
+        "product_href": "https://divan.ru/product/komod-nordik-6-scandi-plain",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "17%"
+    },
+    "153": {
+        "product_name": "Тумба прикроватная Нордик Light",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-nordik-light",
+        "product_new_price": "6990руб.",
+        "product_old_price": "8990руб.",
+        "product_discount": "22%"
+    },
+    "154": {
+        "product_name": "Тумба прикроватная Монмарт Дуб Сонома",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-monmart-dub-sonoma",
+        "product_new_price": "8490руб.",
+        "product_old_price": "10 990руб.",
+        "product_discount": "22%"
+    },
+    "155": {
+        "product_name": "Офисная тумба Нордик-7 Light",
+        "product_href": "https://divan.ru/product/ofisnaya-tumba-nordik-7-light",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "15 990руб.",
+        "product_discount": "18%"
+    },
+    "156": {
+        "product_name": "Комод Монблан-3 Графит",
+        "product_href": "https://divan.ru/product/komod-monblan-3-grafit",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "28 990руб.",
+        "product_discount": "13%"
+    },
+    "157": {
+        "product_name": "Тумба прикроватная Ивейн Iron Open Grey",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-iron-open-grey",
+        "product_new_price": "7990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "20%"
+    },
+    "158": {
+        "product_name": "ТВ-тумба Ливорно-4 Панакота",
+        "product_href": "https://divan.ru/product/tv-tumba-livorno-4-panakota",
+        "product_new_price": "17 480руб.",
+        "product_old_price": "21 690руб.",
+        "product_discount": "19%"
+    },
+    "159": {
+        "product_name": "Комод Теджонс-1 Art Aquamarine",
+        "product_href": "https://divan.ru/product/komod-tedjons-1-04-akvamarin",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "17%"
+    },
+    "160": {
+        "product_name": "Комод Теджонс-3 Deco Aquamarine",
+        "product_href": "https://divan.ru/product/komod-tedjons-3-05-akvamarin",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "13%"
+    },
+    "161": {
+        "product_name": "Тумба прикроватная Ивейн Open Grey",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-open-grey",
+        "product_new_price": "5990руб.",
+        "product_old_price": "7190руб.",
+        "product_discount": "16%"
+    },
+    "162": {
+        "product_name": "Тумба прикроватная Ивейн Grey",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-grey",
+        "product_new_price": "6990руб.",
+        "product_old_price": "8740руб.",
+        "product_discount": "20%"
+    },
+    "163": {
+        "product_name": "Тумба прикроватная Мостар Grey",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-mostar-grey",
+        "product_new_price": "3990руб.",
+        "product_old_price": "4990руб.",
+        "product_discount": "20%"
+    },
+    "164": {
+        "product_name": "Тумба прикроватная Ивейн Iron Open Latte",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-iron-open-latte",
+        "product_new_price": "7990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "20%"
+    },
+    "165": {
+        "product_name": "ТВ-тумба Хайдер Дуб Тортуга",
+        "product_href": "https://divan.ru/product/tv-tumba-hajder-dub-tortuga",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "29%"
+    },
+    "166": {
+        "product_name": "Тумба прикроватная Ивейн Open Latte",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-open-latte",
+        "product_new_price": "5990руб.",
+        "product_old_price": "7190руб.",
+        "product_discount": "16%"
+    },
+    "167": {
+        "product_name": "Обувница Хельга Белый",
+        "product_href": "https://divan.ru/product/obuvnitsa-helga-belyj",
+        "product_new_price": "5990руб.",
+        "product_old_price": "7990руб.",
+        "product_discount": "25%"
+    },
+    "168": {
+        "product_name": "ТВ-тумба Монблан-1 Милк",
+        "product_href": "https://divan.ru/product/tv-tumba-monblan-1-milk",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "12%"
+    },
+    "169": {
+        "product_name": "ТВ-тумба Скульт-4 Wood",
+        "product_href": "https://divan.ru/product/tv-tumba-skult-4-wood",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "28%"
+    },
+    "170": {
+        "product_name": "ТВ-тумба Монблан-1 Графит",
+        "product_href": "https://divan.ru/product/tv-tumba-monblan-1-grafit",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "12%"
+    },
+    "171": {
+        "product_name": "Комод Модерн-2 Latte",
+        "product_href": "https://divan.ru/product/komod-modern-2-latte",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "69 990руб.",
+        "product_discount": "14%"
+    },
+    "172": {
+        "product_name": "ТВ-тумба Теджонс Art Milk",
+        "product_href": "https://divan.ru/product/tv-tumba-tedjons-04-milk",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "14%"
+    },
+    "173": {
+        "product_name": "Комод Лофт Дуб Золотистый",
+        "product_href": "https://divan.ru/product/komod-loft-dub-zolotistyj",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "35 990руб.",
+        "product_discount": "16%"
+    },
+    "174": {
+        "product_name": "ТВ-тумба Лофт Дуб Золотистый",
+        "product_href": "https://divan.ru/product/tv-tumba-loft-dub-zolotistyj",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "16%"
+    },
+    "175": {
+        "product_name": "Тумба прикроватная Монблан-1 Сантьяго",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-monblan-1-santyago",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "13 990руб.",
+        "product_discount": "14%"
+    },
+    "176": {
+        "product_name": "Комод Монблан-4 Аквамарин",
+        "product_href": "https://divan.ru/product/komod-monblan-4-akvamarin",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "53 990руб.",
+        "product_discount": "16%"
+    },
+    "177": {
+        "product_name": "Комод Теджонс-3 Deco Grafit",
+        "product_href": "https://divan.ru/product/komod-tedjons-3-05-grafit",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "13%"
+    },
+    "178": {
+        "product_name": "Тумба прикроватная Монблан-1 Графит",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-monblan-1-grafit",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "13 990руб.",
+        "product_discount": "14%"
+    },
+    "179": {
+        "product_name": "ТВ-тумба Теджонс Deco Aquamarine",
+        "product_href": "https://divan.ru/product/tv-tumba-tedjons-05-akvamarin",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "14%"
+    },
+    "180": {
+        "product_name": "Комод Теджонс-3 Deco Santiago",
+        "product_href": "https://divan.ru/product/komod-tedjons-3-05-santyago",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "13%"
+    },
+    "181": {
+        "product_name": "Комод Теджонс-1 Deco Aquamarine",
+        "product_href": "https://divan.ru/product/komod-tedjons-1-05-akvamarin",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "17%"
+    },
+    "182": {
+        "product_name": "ТВ-тумба Теджонс Deco Santiago",
+        "product_href": "https://divan.ru/product/tv-tumba-tedjons-05-santyago",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "14%"
+    },
+    "183": {
+        "product_name": "Комод Теджонс-3 Deco Milk",
+        "product_href": "https://divan.ru/product/komod-tedjons-3-05-milk",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "13%"
+    },
+    "184": {
+        "product_name": "Тумба прикроватная Теджонс Art Grafit",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-tedjons-04-grafit",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "13%"
+    },
+    "185": {
+        "product_name": "ТВ-тумба Монблан-1 Аквамарин",
+        "product_href": "https://divan.ru/product/tv-tumba-monblan-1-akvamarin",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "12%"
+    },
+    "186": {
+        "product_name": "ТВ-тумба Теджонс Art Santiago",
+        "product_href": "https://divan.ru/product/tv-tumba-tedjons-04-santyago",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "14%"
+    },
+    "187": {
+        "product_name": "Комод Теджонс-4 Art Aquamarine",
+        "product_href": "https://divan.ru/product/komod-tedjons-4-04-akvamarin",
+        "product_new_price": "46 990руб.",
+        "product_old_price": "56 990руб.",
+        "product_discount": "17%"
+    },
+    "188": {
+        "product_name": "Комод Монблан-1 Сантьяго",
+        "product_href": "https://divan.ru/product/komod-monblan-1-santyago",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "12%"
+    },
+    "189": {
+        "product_name": "Комод Теджонс-4 Deco Aquamarine",
+        "product_href": "https://divan.ru/product/komod-tedjons-4-05-akvamarin",
+        "product_new_price": "46 990руб.",
+        "product_old_price": "56 990руб.",
+        "product_discount": "17%"
+    },
+    "190": {
+        "product_name": "Тумба прикроватная Монблан-1 Аквамарин",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-monblan-1-akvamarin",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "13 990руб.",
+        "product_discount": "14%"
+    },
+    "191": {
+        "product_name": "Комод Монблан-3 Аквамарин",
+        "product_href": "https://divan.ru/product/komod-monblan-3-akvamarin",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "28 990руб.",
+        "product_discount": "13%"
+    },
+    "192": {
+        "product_name": "Тумба прикроватная Теджонс Deco Santiago",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-tedjons-05-santyago",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "13%"
+    },
+    "193": {
+        "product_name": "Комод Монблан-3 Сантьяго",
+        "product_href": "https://divan.ru/product/komod-monblan-3-santyago",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "28 990руб.",
+        "product_discount": "13%"
+    },
+    "194": {
+        "product_name": "Комод Теджонс-1 Deco Grafit",
+        "product_href": "https://divan.ru/product/komod-tedjons-1-05-grafit",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "17%"
+    },
+    "195": {
+        "product_name": "Комод Теджонс-3 Art Milk",
+        "product_href": "https://divan.ru/product/komod-tedjons-3-04-milk",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "13%"
+    },
+    "196": {
+        "product_name": "Тумба прикроватная Теджонс Deco Aquamarine",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-tedjons-05-akvamarin",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "13%"
+    },
+    "197": {
+        "product_name": "ТВ-тумба Теджонс Art Grafit",
+        "product_href": "https://divan.ru/product/tv-tumba-tedjons-04-grafit",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "14%"
+    },
+    "198": {
+        "product_name": "Комод Монблан-4 Сантьяго",
+        "product_href": "https://divan.ru/product/komod-monblan-4-santyago",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "53 990руб.",
+        "product_discount": "16%"
+    },
+    "199": {
+        "product_name": "Комод Монблан-1 Милк",
+        "product_href": "https://divan.ru/product/komod-monblan-1-milk",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "12%"
+    },
+    "200": {
+        "product_name": "Комод Теджонс-4 Art Santiago",
+        "product_href": "https://divan.ru/product/komod-tedjons-4-04-santyago",
+        "product_new_price": "46 990руб.",
+        "product_old_price": "56 990руб.",
+        "product_discount": "17%"
+    },
+    "201": {
+        "product_name": "Комод Теджонс-1 Deco Milk",
+        "product_href": "https://divan.ru/product/komod-tedjons-1-05-milk",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "26 990руб.",
+        "product_discount": "11%"
+    },
+    "202": {
+        "product_name": "Тумба прикроватная Теджонс Art Milk",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-tedjons-04-milk",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "13%"
+    },
+    "203": {
+        "product_name": "ТВ-тумба Теджонс Art Aquamarine",
+        "product_href": "https://divan.ru/product/tv-tumba-tedjons-04-akvamarin",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "14%"
+    },
+    "204": {
+        "product_name": "Комод Теджонс-1 Art Santiago",
+        "product_href": "https://divan.ru/product/komod-tedjons-1-04-santyago",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "17%"
+    },
+    "205": {
+        "product_name": "Комод Монблан-3 Милк",
+        "product_href": "https://divan.ru/product/komod-monblan-3-milk",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "28 990руб.",
+        "product_discount": "13%"
+    },
+    "206": {
+        "product_name": "ТВ-тумба Теджонс Deco Grafit",
+        "product_href": "https://divan.ru/product/tv-tumba-tedjons-05-grafit",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "14%"
+    },
+    "207": {
+        "product_name": "ТВ-тумба Теджонс Deco Milk",
+        "product_href": "https://divan.ru/product/tv-tumba-tedjons-05-milk",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "14%"
+    },
+    "208": {
+        "product_name": "Тумба прикроватная Теджонс Art Aquamarine",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-tedjons-04-akvamarin",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "13%"
+    },
+    "209": {
+        "product_name": "Комод Теджонс-3 Art Santiago",
+        "product_href": "https://divan.ru/product/komod-tedjons-3-04-santyago",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "13%"
+    },
+    "210": {
+        "product_name": "Тумба прикроватная Теджонс Deco Milk",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-tedjons-05-milk",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "13%"
+    },
+    "211": {
+        "product_name": "Тумба прикроватная Теджонс Art Santiago",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-tedjons-04-santyago",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "13%"
+    },
+    "212": {
+        "product_name": "Комод Монблан-4 Милк",
+        "product_href": "https://divan.ru/product/komod-monblan-4-milk",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "53 990руб.",
+        "product_discount": "16%"
+    },
+    "213": {
+        "product_name": "ТВ-тумба Монблан-1 Сантьяго",
+        "product_href": "https://divan.ru/product/tv-tumba-monblan-1-santyago",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "12%"
+    },
+    "214": {
+        "product_name": "Комод Теджонс-3 Art Aquamarine",
+        "product_href": "https://divan.ru/product/komod-tedjons-3-04-akvamarin",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "13%"
+    },
+    "215": {
+        "product_name": "Комод Теджонс-1 Art Grafit",
+        "product_href": "https://divan.ru/product/komod-tedjons-1-04-grafit",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "17%"
+    },
+    "216": {
+        "product_name": "Тумба прикроватная Теджонс Deco Grafit",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-tedjons-05-grafit",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "13%"
+    },
+    "217": {
+        "product_name": "Тумба прикроватная Монблан-1 Милк",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-monblan-1-milk",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "13 990руб.",
+        "product_discount": "14%"
+    },
+    "218": {
+        "product_name": "Комод Теджонс-1 Time Art Milk",
+        "product_href": "https://divan.ru/product/komod-tedjons-1-time-art-milk",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "17%"
+    },
+    "219": {
+        "product_name": "Тумба прикроватная Теджонс Time Deco Milk",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-tedjons-time-deco-milk",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "13%"
+    },
+    "220": {
+        "product_name": "Комод Орланд-2 Wood",
+        "product_href": "https://divan.ru/product/komod-orland-2-wood",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "36 990руб.",
+        "product_discount": "18%"
+    },
+    "221": {
+        "product_name": "Комод Нордик-1 Kant",
+        "product_href": "https://divan.ru/product/komod-nordik-1-kant",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "13 990руб.",
+        "product_discount": "14%"
+    },
+    "222": {
+        "product_name": "Тумба прикроватная Нордик Kant",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-nordik-kant",
+        "product_new_price": "6990руб.",
+        "product_old_price": "7990руб.",
+        "product_discount": "12%"
+    },
+    "223": {
+        "product_name": "Комод Нордик-6 Kant",
+        "product_href": "https://divan.ru/product/komod-nordik-6-kant",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "17%"
+    },
+    "224": {
+        "product_name": "ТВ-тумба Нордик-1 Kant",
+        "product_href": "https://divan.ru/product/tv-tumba-nordik-1-kant",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "13%"
+    },
+    "225": {
+        "product_name": "ТВ-тумба Тиффани-2 Вудлайн Крем",
+        "product_href": "https://divan.ru/product/tv-tumba-tiffani-2",
+        "product_new_price": "12 690руб.",
+        "product_old_price": "17 690руб.",
+        "product_discount": "28%"
+    },
+    "226": {
+        "product_name": "Обувница Тиффани-1 Вудлайн Крем",
+        "product_href": "https://divan.ru/product/obuvnitsa-tiffani-1",
+        "product_new_price": "7690руб.",
+        "product_old_price": "10 690руб.",
+        "product_discount": "28%"
+    },
+    "227": {
+        "product_name": "Обувница Фортуна",
+        "product_href": "https://divan.ru/product/polka-dlya-obuvi-fortuna",
+        "product_new_price": "3490руб.",
+        "product_old_price": "4690руб.",
+        "product_discount": "25%"
+    },
+    "228": {
+        "product_name": "Тумба прикроватная Ивейн Wood Simple",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-wood-simple",
+        "product_new_price": "6990руб.",
+        "product_old_price": "8740руб.",
+        "product_discount": "20%"
+    },
+    "229": {
+        "product_name": "Тумба прикроватная Мостар Latte",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-mostar-latte",
+        "product_new_price": "3990руб.",
+        "product_old_price": "4990руб.",
+        "product_discount": "20%"
+    },
+    "230": {
+        "product_name": "Комод Динс-2 Scandi Plain",
+        "product_href": "https://divan.ru/product/komod-dins-2-scandi-plain",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "24 290руб.",
+        "product_discount": "25%"
+    },
+    "231": {
+        "product_name": "ТВ-тумба Нордик-2 Kant",
+        "product_href": "https://divan.ru/product/tv-tumba-nordik-2-kant",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "13 990руб.",
+        "product_discount": "14%"
+    },
+    "232": {
+        "product_name": "Комод Модерн-1 White",
+        "product_href": "https://divan.ru/product/komod-modern-1-white",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "36 990руб.",
+        "product_discount": "18%"
+    },
+    "233": {
+        "product_name": "ТВ-тумба Джаз",
+        "product_href": "https://divan.ru/product/tv-tumba-djaz",
+        "product_new_price": "9990руб.",
+        "product_old_price": "12 290руб.",
+        "product_discount": "18%"
+    },
+    "234": {
+        "product_name": "Комод Техно Дуб Крафт Белый",
+        "product_href": "https://divan.ru/product/komod-tehno-dub-kraft-belyj",
+        "product_new_price": "24 290руб.",
+        "product_old_price": "26 990руб.",
+        "product_discount": "10%"
+    },
+    "235": {
+        "product_name": "Обувница Оскар-2",
+        "product_href": "https://divan.ru/product/obuvnitsa-oskar-2",
+        "product_new_price": "4590руб.",
+        "product_old_price": "5690руб.",
+        "product_discount": "19%"
+    },
+    "236": {
+        "product_name": "Тумба прикроватная Оскар",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-oskar",
+        "product_new_price": "3590руб.",
+        "product_old_price": "4490руб.",
+        "product_discount": "20%"
+    },
+    "237": {
+        "product_name": "Комод Модерн-2 Grey",
+        "product_href": "https://divan.ru/product/komod-modern-2-grey",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "69 990руб.",
+        "product_discount": "14%"
+    },
+    "238": {
+        "product_name": "Комод Линате-1",
+        "product_href": "https://divan.ru/product/komod-linate-1",
+        "product_new_price": "27 490руб.",
+        "product_old_price": "38 290руб.",
+        "product_discount": "28%"
+    },
+    "239": {
+        "product_name": "ТВ-тумба Линате",
+        "product_href": "https://divan.ru/product/tv-tumba-linate",
+        "product_new_price": "17 490руб.",
+        "product_old_price": "24 290руб.",
+        "product_discount": "27%"
+    },
+    "240": {
+        "product_name": "ТВ-тумба Оскар-2",
+        "product_href": "https://divan.ru/product/tv-tumba-oskar-2",
+        "product_new_price": "9690руб.",
+        "product_old_price": "11 990руб.",
+        "product_discount": "19%"
+    },
+    "241": {
+        "product_name": "Комод Оскар-2",
+        "product_href": "https://divan.ru/product/komod-oskar-2",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "13 290руб.",
+        "product_discount": "17%"
+    },
+    "242": {
+        "product_name": "Тумба прикроватная Магеллан Сосна Винтаж",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-magellan-sosna-vintaj",
+        "product_new_price": "7290руб.",
+        "product_old_price": "8990руб.",
+        "product_discount": "18%"
+    },
+    "243": {
+        "product_name": "Комод Дизель-1 Веллингтон",
+        "product_href": "https://divan.ru/product/komod-dizel-1-vellington",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "17%"
+    },
+    "244": {
+        "product_name": "Тумба прикроватная Джаз",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-djaz",
+        "product_new_price": "4390руб.",
+        "product_old_price": "5490руб.",
+        "product_discount": "20%"
+    },
+    "245": {
+        "product_name": "Комод Магеллан-1 Сосна Винтаж",
+        "product_href": "https://divan.ru/product/komod-magellan-1-sosna-vintaj",
+        "product_new_price": "16 590руб.",
+        "product_old_price": "20 290руб.",
+        "product_discount": "18%"
+    },
+    "246": {
+        "product_name": "Тумба прикроватная Техно Дуб Крафт Белый",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-tehno-dub-kraft-belyj",
+        "product_new_price": "12 490руб.",
+        "product_old_price": "13 990руб.",
+        "product_discount": "10%"
+    },
+    "247": {
+        "product_name": "Обувница Оскар-3",
+        "product_href": "https://divan.ru/product/obuvnitsa-oskar-3",
+        "product_new_price": "5690руб.",
+        "product_old_price": "6990руб.",
+        "product_discount": "18%"
+    },
+    "248": {
+        "product_name": "ТВ-тумба Фиджи-2 Белый",
+        "product_href": "https://divan.ru/product/tv-tumba-fidji-2-belyj",
+        "product_new_price": "26 490руб.",
+        "product_old_price": "29 290руб.",
+        "product_discount": "9%"
+    },
+    "249": {
+        "product_name": "Тумба прикроватная Урбан",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-urban",
+        "product_new_price": "12 690руб.",
+        "product_old_price": "13 990руб.",
+        "product_discount": "9%"
+    },
+    "250": {
+        "product_name": "Комод Норд-1 Дуб Золотой",
+        "product_href": "https://divan.ru/product/komod-nord-1-dub-zolotoj",
+        "product_new_price": "27 490руб.",
+        "product_old_price": "30 490руб.",
+        "product_discount": "9%"
+    },
+    "251": {
+        "product_name": "Обувница Оскар-1",
+        "product_href": "https://divan.ru/product/obuvnitsa-oskar-1",
+        "product_new_price": "4890руб.",
+        "product_old_price": "5990руб.",
+        "product_discount": "18%"
+    },
+    "252": {
+        "product_name": "Комод Норд-2 Дуб Золотой",
+        "product_href": "https://divan.ru/product/komod-nord-2-dub-zolotoj",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "33 490руб.",
+        "product_discount": "10%"
+    },
+    "253": {
+        "product_name": "Комод Норд-1 Белый",
+        "product_href": "https://divan.ru/product/komod-nord-1-belyj",
+        "product_new_price": "27 990руб.",
+        "product_old_price": "30 990руб.",
+        "product_discount": "9%"
+    },
+    "254": {
+        "product_name": "ТВ-тумба Фиджи-2 Антрацит",
+        "product_href": "https://divan.ru/product/tv-tumba-fidji-2-antratsit",
+        "product_new_price": "26 490руб.",
+        "product_old_price": "29 290руб.",
+        "product_discount": "9%"
+    },
+    "255": {
+        "product_name": "Комод Магеллан-2 Сосна Винтаж",
+        "product_href": "https://divan.ru/product/komod-magellan-2-sosna-vintaj",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "24 690руб.",
+        "product_discount": "19%"
+    },
+    "256": {
+        "product_name": "Комод Оскар-3",
+        "product_href": "https://divan.ru/product/komod-oskar-3",
+        "product_new_price": "9290руб.",
+        "product_old_price": "11 490руб.",
+        "product_discount": "19%"
+    },
+    "257": {
+        "product_name": "ТВ-тумба Фиджи-1 Антрацит",
+        "product_href": "https://divan.ru/product/tv-tumba-fidji-1-antratsit",
+        "product_new_price": "23 690руб.",
+        "product_old_price": "26 490руб.",
+        "product_discount": "10%"
+    },
+    "258": {
+        "product_name": "ТВ-тумба Оскар-1",
+        "product_href": "https://divan.ru/product/tv-tumba-oskar-1",
+        "product_new_price": "13 390руб.",
+        "product_old_price": "16 290руб.",
+        "product_discount": "17%"
+    },
+    "259": {
+        "product_name": "ТВ-тумба Фиджи-1 Белый",
+        "product_href": "https://divan.ru/product/tv-tumba-fidji-1-belyj",
+        "product_new_price": "23 690руб.",
+        "product_old_price": "26 490руб.",
+        "product_discount": "10%"
+    },
+    "260": {
+        "product_name": "ТВ-тумба Тиффани-1 Вудлайн Крем",
+        "product_href": "https://divan.ru/product/tv-tumba-tiffani-1",
+        "product_new_price": "17 490руб.",
+        "product_old_price": "24 290руб.",
+        "product_discount": "27%"
+    },
+    "261": {
+        "product_name": "Комод Дизель-1 Энигма",
+        "product_href": "https://divan.ru/product/komod-dizel-1-enigma",
+        "product_new_price": "12 290руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "27%"
+    },
+    "262": {
+        "product_name": "Обувница Магеллан Сосна Винтаж",
+        "product_href": "https://divan.ru/product/obuvnitsa-magellan-sosna-vintaj",
+        "product_new_price": "6890руб.",
+        "product_old_price": "8490руб.",
+        "product_discount": "18%"
+    },
+    "263": {
+        "product_name": "ТВ-тумба Модерн Grey",
+        "product_href": "https://divan.ru/product/tv-tumba-modern-grey",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "34 990руб.",
+        "product_discount": "14%"
+    },
+    "264": {
+        "product_name": "Комод Модерн-2 White",
+        "product_href": "https://divan.ru/product/komod-modern-2-white",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "69 990руб.",
+        "product_discount": "14%"
+    },
+    "265": {
+        "product_name": "ТВ-тумба Модерн Latte",
+        "product_href": "https://divan.ru/product/tv-tumba-modern-latte",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "34 990руб.",
+        "product_discount": "14%"
+    },
+    "266": {
+        "product_name": "Комод Модерн-1 Grey",
+        "product_href": "https://divan.ru/product/komod-modern-1-grey",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "36 990руб.",
+        "product_discount": "18%"
+    },
+    "267": {
+        "product_name": "ТВ-тумба Модерн White",
+        "product_href": "https://divan.ru/product/tv-tumba-modern-white",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "34 990руб.",
+        "product_discount": "14%"
+    },
+    "268": {
+        "product_name": "ТВ-тумба Ливорно-2 Графит",
+        "product_href": "https://divan.ru/product/tv-tumba-livorno-2-grafit",
+        "product_new_price": "12 490руб.",
+        "product_old_price": "15 490руб.",
+        "product_discount": "19%"
+    },
+    "269": {
+        "product_name": "ТВ-тумба Гритон-4 Grafit",
+        "product_href": "https://divan.ru/product/tv-tumba-griton-4-grafit",
+        "product_new_price": "9990руб.",
+        "product_old_price": "10 990руб.",
+        "product_discount": "9%"
+    },
+    "270": {
+        "product_name": "Комод Модерн-1 Latte",
+        "product_href": "https://divan.ru/product/komod-modern-1-latte",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "36 990руб.",
+        "product_discount": "18%"
+    },
+    "271": {
+        "product_name": "Обувница Ливорно-1 Графит",
+        "product_href": "https://divan.ru/product/obuvnitsa-livorno-1-grafit",
+        "product_new_price": "8290руб.",
+        "product_old_price": "10 990руб.",
+        "product_discount": "24%"
+    },
+    "272": {
+        "product_name": "ТВ-тумба Скульт-2 Celtik",
+        "product_href": "https://divan.ru/product/tv-tumba-skult-2-celtik",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "17%"
+    },
+    "273": {
+        "product_name": "ТВ-тумба Леман-1 Honey",
+        "product_href": "https://divan.ru/product/tv-tumba-leman-honey",
+        "product_new_price": "18 990руб.",
+        "product_old_price": "21 840руб.",
+        "product_discount": "13%"
+    },
+    "274": {
+        "product_name": "Тумба прикроватная Ивейн Iron Open Honey",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-iron-open-honey",
+        "product_new_price": "6990руб.",
+        "product_old_price": "7830руб.",
+        "product_discount": "10%"
+    },
+    "275": {
+        "product_name": "Комод Фиджи Антрацит",
+        "product_href": "https://divan.ru/product/komod-fidji-antratsit",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "33 490руб.",
+        "product_discount": "10%"
+    },
+    "276": {
+        "product_name": "ТВ-тумба Гритон-3 Dark",
+        "product_href": "https://divan.ru/product/tv-tumba-griton-3-dark",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "13 990руб.",
+        "product_discount": "21%"
+    },
+    "277": {
+        "product_name": "ТВ-тумба Гритон-4 Dark",
+        "product_href": "https://divan.ru/product/tv-tumba-griton-4-dark",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "15 990руб.",
+        "product_discount": "18%"
+    },
+    "278": {
+        "product_name": "ТВ-тумба Компакт-1",
+        "product_href": "https://divan.ru/product/tv-tumba-kompakt-1",
+        "product_new_price": "26 490руб.",
+        "product_old_price": "30 690руб.",
+        "product_discount": "13%"
+    },
+    "279": {
+        "product_name": "Обувница Ливорно-3.2 Графит",
+        "product_href": "https://divan.ru/product/obuvnitsa-livorno-3-2-grafit",
+        "product_new_price": "8490руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "15%"
+    },
+    "280": {
+        "product_name": "ТВ-тумба Джаггер",
+        "product_href": "https://divan.ru/product/tv-tumba-djagger",
+        "product_new_price": "17 380руб.",
+        "product_old_price": "19 290руб.",
+        "product_discount": "9%"
+    },
+    "281": {
+        "product_name": "Комод Ливорно Панакота",
+        "product_href": "https://divan.ru/product/komod-livorno-panakota",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "15 290руб.",
+        "product_discount": "8%"
+    },
+    "282": {
+        "product_name": "Обувница Ливорно-2 Графит",
+        "product_href": "https://divan.ru/product/obuvnitsa-livorno-2-grafit",
+        "product_new_price": "14 490руб.",
+        "product_old_price": "19 290руб.",
+        "product_discount": "24%"
+    },
+    "283": {
+        "product_name": "Комод Лофт Дуб Кельтик",
+        "product_href": "https://divan.ru/product/komod-loft-dub-keltik",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "35 990руб.",
+        "product_discount": "16%"
+    },
+    "284": {
+        "product_name": "Комод Акварель Лайм",
+        "product_href": "https://divan.ru/product/komod-akvarel-lajm",
+        "product_new_price": "10 690руб.",
+        "product_old_price": "12 290руб.",
+        "product_discount": "13%"
+    },
+    "285": {
+        "product_name": "ТВ-тумба Гритон-1 Dark",
+        "product_href": "https://divan.ru/product/tv-tumba-griton-1-dark",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "17%"
+    },
+    "286": {
+        "product_name": "Тумба прикроватная Гритон Dark",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-griton-dark",
+        "product_new_price": "6990руб.",
+        "product_old_price": "8990руб.",
+        "product_discount": "22%"
+    },
+    "287": {
+        "product_name": "Обувница Ливорно-2 Панакота",
+        "product_href": "https://divan.ru/product/obuvnitsa-livorno-2-panakota",
+        "product_new_price": "14 490руб.",
+        "product_old_price": "19 290руб.",
+        "product_discount": "24%"
+    },
+    "288": {
+        "product_name": "Комод Гритон-3 Dark",
+        "product_href": "https://divan.ru/product/komod-griton-3-dark",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "15%"
+    },
+    "289": {
+        "product_name": "ТВ-тумба Ливорно-2 Панакота",
+        "product_href": "https://divan.ru/product/tv-tumba-livorno-2-panakota",
+        "product_new_price": "12 490руб.",
+        "product_old_price": "15 490руб.",
+        "product_discount": "19%"
+    },
+    "290": {
+        "product_name": "Обувница Ливорно-3.1 Графит",
+        "product_href": "https://divan.ru/product/obuvnitsa-livorno-3-1-grafit",
+        "product_new_price": "8490руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "15%"
+    },
+    "291": {
+        "product_name": "ТВ-тумба Ливорно-1 Панакота",
+        "product_href": "https://divan.ru/product/tv-tumba-livorno-1-panakota",
+        "product_new_price": "8690руб.",
+        "product_old_price": "10 990руб.",
+        "product_discount": "20%"
+    },
+    "292": {
+        "product_name": "ТВ-тумба Ливорно-1 Графит",
+        "product_href": "https://divan.ru/product/tv-tumba-livorno-1-grafit",
+        "product_new_price": "8690руб.",
+        "product_old_price": "10 990руб.",
+        "product_discount": "20%"
+    },
+    "293": {
+        "product_name": "Обувница Ливорно-3.2 Панакота",
+        "product_href": "https://divan.ru/product/obuvnitsa-livorno-3-2-panakota",
+        "product_new_price": "8490руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "15%"
+    },
+    "294": {
+        "product_name": "Комод Акварель Капучино",
+        "product_href": "https://divan.ru/product/komod-akvarel-kapuchino",
+        "product_new_price": "10 690руб.",
+        "product_old_price": "12 290руб.",
+        "product_discount": "13%"
+    },
+    "295": {
+        "product_name": "Обувница Ливорно-3.1 Панакота",
+        "product_href": "https://divan.ru/product/obuvnitsa-livorno-3-1-panakota",
+        "product_new_price": "8490руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "15%"
+    },
+    "296": {
+        "product_name": "ТВ-тумба Ливорно-4 Графит",
+        "product_href": "https://divan.ru/product/tv-tumba-livorno-4-grafit",
+        "product_new_price": "17 480руб.",
+        "product_old_price": "21 690руб.",
+        "product_discount": "19%"
+    },
+    "297": {
+        "product_name": "ТВ-тумба Тиффани-3 Орех Элия",
+        "product_href": "https://divan.ru/product/tv-tumba-tiffani-3-oreh-eliya",
+        "product_new_price": "17 590руб.",
+        "product_old_price": "19 490руб.",
+        "product_discount": "9%"
+    },
+    "298": {
+        "product_name": "ТВ-тумба Компакт-2",
+        "product_href": "https://divan.ru/product/tv-tumba-kompakt-2",
+        "product_new_price": "19 390руб.",
+        "product_old_price": "22 490руб.",
+        "product_discount": "13%"
+    },
+    "299": {
+        "product_name": "Обувница Вирджиния-2",
+        "product_href": "https://divan.ru/product/obuvnitsa-virdjiniya-2",
+        "product_new_price": "6990руб.",
+        "product_old_price": "8290руб.",
+        "product_discount": "15%"
+    },
+    "300": {
+        "product_name": "ТВ-тумба Скульт-1 Celtik",
+        "product_href": "https://divan.ru/product/tv-tumba-skult-1-celtik",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "16%"
+    },
+    "301": {
+        "product_name": "ТВ-тумба Скульт-3 Celtik",
+        "product_href": "https://divan.ru/product/tv-tumba-skult-3-celtik",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "25 990руб.",
+        "product_discount": "15%"
+    },
+    "302": {
+        "product_name": "ТВ-тумба Скульт-4 Celtik",
+        "product_href": "https://divan.ru/product/tv-tumba-skult-4-celtik",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "20%"
+    },
+    "303": {
+        "product_name": "Тумба прикроватная Техно Дуб Золотой",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-tehno-dub-zolotoj",
+        "product_new_price": "13 290руб.",
+        "product_old_price": "13 990руб.",
+        "product_discount": "5%"
+    },
+    "304": {
+        "product_name": "Тумба прикроватная Лофт Дуб Кельтик",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-loft-dub-keltik",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "17%"
+    },
+    "305": {
+        "product_name": "ТВ-тумба Лофт Дуб Кельтик",
+        "product_href": "https://divan.ru/product/tv-tumba-loft-dub-keltik",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "16%"
+    },
+    "306": {
+        "product_name": "Обувница Фиджи Антрацит",
+        "product_href": "https://divan.ru/product/obuvnitsa-fidji-antratsit",
+        "product_new_price": "13 690руб.",
+        "product_old_price": "15 490руб.",
+        "product_discount": "11%"
+    },
+    "307": {
+        "product_name": "Комод Майер-80 Дуб Сонома / Белый",
+        "product_href": "https://divan.ru/product/komod-majer-80-dub-sonoma--belyj",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "10%"
+    },
+    "308": {
+        "product_name": "Комод Нордик-6 Edge",
+        "product_href": "https://divan.ru/product/komod-nordik-6-edge",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "16 510руб.",
+        "product_discount": "15%"
+    },
+    "309": {
+        "product_name": "ТВ-тумба Кливленд",
+        "product_href": "https://divan.ru/product/tv-tumba-klivlend",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "15 990руб.",
+        "product_discount": "12%"
+    },
+    "310": {
+        "product_name": "Обувница Сидней Дуб Крафт Белый",
+        "product_href": "https://divan.ru/product/obuvnitsa-sidnej-dub-kraft-belyj",
+        "product_new_price": "20 990руб.",
+        "product_old_price": "23 490руб.",
+        "product_discount": "10%"
+    },
+    "311": {
+        "product_name": "ТВ-тумба Нордик-2 Edge",
+        "product_href": "https://divan.ru/product/tv-tumba-nordik-2-edge",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "14 150руб.",
+        "product_discount": "15%"
+    },
+    "312": {
+        "product_name": "ТВ-тумба Нордик-3 Edge",
+        "product_href": "https://divan.ru/product/tv-tumba-nordik-3-edge",
+        "product_new_price": "9990руб.",
+        "product_old_price": "11 790руб.",
+        "product_discount": "15%"
+    },
+    "313": {
+        "product_name": "Тумба прикроватная Ливорно Панакота",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-livorno-panakota",
+        "product_new_price": "4990руб.",
+        "product_old_price": "5990руб.",
+        "product_discount": "16%"
+    },
+    "314": {
+        "product_name": "Тумба прикроватная Нордик Edge",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-nordik-edge",
+        "product_new_price": "6990руб.",
+        "product_old_price": "8250руб.",
+        "product_discount": "15%"
+    },
+    "315": {
+        "product_name": "Комод Техно Дуб Золотой",
+        "product_href": "https://divan.ru/product/komod-tehno-dub-zolotoj",
+        "product_new_price": "24 290руб.",
+        "product_old_price": "26 990руб.",
+        "product_discount": "10%"
+    },
+    "316": {
+        "product_name": "Комод Вирджиния-2",
+        "product_href": "https://divan.ru/product/komod-virdjiniya-2",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "13 490руб.",
+        "product_discount": "18%"
+    },
+    "317": {
+        "product_name": "ТВ-тумба Нордик-1 Edge",
+        "product_href": "https://divan.ru/product/tv-tumba-nordik-1-edge",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "15 330руб.",
+        "product_discount": "15%"
+    },
+    "318": {
+        "product_name": "Комод Нордик-1 Edge",
+        "product_href": "https://divan.ru/product/komod-nordik-1-edge",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "14 150руб.",
+        "product_discount": "15%"
+    },
+    "319": {
+        "product_name": "Комод Нордик-2 Edge",
+        "product_href": "https://divan.ru/product/komod-nordik-2-edge",
+        "product_new_price": "15 990руб.",
+        "product_old_price": "18 870руб.",
+        "product_discount": "15%"
+    },
+    "320": {
+        "product_name": "ТВ-тумба Динс Scandi Plain",
+        "product_href": "https://divan.ru/product/tv-tumba-dins-scandi-plain",
+        "product_new_price": "9990руб.",
+        "product_old_price": "13 490руб.",
+        "product_discount": "25%"
+    },
+    "321": {
+        "product_name": "Тумба прикроватная Фиджи Белый",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-fidji-belyj",
+        "product_new_price": "11 490руб.",
+        "product_old_price": "12 690руб.",
+        "product_discount": "9%"
+    },
+    "322": {
+        "product_name": "Комод Майер-100 Дуб Сонома",
+        "product_href": "https://divan.ru/product/komod-majer-100-dub-sonoma",
+        "product_new_price": "20 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "12%"
+    },
+    "323": {
+        "product_name": "ТВ-тумба Вирджиния",
+        "product_href": "https://divan.ru/product/tv-tumba-virdjiniya",
+        "product_new_price": "7490руб.",
+        "product_old_price": "8690руб.",
+        "product_discount": "13%"
+    },
+    "324": {
+        "product_name": "Комод Майер-120 Дуб Сонома / Белый",
+        "product_href": "https://divan.ru/product/komod-majer-120-dub-sonoma--belyj",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "12%"
+    },
+    "325": {
+        "product_name": "Тумба прикроватная Фиджи Антрацит",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-fidji-antratsit",
+        "product_new_price": "11 490руб.",
+        "product_old_price": "12 690руб.",
+        "product_discount": "9%"
+    },
+    "326": {
+        "product_name": "Комод Мелисса Brown",
+        "product_href": "https://divan.ru/product/komod-melissa-brown",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "10%"
+    },
+    "327": {
+        "product_name": "Тумба прикроватная Ивейн Iron Double Honey",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-ivejn-iron-double-honey",
+        "product_new_price": "9990руб.",
+        "product_old_price": "11 190руб.",
+        "product_discount": "10%"
+    },
+    "328": {
+        "product_name": "Обувница Вирджиния-3",
+        "product_href": "https://divan.ru/product/obuvnitsa-virdjiniya-3",
+        "product_new_price": "3990руб.",
+        "product_old_price": "4690руб.",
+        "product_discount": "14%"
+    },
+    "329": {
+        "product_name": "Комод Фиджи Белый",
+        "product_href": "https://divan.ru/product/komod-fidji-belyj",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "33 490руб.",
+        "product_discount": "10%"
+    },
+    "330": {
+        "product_name": "Комод Майер-100 Дуб Сонома / Белый",
+        "product_href": "https://divan.ru/product/komod-majer-100-dub-sonoma--belyj",
+        "product_new_price": "20 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "12%"
+    },
+    "331": {
+        "product_name": "Комод Мелисса White",
+        "product_href": "https://divan.ru/product/komod-melissa-white",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "10%"
+    },
+    "332": {
+        "product_name": "Комод Мелисса Blue",
+        "product_href": "https://divan.ru/product/komod-melissa-blue",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "10%"
+    },
+    "333": {
+        "product_name": "Комод Мелисса Beige",
+        "product_href": "https://divan.ru/product/komod-melissa-beige",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "10%"
+    },
+    "334": {
+        "product_name": "Комод Майер-120 Дуб Сонома",
+        "product_href": "https://divan.ru/product/komod-majer-120-dub-sonoma",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "12%"
+    },
+    "335": {
+        "product_name": "Комод Майер-80 Дуб Сонома",
+        "product_href": "https://divan.ru/product/komod-majer-80-dub-sonoma",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "10%"
+    },
+    "336": {
+        "product_name": "Тумба прикроватная Мелисса Blue",
+        "product_href": "https://divan.ru/product/tumba-prikrovatnaya-melissa-blue",
+        "product_new_price": "6990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "30%"
+    },
+    "337": {
+        "product_name": "Обувница Фиджи Белый",
+        "product_href": "https://divan.ru/product/obuvnitsa-fidji-belyj",
+        "product_new_price": "13 690руб.",
+        "product_old_price": "15 490руб.",
+        "product_discount": "11%"
+    },
+    "338": {
+        "product_name": "Комод Мелисса Grey",
+        "product_href": "https://divan.ru/product/komod-melissa-grey",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "10%"
+    },
+    "339": {
+        "product_name": "Обувница Аврора",
+        "product_href": "https://divan.ru/product/polka-dlya-obuvi-avrora",
+        "product_new_price": "3990руб.",
+        "product_old_price": "5690руб.",
+        "product_discount": "29%"
+    },
+    "340": {
+        "product_name": "Обувница Вирджиния-1",
+        "product_href": "https://divan.ru/product/obuvnitsa-virdjiniya-1",
+        "product_new_price": "6990руб.",
+        "product_old_price": "8290руб.",
+        "product_discount": "15%"
+    },
+    "341": {
+        "product_name": "ТВ-тумба Скульт-1 Tobacco",
+        "product_href": "https://divan.ru/product/tv-tumba-skult-1-tobacco",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "16%"
+    },
+    "342": {
+        "product_name": "ТВ-тумба Скульт-3 Tobacco",
+        "product_href": "https://divan.ru/product/tv-tumba-skult-3-tobacco",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "25 990руб.",
+        "product_discount": "15%"
+    },
+    "343": {
+        "product_name": "ТВ-тумба Скульт-4 Tobacco",
+        "product_href": "https://divan.ru/product/tv-tumba-skult-4-tobacco",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "20%"
+    }
+}

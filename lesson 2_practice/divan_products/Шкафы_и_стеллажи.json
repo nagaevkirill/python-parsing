@@ -1,0 +1,4552 @@
+{
+    "1": {
+        "product_name": "Распашной шкаф Сальвадор-3-130-210 Wood",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-salvador-3-130-210-wood",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "51 990руб.",
+        "product_discount": "32%"
+    },
+    "2": {
+        "product_name": "Распашной шкаф Монмарт-2-80-210 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monmart-2-80-200-dub-sonoma",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "16%"
+    },
+    "3": {
+        "product_name": "Угловой распашной шкаф Лорэна-100-55-220 Черный",
+        "product_href": "https://divan.ru/product/uglovoj-raspashnoj-shkaf-lorena-100-55-220-chernyj",
+        "product_new_price": "27 990руб.",
+        "product_old_price": "31 890руб.",
+        "product_discount": "12%"
+    },
+    "4": {
+        "product_name": "Распашной шкаф Пронто-4-190-240 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-4-190-240-belyj",
+        "product_new_price": "58 990руб.",
+        "product_old_price": "65 990руб.",
+        "product_discount": "10%"
+    },
+    "5": {
+        "product_name": "Распашной шкаф Стелла-4-200-210 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-4-200-210-dub-zolotistyj",
+        "product_new_price": "32 990руб.",
+        "product_old_price": "43 490руб.",
+        "product_discount": "24%"
+    },
+    "6": {
+        "product_name": "Стеллаж Амберсон Wood",
+        "product_href": "https://divan.ru/product/stellaj-amberson-wood",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "23%"
+    },
+    "7": {
+        "product_name": "Стеллаж Талдом-1 Белый",
+        "product_href": "https://divan.ru/product/stellaj-taldom-1-belyj",
+        "product_new_price": "6990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "30%"
+    },
+    "8": {
+        "product_name": "Распашной шкаф Лорэна-4-240-210 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lorena-4-240-210-dub-zolotistyj",
+        "product_new_price": "48 990руб.",
+        "product_old_price": "56 090руб.",
+        "product_discount": "12%"
+    },
+    "9": {
+        "product_name": "Стеллаж Байрон Дуб Золотистый",
+        "product_href": "https://divan.ru/product/stellaj-bajron-dub-zolotistyj",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "20%"
+    },
+    "10": {
+        "product_name": "Стеллаж Ригло Белый",
+        "product_href": "https://divan.ru/product/stellaj-riglo-belyj",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "18 740руб.",
+        "product_discount": "20%"
+    },
+    "11": {
+        "product_name": "Распашной шкаф Стелла-2.1-90-200 Белый с зеркалом",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-2-1-90-200-belyj-s-zerkalom",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "8%"
+    },
+    "12": {
+        "product_name": "Распашной шкаф Монмарт-4-180-220 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monmart-4-180-220-dub-sonoma",
+        "product_new_price": "54 990руб.",
+        "product_old_price": "63 990руб.",
+        "product_discount": "14%"
+    },
+    "13": {
+        "product_name": "Стеллаж Аргос-1 Дуб Золотистый/Белый",
+        "product_href": "https://divan.ru/product/stellaj-argos-1-dub-zolotistyj-belyj",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "21 240руб.",
+        "product_discount": "20%"
+    },
+    "14": {
+        "product_name": "Распашной шкаф Стелла-2.1-100-240 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-2-1-100-240-dub-zolotistyj",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "26 990руб.",
+        "product_discount": "11%"
+    },
+    "15": {
+        "product_name": "Стеллаж Аргос-2 Белый/Дуб Золотистый",
+        "product_href": "https://divan.ru/product/stellaj-argos-2-belyj-dub-zolotistyj",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "21 240руб.",
+        "product_discount": "20%"
+    },
+    "16": {
+        "product_name": "Стеллаж Байрон Белый",
+        "product_href": "https://divan.ru/product/stellaj-bajron-belyj",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "20%"
+    },
+    "17": {
+        "product_name": "Распашной шкаф Стелла-3.1-140-210 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-3-1-140-210-dub-zolotistyj",
+        "product_new_price": "26 990руб.",
+        "product_old_price": "31 990руб.",
+        "product_discount": "15%"
+    },
+    "18": {
+        "product_name": "Стеллаж Бриз-2 Белый",
+        "product_href": "https://divan.ru/product/stellaj-briz-2-belyj",
+        "product_new_price": "8990руб.",
+        "product_old_price": "11 990руб.",
+        "product_discount": "25%"
+    },
+    "19": {
+        "product_name": "Шкаф-купе Орлеан-3-180-220 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-180-220-belyj",
+        "product_new_price": "33 990руб.",
+        "product_old_price": "53 690руб.",
+        "product_discount": "36%"
+    },
+    "20": {
+        "product_name": "Шкаф-купе Орлеан-2-120-220 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-120-220-yasen-shimo-svetlyj",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "38 690руб.",
+        "product_discount": "35%"
+    },
+    "21": {
+        "product_name": "Распашной шкаф Стелла-1-50-220 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-1-50-220-belyj",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "13 990руб.",
+        "product_discount": "14%"
+    },
+    "22": {
+        "product_name": "Распашной шкаф Майер-3-120-210 Плюс Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-majer-3-120-210-plyus-dub-sonoma",
+        "product_new_price": "37 990руб.",
+        "product_old_price": "40 990руб.",
+        "product_discount": "7%"
+    },
+    "23": {
+        "product_name": "Стеллаж Амберсон Light",
+        "product_href": "https://divan.ru/product/stellaj-amberson-light",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "23%"
+    },
+    "24": {
+        "product_name": "Стеллаж Амберсон Latte",
+        "product_href": "https://divan.ru/product/stellaj-amberson-latte",
+        "product_new_price": "9990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "41%"
+    },
+    "25": {
+        "product_name": "Распашной шкаф Риальто-3-150-200 Wood",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-rialto-3-150-200-wood",
+        "product_new_price": "69 990руб.",
+        "product_old_price": "79 990руб.",
+        "product_discount": "12%"
+    },
+    "26": {
+        "product_name": "Распашной шкаф Стелла-4.1-160-220 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-4-1-160-220-dub-zolotistyj",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "39 990руб.",
+        "product_discount": "12%"
+    },
+    "27": {
+        "product_name": "Стеллаж Линц-6 Light",
+        "product_href": "https://divan.ru/product/stellaj-linc-6-light",
+        "product_new_price": "30 490руб.",
+        "product_old_price": "40 990руб.",
+        "product_discount": "25%"
+    },
+    "28": {
+        "product_name": "Распашной шкаф Стелла-2-120-220 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-2-120-220-dub-zolotistyj",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "16%"
+    },
+    "29": {
+        "product_name": "Стеллаж Талдом-1 Дуб Ирландский",
+        "product_href": "https://divan.ru/product/stellaj-taldom-1-dub-irlandskij",
+        "product_new_price": "6990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "30%"
+    },
+    "30": {
+        "product_name": "Шкаф-купе Орест-3-180-230 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-180-230-belyj",
+        "product_new_price": "40 290руб.",
+        "product_old_price": "66 690руб.",
+        "product_discount": "39%"
+    },
+    "31": {
+        "product_name": "Распашной шкаф Пронто-3-150-220 Дуб Сонома / Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-3-150-220-dub-sonoma--belyj",
+        "product_new_price": "42 990руб.",
+        "product_old_price": "49 990руб.",
+        "product_discount": "14%"
+    },
+    "32": {
+        "product_name": "Стеллаж Маранг-13 Wood",
+        "product_href": "https://divan.ru/product/stellaj-marang-13-wood",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "16%"
+    },
+    "33": {
+        "product_name": "Стеллаж Линц-5 Brown",
+        "product_href": "https://divan.ru/product/stellaj-linc-5-brown",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "35 990руб.",
+        "product_discount": "27%"
+    },
+    "34": {
+        "product_name": "Шкаф-купе Мюнхен-3-210-240 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-210-240-yasen-shimo-svetlyj",
+        "product_new_price": "39 990руб.",
+        "product_old_price": "62 490руб.",
+        "product_discount": "36%"
+    },
+    "35": {
+        "product_name": "Шкаф-купе Мюнхен-2-120-220 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-2-120-220-belyj",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "36 990руб.",
+        "product_discount": "35%"
+    },
+    "36": {
+        "product_name": "Шкаф-купе Мюнхен-3-180-240 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-180-240-belyj",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "54 690руб.",
+        "product_discount": "36%"
+    },
+    "37": {
+        "product_name": "Распашной шкаф Лорэна-3-150-210 Велюр",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lorena-3-150-210-velyur",
+        "product_new_price": "43 990руб.",
+        "product_old_price": "48 390руб.",
+        "product_discount": "9%"
+    },
+    "38": {
+        "product_name": "Стеллаж Линц-6 Grey",
+        "product_href": "https://divan.ru/product/stellaj-linc-6-grey",
+        "product_new_price": "30 490руб.",
+        "product_old_price": "40 990руб.",
+        "product_discount": "25%"
+    },
+    "39": {
+        "product_name": "Распашной шкаф Лорэна-3-150-240 Черный",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lorena-3-150-240-chernyj",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "39 590руб.",
+        "product_discount": "6%"
+    },
+    "40": {
+        "product_name": "Распашной шкаф Орланд-2-90-190 Wood",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-orland-2-90-190-wood",
+        "product_new_price": "26 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "10%"
+    },
+    "41": {
+        "product_name": "Шкаф-купе Реймс-2-160-230 Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-2-160-230-dub-sonoma",
+        "product_new_price": "39 490руб.",
+        "product_old_price": "65 490руб.",
+        "product_discount": "39%"
+    },
+    "42": {
+        "product_name": "Шкаф-купе Мюнхен-3-210-220 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-210-220-yasen-shimo-svetlyj",
+        "product_new_price": "35 990руб.",
+        "product_old_price": "56 690руб.",
+        "product_discount": "36%"
+    },
+    "43": {
+        "product_name": "Шкаф-купе Орлеан-3-240-220 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-240-220-belyj",
+        "product_new_price": "42 990руб.",
+        "product_old_price": "67 290руб.",
+        "product_discount": "36%"
+    },
+    "44": {
+        "product_name": "Распашной шкаф Пронто-2-100-220 Серый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-2-100-220-seryj",
+        "product_new_price": "33 990руб.",
+        "product_old_price": "38 990руб.",
+        "product_discount": "12%"
+    },
+    "45": {
+        "product_name": "Шкаф-купе Итан-3-210-230 Glass Triple Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-210-230-glass-triple-dub-sonoma",
+        "product_new_price": "58 990руб.",
+        "product_old_price": "97 990руб.",
+        "product_discount": "39%"
+    },
+    "46": {
+        "product_name": "Распашной шкаф Пронто-2-100-220 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-2-100-220-belyj",
+        "product_new_price": "33 990руб.",
+        "product_old_price": "39 990руб.",
+        "product_discount": "15%"
+    },
+    "47": {
+        "product_name": "Шкаф-купе Орлеан-3-240-220 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-240-220-yasen-shimo-svetlyj",
+        "product_new_price": "42 990руб.",
+        "product_old_price": "67 290руб.",
+        "product_discount": "36%"
+    },
+    "48": {
+        "product_name": "Шкаф-купе Итан-2-120-230 Дуб Сонома/Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-120-230-dub-sonomabelyj",
+        "product_new_price": "27 990руб.",
+        "product_old_price": "46 490руб.",
+        "product_discount": "39%"
+    },
+    "49": {
+        "product_name": "Шкаф-купе Орест-2-120-230 Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-120-230-dub-sonoma",
+        "product_new_price": "31 490руб.",
+        "product_old_price": "51 990руб.",
+        "product_discount": "39%"
+    },
+    "50": {
+        "product_name": "Шкаф-купе Итан-2-140-230 Glass Double Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-140-230-glass-double-belyj",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "68 990руб.",
+        "product_discount": "46%"
+    },
+    "51": {
+        "product_name": "Стеллаж Гритон Light",
+        "product_href": "https://divan.ru/product/stellaj-griton-light",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "15%"
+    },
+    "52": {
+        "product_name": "Распашной шкаф Майер-4-190-210 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-majer-4-190-210-dub-sonoma",
+        "product_new_price": "54 990руб.",
+        "product_old_price": "59 990руб.",
+        "product_discount": "8%"
+    },
+    "53": {
+        "product_name": "Шкаф-купе Орлеан-3-180-220 Венге",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-180-220-venge",
+        "product_new_price": "33 990руб.",
+        "product_old_price": "53 690руб.",
+        "product_discount": "36%"
+    },
+    "54": {
+        "product_name": "Распашной шкаф Лорэна-4-240-210 Черный",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lorena-4-240-210-chernyj",
+        "product_new_price": "55 990руб.",
+        "product_old_price": "61 590руб.",
+        "product_discount": "9%"
+    },
+    "55": {
+        "product_name": "Распашной шкаф Стелла-1-60-240 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-1-60-240-dub-zolotistyj",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "13%"
+    },
+    "56": {
+        "product_name": "Распашной шкаф Стелла-2.1-90-200 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-2-1-90-200-belyj",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "10%"
+    },
+    "57": {
+        "product_name": "Стеллаж Линц-5 Grey",
+        "product_href": "https://divan.ru/product/stellaj-linc-5-grey",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "35 990руб.",
+        "product_discount": "27%"
+    },
+    "58": {
+        "product_name": "Распашной шкаф Стелла-2-90-200 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-2-90-200-dub-sonoma",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "17 990руб.",
+        "product_discount": "16%"
+    },
+    "59": {
+        "product_name": "Шкаф-купе Орест-3-210-230 Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-210-230-dub-sonoma",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "74 490руб.",
+        "product_discount": "39%"
+    },
+    "60": {
+        "product_name": "Шкаф-купе Орест-2-120-230 Дуб Сонома/Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-120-230-dub-sonomabelyj",
+        "product_new_price": "31 490руб.",
+        "product_old_price": "51 990руб.",
+        "product_discount": "39%"
+    },
+    "61": {
+        "product_name": "Шкаф-купе Итан-3-180-230 Дуб Сонома/Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-180-230-dub-sonomabelyj",
+        "product_new_price": "36 690руб.",
+        "product_old_price": "61 290руб.",
+        "product_discount": "40%"
+    },
+    "62": {
+        "product_name": "Шкаф-купе Орлеан-2-140-240 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-140-240-belyj",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "47 290руб.",
+        "product_discount": "36%"
+    },
+    "63": {
+        "product_name": "Шкаф-купе Реймс-2-140-230 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-2-140-230-beton",
+        "product_new_price": "39 690руб.",
+        "product_old_price": "52 990руб.",
+        "product_discount": "25%"
+    },
+    "64": {
+        "product_name": "Распашной шкаф Стелла-3-130-200 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-3-130-200-dub-sonoma",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "16%"
+    },
+    "65": {
+        "product_name": "Шкаф-купе Итан-3-210-230 Дуб Сонома/Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-210-230-dub-sonomabelyj",
+        "product_new_price": "41 290руб.",
+        "product_old_price": "68 290руб.",
+        "product_discount": "39%"
+    },
+    "66": {
+        "product_name": "Шкаф-купе Тебар-2-90-200 Дуб Сонома без зеркал",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-2-90-200-dub-sonoma-bez-zerkal",
+        "product_new_price": "18 990руб.",
+        "product_old_price": "20 990руб.",
+        "product_discount": "9%"
+    },
+    "67": {
+        "product_name": "Шкаф-купе Реймс-3-210-230 Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-3-210-230-dub-sonoma",
+        "product_new_price": "52 290руб.",
+        "product_old_price": "86 990руб.",
+        "product_discount": "39%"
+    },
+    "68": {
+        "product_name": "Стеллаж Лофт 1.16 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/stellaj-loft-1-16-dub-zolotistyj",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "28 990руб.",
+        "product_discount": "17%"
+    },
+    "69": {
+        "product_name": "Шкаф-купе Тебар-2-100-200 Белый без зеркал",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-2-100-200-belyj-bez-zerkal",
+        "product_new_price": "18 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "5%"
+    },
+    "70": {
+        "product_name": "Распашной шкаф Лектор-2-90-200 Дуб Ирландский",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lektor-2-90-200-dub-irlandskij",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "28%"
+    },
+    "71": {
+        "product_name": "Шкаф-купе Орлеан-3-210-240 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-210-240-beton",
+        "product_new_price": "43 990руб.",
+        "product_old_price": "59 490руб.",
+        "product_discount": "26%"
+    },
+    "72": {
+        "product_name": "Стеллаж Орланд Wood",
+        "product_href": "https://divan.ru/product/stellaj-orland-wood",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "15%"
+    },
+    "73": {
+        "product_name": "Распашной шкаф Стелла-2.1-100-220 Велюр с зеркалом",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-2-1-100-220-velyur-s-zerkalom",
+        "product_new_price": "27 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "6%"
+    },
+    "74": {
+        "product_name": "Стеллаж модульный Матис-3 Latte",
+        "product_href": "https://divan.ru/product/stellaj-modulnyj-matis-3-latte",
+        "product_new_price": "40 970руб.",
+        "product_old_price": "47 970руб.",
+        "product_discount": "14%"
+    },
+    "75": {
+        "product_name": "Шкаф-купе Мюнхен-3-180-240 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-180-240-dub-tabachnyj",
+        "product_new_price": "37 990руб.",
+        "product_old_price": "53 690руб.",
+        "product_discount": "29%"
+    },
+    "76": {
+        "product_name": "Распашной шкаф Лорэна-2-100-240 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lorena-2-100-240-dub-zolotistyj",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "27 490руб.",
+        "product_discount": "16%"
+    },
+    "77": {
+        "product_name": "Шкаф-купе Орлеан-3-210-240 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-210-240-belyj",
+        "product_new_price": "40 990руб.",
+        "product_old_price": "65 490руб.",
+        "product_discount": "37%"
+    },
+    "78": {
+        "product_name": "Шкаф-купе Орест-3-180-230 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-180-230-beton",
+        "product_new_price": "44 290руб.",
+        "product_old_price": "58 990руб.",
+        "product_discount": "24%"
+    },
+    "79": {
+        "product_name": "Шкаф-купе Орлеан-2-160-220 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-160-220-yasen-shimo-svetlyj",
+        "product_new_price": "30 990руб.",
+        "product_old_price": "48 990руб.",
+        "product_discount": "36%"
+    },
+    "80": {
+        "product_name": "Шкаф-купе Орест-2-140-230 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-140-230-dub-tabachnyj",
+        "product_new_price": "36 490руб.",
+        "product_old_price": "48 690руб.",
+        "product_discount": "25%"
+    },
+    "81": {
+        "product_name": "Стеллаж Бруно-5Л Дуб Сонома",
+        "product_href": "https://divan.ru/product/stellaj-bruno-5l-dub-sonoma",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "25%"
+    },
+    "82": {
+        "product_name": "Шкаф-купе Итан-3-180-230 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-180-230-dub-tabachnyj",
+        "product_new_price": "40 990руб.",
+        "product_old_price": "54 990руб.",
+        "product_discount": "25%"
+    },
+    "83": {
+        "product_name": "Распашной шкаф Нордик-3 Scandi Plain",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nordik-3-scandi-plain",
+        "product_new_price": "35 990руб.",
+        "product_old_price": "39 990руб.",
+        "product_discount": "10%"
+    },
+    "84": {
+        "product_name": "Шкаф-купе Итан-2-120-230 Glass Double Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-120-230-glass-double-belyj",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "64 490руб.",
+        "product_discount": "45%"
+    },
+    "85": {
+        "product_name": "Шкаф-купе Орест-2-140-230 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-140-230-belyj",
+        "product_new_price": "33 290руб.",
+        "product_old_price": "55 690руб.",
+        "product_discount": "40%"
+    },
+    "86": {
+        "product_name": "Шкаф-купе Мюнхен-2-140-220 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-2-140-220-beton",
+        "product_new_price": "28 990руб.",
+        "product_old_price": "38 290руб.",
+        "product_discount": "24%"
+    },
+    "87": {
+        "product_name": "Стеллаж Бруно-54 Белый",
+        "product_href": "https://divan.ru/product/stellaj-bruno-54-belyj",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "20%"
+    },
+    "88": {
+        "product_name": "Распашной шкаф Оскар-1",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-oskar-1",
+        "product_new_price": "12 590руб.",
+        "product_old_price": "15 290руб.",
+        "product_discount": "17%"
+    },
+    "89": {
+        "product_name": "Шкаф-купе Итан-2-120-230 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-120-230-belyj",
+        "product_new_price": "27 990руб.",
+        "product_old_price": "46 490руб.",
+        "product_discount": "39%"
+    },
+    "90": {
+        "product_name": "Шкаф-купе Итан-3-210-230 Glass Triple Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-210-230-glass-triple-dub-tabachnyj",
+        "product_new_price": "62 290руб.",
+        "product_old_price": "84 490руб.",
+        "product_discount": "26%"
+    },
+    "91": {
+        "product_name": "Угловой распашной шкаф Шевертон",
+        "product_href": "https://divan.ru/product/uglovoj-raspashnoj-shkaf-sheverton",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "21%"
+    },
+    "92": {
+        "product_name": "Шкаф-купе Орлеан-3-240-240 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-240-240-dub-tabachnyj",
+        "product_new_price": "48 990руб.",
+        "product_old_price": "66 690руб.",
+        "product_discount": "26%"
+    },
+    "93": {
+        "product_name": "Шкаф-купе Орлеан-2-160-220 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-160-220-dub-tabachnyj",
+        "product_new_price": "32 990руб.",
+        "product_old_price": "44 690руб.",
+        "product_discount": "26%"
+    },
+    "94": {
+        "product_name": "Распашной шкаф Лорэна-1-50-210 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lorena-1-50-210-belyj",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "13 190руб.",
+        "product_discount": "16%"
+    },
+    "95": {
+        "product_name": "Распашной шкаф Шевертон-1",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-sheverton-1",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "11%"
+    },
+    "96": {
+        "product_name": "Шкаф-купе Орест-2-160-230 Дуб Сонома/Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-160-230-dub-sonomabelyj",
+        "product_new_price": "35 690руб.",
+        "product_old_price": "59 290руб.",
+        "product_discount": "39%"
+    },
+    "97": {
+        "product_name": "Шкаф-купе Инмарк-2-140-220 Серый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-inmark-2-140-220-seryj",
+        "product_new_price": "49 990руб.",
+        "product_old_price": "58 990руб.",
+        "product_discount": "15%"
+    },
+    "98": {
+        "product_name": "Шкаф-купе Орлеан-2-140-240 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-140-240-yasen-shimo-svetlyj",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "47 290руб.",
+        "product_discount": "36%"
+    },
+    "99": {
+        "product_name": "Шкаф-купе Тебар-4-200-220 Графит 2 зеркала",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-4-200-220-grafit-2-zerkala",
+        "product_new_price": "56 990руб.",
+        "product_old_price": "60 990руб.",
+        "product_discount": "6%"
+    },
+    "100": {
+        "product_name": "Шкаф-купе Орест-2-140-230 Glass Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-140-230-glass-beton",
+        "product_new_price": "41 990руб.",
+        "product_old_price": "55 990руб.",
+        "product_discount": "25%"
+    },
+    "101": {
+        "product_name": "Распашной шкаф Стелла-3.1-150-220 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-3-1-150-220-dub-sonoma",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "30 990руб.",
+        "product_discount": "16%"
+    },
+    "102": {
+        "product_name": "Шкаф-купе Мюнхен-3-210-220 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-210-220-beton",
+        "product_new_price": "38 990руб.",
+        "product_old_price": "54 690руб.",
+        "product_discount": "28%"
+    },
+    "103": {
+        "product_name": "Распашной шкаф Окленд Дуб Ирландский",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-oklend-dub-irlandskij",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "32 990руб.",
+        "product_discount": "24%"
+    },
+    "104": {
+        "product_name": "Шкаф-купе Орлеан-3-210-220 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-210-220-dub-tabachnyj",
+        "product_new_price": "39 990руб.",
+        "product_old_price": "54 690руб.",
+        "product_discount": "26%"
+    },
+    "105": {
+        "product_name": "Шкаф-купе Орлеан-2-140-220 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-140-220-beton",
+        "product_new_price": "28 990руб.",
+        "product_old_price": "39 490руб.",
+        "product_discount": "26%"
+    },
+    "106": {
+        "product_name": "Шкаф-купе Мюнхен-3-180-240 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-180-240-beton",
+        "product_new_price": "37 990руб.",
+        "product_old_price": "53 690руб.",
+        "product_discount": "29%"
+    },
+    "107": {
+        "product_name": "Стеллаж модульный Матис-4 White",
+        "product_href": "https://divan.ru/product/stellaj-modulnyj-matis-4-white",
+        "product_new_price": "42 970руб.",
+        "product_old_price": "50 970руб.",
+        "product_discount": "15%"
+    },
+    "108": {
+        "product_name": "Стеллаж Линц-6 Brown",
+        "product_href": "https://divan.ru/product/stellaj-linc-6-brown",
+        "product_new_price": "30 490руб.",
+        "product_old_price": "40 990руб.",
+        "product_discount": "25%"
+    },
+    "109": {
+        "product_name": "Стеллаж Амберсон Dark",
+        "product_href": "https://divan.ru/product/stellaj-amberson-dark",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "23%"
+    },
+    "110": {
+        "product_name": "Шкаф-купе Орест-3-210-230 Glass Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-210-230-glass-beton",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "81 690руб.",
+        "product_discount": "26%"
+    },
+    "111": {
+        "product_name": "Шкаф-купе Мюнхен-3-210-240 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-210-240-dub-tabachnyj",
+        "product_new_price": "42 990руб.",
+        "product_old_price": "59 490руб.",
+        "product_discount": "27%"
+    },
+    "112": {
+        "product_name": "Распашной шкаф Риальто-2-100-200 Wood",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-rialto-2-100-200-wood",
+        "product_new_price": "49 990руб.",
+        "product_old_price": "59 990руб.",
+        "product_discount": "16%"
+    },
+    "113": {
+        "product_name": "Стеллаж Копенгаген Light",
+        "product_href": "https://divan.ru/product/stellaj-kopengagen-light",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "25%"
+    },
+    "114": {
+        "product_name": "Стеллаж Линц-3 Light",
+        "product_href": "https://divan.ru/product/stellaj-linc-3-light",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "37%"
+    },
+    "115": {
+        "product_name": "Шкаф-купе Орлеан-3-180-220 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-180-220-dub-tabachnyj",
+        "product_new_price": "35 990руб.",
+        "product_old_price": "48 990руб.",
+        "product_discount": "26%"
+    },
+    "116": {
+        "product_name": "Распашной шкаф Теджонс-4 Art Grafit",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-4-04-grafit",
+        "product_new_price": "79 990руб.",
+        "product_old_price": "96 990руб.",
+        "product_discount": "17%"
+    },
+    "117": {
+        "product_name": "Распашной шкаф Теджонс-4 Art Aquamarine",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-4-04-akvamarin",
+        "product_new_price": "79 990руб.",
+        "product_old_price": "96 990руб.",
+        "product_discount": "17%"
+    },
+    "118": {
+        "product_name": "Распашной шкаф Пронто-3-130-210 Серый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-3-130-210-seryj",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "41 990руб.",
+        "product_discount": "11%"
+    },
+    "119": {
+        "product_name": "Распашной шкаф Лайт-1-50-240-2 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lajt-1-50-240-2-dub-sonoma",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "13 990руб.",
+        "product_discount": "21%"
+    },
+    "120": {
+        "product_name": "Шкаф-купе Мюнхен-3-210-240 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-210-240-belyj",
+        "product_new_price": "39 990руб.",
+        "product_old_price": "62 490руб.",
+        "product_discount": "36%"
+    },
+    "121": {
+        "product_name": "Шкаф-купе Орест-2-160-230 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-160-230-dub-tabachnyj",
+        "product_new_price": "38 990руб.",
+        "product_old_price": "52 290руб.",
+        "product_discount": "25%"
+    },
+    "122": {
+        "product_name": "Угловой распашной шкаф Лорэна-90-55-210 Белый",
+        "product_href": "https://divan.ru/product/uglovoj-raspashnoj-shkaf-lorena-90-55-210-belyj",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "28 590руб.",
+        "product_discount": "19%"
+    },
+    "123": {
+        "product_name": "Шкаф-купе Мюнхен-3-240-220 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-240-220-yasen-shimo-svetlyj",
+        "product_new_price": "39 990руб.",
+        "product_old_price": "63 690руб.",
+        "product_discount": "37%"
+    },
+    "124": {
+        "product_name": "Шкаф-купе Орлеан-3-210-220 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-210-220-beton",
+        "product_new_price": "39 990руб.",
+        "product_old_price": "54 690руб.",
+        "product_discount": "26%"
+    },
+    "125": {
+        "product_name": "Шкаф-купе Мюнхен-3-210-240 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-210-240-beton",
+        "product_new_price": "42 990руб.",
+        "product_old_price": "59 490руб.",
+        "product_discount": "27%"
+    },
+    "126": {
+        "product_name": "Шкаф-купе Орлеан-2-140-220 Венге",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-140-220-venge",
+        "product_new_price": "27 990руб.",
+        "product_old_price": "43 690руб.",
+        "product_discount": "35%"
+    },
+    "127": {
+        "product_name": "Распашной шкаф Монблан-4 Сантьяго",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monblan-4-santyago",
+        "product_new_price": "79 990руб.",
+        "product_old_price": "96 990руб.",
+        "product_discount": "17%"
+    },
+    "128": {
+        "product_name": "Шкаф-купе Реймс-2-160-230 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-2-160-230-belyj",
+        "product_new_price": "39 490руб.",
+        "product_old_price": "65 490руб.",
+        "product_discount": "39%"
+    },
+    "129": {
+        "product_name": "Шкаф-купе Реймс-2-120-230 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-2-120-230-beton",
+        "product_new_price": "37 290руб.",
+        "product_old_price": "50 290руб.",
+        "product_discount": "25%"
+    },
+    "130": {
+        "product_name": "Шкаф-купе Мюнхен-2-140-220 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-2-140-220-belyj",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "41 690руб.",
+        "product_discount": "37%"
+    },
+    "131": {
+        "product_name": "Шкаф-купе Реймс-2-140-230 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-2-140-230-belyj",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "61 490руб.",
+        "product_discount": "39%"
+    },
+    "132": {
+        "product_name": "Шкаф-купе Итан-2-140-230 Glass Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-140-230-glass-dub-sonoma",
+        "product_new_price": "35 490руб.",
+        "product_old_price": "59 290руб.",
+        "product_discount": "40%"
+    },
+    "133": {
+        "product_name": "Шкаф-купе Орест-2-140-230 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-140-230-beton",
+        "product_new_price": "36 490руб.",
+        "product_old_price": "48 690руб.",
+        "product_discount": "25%"
+    },
+    "134": {
+        "product_name": "Шкаф-купе Орлеан-2-140-240 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-140-240-dub-tabachnyj",
+        "product_new_price": "31 990руб.",
+        "product_old_price": "42 990руб.",
+        "product_discount": "25%"
+    },
+    "135": {
+        "product_name": "Стеллаж Сплит-2 Дуб Сонома",
+        "product_href": "https://divan.ru/product/stellaj-split-2-dub-sonoma",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "17%"
+    },
+    "136": {
+        "product_name": "Шкаф-купе Орест-2-160-230 Glass Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-160-230-glass-beton",
+        "product_new_price": "44 290руб.",
+        "product_old_price": "59 290руб.",
+        "product_discount": "25%"
+    },
+    "137": {
+        "product_name": "Распашной шкаф Теджонс-4 Art Milk",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-4-04-milk",
+        "product_new_price": "79 990руб.",
+        "product_old_price": "96 990руб.",
+        "product_discount": "17%"
+    },
+    "138": {
+        "product_name": "Шкаф-купе Итан-2-120-230 Glass Double Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-120-230-glass-double-dub-sonoma",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "64 490руб.",
+        "product_discount": "45%"
+    },
+    "139": {
+        "product_name": "Распашной шкаф Монблан-4 Графит",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monblan-4-grafit",
+        "product_new_price": "79 990руб.",
+        "product_old_price": "96 990руб.",
+        "product_discount": "17%"
+    },
+    "140": {
+        "product_name": "Шкаф-купе Орлеан-2-140-220 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-140-220-yasen-shimo-svetlyj",
+        "product_new_price": "27 990руб.",
+        "product_old_price": "43 690руб.",
+        "product_discount": "35%"
+    },
+    "141": {
+        "product_name": "Шкаф-купе Орест-2-120-230 Glass Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-120-230-glass-dub-tabachnyj",
+        "product_new_price": "39 290руб.",
+        "product_old_price": "52 990руб.",
+        "product_discount": "25%"
+    },
+    "142": {
+        "product_name": "Шкаф-купе Орест-2-160-230 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-160-230-belyj",
+        "product_new_price": "35 690руб.",
+        "product_old_price": "59 290руб.",
+        "product_discount": "39%"
+    },
+    "143": {
+        "product_name": "Стеллаж Сплит-1 Белый",
+        "product_href": "https://divan.ru/product/stellaj-split-1-belyj",
+        "product_new_price": "8990руб.",
+        "product_old_price": "11 990руб.",
+        "product_discount": "25%"
+    },
+    "144": {
+        "product_name": "Шкаф-купе Орест-3-180-230 Glass Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-180-230-glass-belyj",
+        "product_new_price": "51 290руб.",
+        "product_old_price": "84 990руб.",
+        "product_discount": "39%"
+    },
+    "145": {
+        "product_name": "Распашной шкаф Стелла-2.1-90-200 Дуб Сонома с зеркалом",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-2-1-90-200-dub-sonoma-s-zerkalom",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "8%"
+    },
+    "146": {
+        "product_name": "Шкаф-купе Итан-2-120-230 Glass Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-120-230-glass-dub-tabachnyj",
+        "product_new_price": "36 290руб.",
+        "product_old_price": "48 490руб.",
+        "product_discount": "25%"
+    },
+    "147": {
+        "product_name": "Шкаф-купе Итан-2-140-230 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-140-230-dub-tabachnyj",
+        "product_new_price": "33 290руб.",
+        "product_old_price": "44 490руб.",
+        "product_discount": "25%"
+    },
+    "148": {
+        "product_name": "Шкаф-купе Итан-2-140-230 Glass Double Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-140-230-glass-double-dub-sonoma",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "68 990руб.",
+        "product_discount": "46%"
+    },
+    "149": {
+        "product_name": "Распашной шкаф Пронто-3-130-210 Велюр",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-3-130-210-velyur",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "41 990руб.",
+        "product_discount": "11%"
+    },
+    "150": {
+        "product_name": "Шкаф-купе Реймс-3-180-230 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-3-180-230-dub-tabachnyj",
+        "product_new_price": "50 290руб.",
+        "product_old_price": "67 290руб.",
+        "product_discount": "25%"
+    },
+    "151": {
+        "product_name": "Стеллаж модульный Матис-1 White",
+        "product_href": "https://divan.ru/product/stellaj-modulnyj-matis-1-white",
+        "product_new_price": "25 980руб.",
+        "product_old_price": "29 980руб.",
+        "product_discount": "13%"
+    },
+    "152": {
+        "product_name": "Распашной шкаф Майер-3-120-210 Плюс Дуб Сонома / Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-majer-3-120-210-plyus-dub-sonoma--belyj",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "40 990руб.",
+        "product_discount": "9%"
+    },
+    "153": {
+        "product_name": "Шкаф-купе Орест-2-160-230 Glass Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-160-230-glass-dub-sonoma",
+        "product_new_price": "41 490руб.",
+        "product_old_price": "68 990руб.",
+        "product_discount": "39%"
+    },
+    "154": {
+        "product_name": "Шкаф-купе Итан-2-160-230 Glass Double Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-160-230-glass-double-dub-tabachnyj",
+        "product_new_price": "42 290руб.",
+        "product_old_price": "61 990руб.",
+        "product_discount": "31%"
+    },
+    "155": {
+        "product_name": "Распашной шкаф Монблан-4 Милк",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monblan-4-milk",
+        "product_new_price": "79 990руб.",
+        "product_old_price": "96 990руб.",
+        "product_discount": "17%"
+    },
+    "156": {
+        "product_name": "Распашной шкаф Нордик-3 Dark",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nordik-3-dark",
+        "product_new_price": "35 990руб.",
+        "product_old_price": "39 990руб.",
+        "product_discount": "10%"
+    },
+    "157": {
+        "product_name": "Распашной шкаф Майер-2-100-210 Плюс Дуб Сонома / Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-majer-2-100-210-plyus-dub-sonoma--belyj",
+        "product_new_price": "32 990руб.",
+        "product_old_price": "35 990руб.",
+        "product_discount": "8%"
+    },
+    "158": {
+        "product_name": "Шкаф-купе Орест-2-160-230 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-160-230-beton",
+        "product_new_price": "38 990руб.",
+        "product_old_price": "52 290руб.",
+        "product_discount": "25%"
+    },
+    "159": {
+        "product_name": "Шкаф-купе Итан-3-210-230 Glass Triple Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-210-230-glass-triple-beton",
+        "product_new_price": "62 290руб.",
+        "product_old_price": "84 490руб.",
+        "product_discount": "26%"
+    },
+    "160": {
+        "product_name": "Шкаф-купе Орест-2-140-230 Glass Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-140-230-glass-belyj",
+        "product_new_price": "39 290руб.",
+        "product_old_price": "65 490руб.",
+        "product_discount": "40%"
+    },
+    "161": {
+        "product_name": "Шкаф-купе Итан-2-120-230 Glass Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-120-230-glass-beton",
+        "product_new_price": "36 290руб.",
+        "product_old_price": "48 490руб.",
+        "product_discount": "25%"
+    },
+    "162": {
+        "product_name": "Шкаф-купе Орлеан-2-120-220 Венге",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-120-220-venge",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "38 690руб.",
+        "product_discount": "35%"
+    },
+    "163": {
+        "product_name": "Шкаф-купе Орест-2-140-230 Дуб Сонома/Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-140-230-dub-sonomabelyj",
+        "product_new_price": "33 290руб.",
+        "product_old_price": "55 690руб.",
+        "product_discount": "40%"
+    },
+    "164": {
+        "product_name": "Шкаф-купе Орлеан-3-240-240 Венге",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-240-240-venge",
+        "product_new_price": "45 990руб.",
+        "product_old_price": "72 990руб.",
+        "product_discount": "36%"
+    },
+    "165": {
+        "product_name": "Шкаф-купе Итан-2-160-230 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-160-230-beton",
+        "product_new_price": "35 990руб.",
+        "product_old_price": "47 990руб.",
+        "product_discount": "25%"
+    },
+    "166": {
+        "product_name": "Распашной шкаф Пронто-3-130-210 Дуб Сонома / Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-3-130-210-dub-sonoma--belyj",
+        "product_new_price": "30 990руб.",
+        "product_old_price": "34 990руб.",
+        "product_discount": "11%"
+    },
+    "167": {
+        "product_name": "Стеллаж Нордик-3 Scandi Plain",
+        "product_href": "https://divan.ru/product/stellaj-nordik-3-scandi-plain",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "10%"
+    },
+    "168": {
+        "product_name": "Шкаф-купе Орлеан-3-240-220 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-240-220-beton",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "61 490руб.",
+        "product_discount": "26%"
+    },
+    "169": {
+        "product_name": "Распашной шкаф Стелла-1-60-240 Велюр",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-1-60-240-velyur",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "6%"
+    },
+    "170": {
+        "product_name": "Шкаф-купе Итан-3-180-230 Glass Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-180-230-glass-dub-tabachnyj",
+        "product_new_price": "51 290руб.",
+        "product_old_price": "68 990руб.",
+        "product_discount": "25%"
+    },
+    "171": {
+        "product_name": "Шкаф-купе Мюнхен-3-210-220 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-210-220-belyj",
+        "product_new_price": "35 990руб.",
+        "product_old_price": "56 690руб.",
+        "product_discount": "36%"
+    },
+    "172": {
+        "product_name": "Распашной шкаф Теджонс-2 Deco Aquamarine",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-2-05-akvamarin",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "53 090руб.",
+        "product_discount": "15%"
+    },
+    "173": {
+        "product_name": "Шкаф-купе Орлеан-2-120-220 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-120-220-dub-tabachnyj",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "35 290руб.",
+        "product_discount": "26%"
+    },
+    "174": {
+        "product_name": "Стеллаж Бриз-1 Белый",
+        "product_href": "https://divan.ru/product/stellaj-briz-1-belyj",
+        "product_new_price": "7990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "20%"
+    },
+    "175": {
+        "product_name": "Шкаф-купе Орлеан-3-210-240 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-210-240-yasen-shimo-svetlyj",
+        "product_new_price": "40 990руб.",
+        "product_old_price": "65 490руб.",
+        "product_discount": "37%"
+    },
+    "176": {
+        "product_name": "Шкаф-купе Мюнхен-3-180-220 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-180-220-yasen-shimo-svetlyj",
+        "product_new_price": "31 990руб.",
+        "product_old_price": "50 290руб.",
+        "product_discount": "36%"
+    },
+    "177": {
+        "product_name": "Шкаф-купе Итан-2-120-230 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-120-230-dub-tabachnyj",
+        "product_new_price": "31 290руб.",
+        "product_old_price": "41 990руб.",
+        "product_discount": "25%"
+    },
+    "178": {
+        "product_name": "Шкаф-купе Тебар-3-150-220 Графит без зеркал",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-3-150-220-grafit-bez-zerkal",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "40 990руб.",
+        "product_discount": "9%"
+    },
+    "179": {
+        "product_name": "Распашной шкаф Тонхейм-1-1",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tonhejm-1-1",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "26%"
+    },
+    "180": {
+        "product_name": "Распашной шкаф Майер-4-190-210 Дуб Сонома / Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-majer-4-190-210-dub-sonoma--belyj",
+        "product_new_price": "54 990руб.",
+        "product_old_price": "59 990руб.",
+        "product_discount": "8%"
+    },
+    "181": {
+        "product_name": "Распашной шкаф Теджонс-3 Art Grafit",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-3-04-grafit",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "69 990руб.",
+        "product_discount": "14%"
+    },
+    "182": {
+        "product_name": "Шкаф-купе Орест-3-180-230 Glass Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-180-230-glass-beton",
+        "product_new_price": "54 290руб.",
+        "product_old_price": "73 290руб.",
+        "product_discount": "25%"
+    },
+    "183": {
+        "product_name": "Распашной шкаф Пронто-2-100-220 Дуб Сонома / Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-2-100-220-dub-sonoma--belyj",
+        "product_new_price": "33 990руб.",
+        "product_old_price": "39 990руб.",
+        "product_discount": "15%"
+    },
+    "184": {
+        "product_name": "Распашной шкаф Монблан-3 Милк",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monblan-3-milk",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "68 990руб.",
+        "product_discount": "13%"
+    },
+    "185": {
+        "product_name": "Распашной шкаф Лектор-3-140-220 Дуб Ирландский",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lektor-3-140-220-dub-irlandskij",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "41 990руб.",
+        "product_discount": "28%"
+    },
+    "186": {
+        "product_name": "Шкаф-купе Итан-2-160-230 Glass Double Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-160-230-glass-double-belyj",
+        "product_new_price": "39 490руб.",
+        "product_old_price": "72 290руб.",
+        "product_discount": "45%"
+    },
+    "187": {
+        "product_name": "Шкаф-купе Орлеан-2-140-220 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-140-220-dub-tabachnyj",
+        "product_new_price": "28 990руб.",
+        "product_old_price": "39 490руб.",
+        "product_discount": "26%"
+    },
+    "188": {
+        "product_name": "Распашной шкаф Монблан-2 Сантьяго",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monblan-2-santyago",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "49 990руб.",
+        "product_discount": "10%"
+    },
+    "189": {
+        "product_name": "Распашной шкаф Нордик-1 Light",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nordik-1-light",
+        "product_new_price": "15 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "15%"
+    },
+    "190": {
+        "product_name": "Шкаф-купе Мюнхен-2-140-220 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-2-140-220-dub-tabachnyj",
+        "product_new_price": "28 990руб.",
+        "product_old_price": "38 290руб.",
+        "product_discount": "24%"
+    },
+    "191": {
+        "product_name": "Распашной шкаф Теджонс-2 Art Milk",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-2-04-milk",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "53 090руб.",
+        "product_discount": "15%"
+    },
+    "192": {
+        "product_name": "Распашной шкаф Теджонс-4 Deco Santiago",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-4-05-santyago",
+        "product_new_price": "79 990руб.",
+        "product_old_price": "96 990руб.",
+        "product_discount": "17%"
+    },
+    "193": {
+        "product_name": "Стеллаж Матис-1 Latte",
+        "product_href": "https://divan.ru/product/stellaj-matis-1-latte",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "13%"
+    },
+    "194": {
+        "product_name": "Шкаф-купе Орлеан-2-160-240 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-160-240-beton",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "47 290руб.",
+        "product_discount": "26%"
+    },
+    "195": {
+        "product_name": "Шкаф-купе Орест-3-210-230 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-210-230-dub-tabachnyj",
+        "product_new_price": "49 290руб.",
+        "product_old_price": "65 990руб.",
+        "product_discount": "25%"
+    },
+    "196": {
+        "product_name": "Распашной шкаф Пронто-2-90-210 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-2-90-210-belyj",
+        "product_new_price": "28 990руб.",
+        "product_old_price": "31 990руб.",
+        "product_discount": "9%"
+    },
+    "197": {
+        "product_name": "Распашной шкаф Пронто-2-100-220 Велюр",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-2-100-220-velyur",
+        "product_new_price": "33 990руб.",
+        "product_old_price": "39 990руб.",
+        "product_discount": "15%"
+    },
+    "198": {
+        "product_name": "Шкаф-купе Итан-2-160-230 Glass Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-160-230-glass-belyj",
+        "product_new_price": "37 990руб.",
+        "product_old_price": "62 990руб.",
+        "product_discount": "39%"
+    },
+    "199": {
+        "product_name": "Шкаф-купе Реймс-2-160-230 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-2-160-230-dub-tabachnyj",
+        "product_new_price": "42 290руб.",
+        "product_old_price": "56 290руб.",
+        "product_discount": "24%"
+    },
+    "200": {
+        "product_name": "Распашной шкаф Теджонс-2 Art Grafit",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-2-04-grafit",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "53 090руб.",
+        "product_discount": "15%"
+    },
+    "201": {
+        "product_name": "Шкаф-купе Реймс-3-180-230 Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-3-180-230-dub-sonoma",
+        "product_new_price": "47 290руб.",
+        "product_old_price": "78 490руб.",
+        "product_discount": "39%"
+    },
+    "202": {
+        "product_name": "Шкаф-купе Тебар-2-90-210 Графит без зеркал",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-2-90-210-grafit-bez-zerkal",
+        "product_new_price": "20 990руб.",
+        "product_old_price": "22 990руб.",
+        "product_discount": "8%"
+    },
+    "203": {
+        "product_name": "Шкаф-купе Орест-2-120-230 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-120-230-dub-tabachnyj",
+        "product_new_price": "34 290руб.",
+        "product_old_price": "45 990руб.",
+        "product_discount": "25%"
+    },
+    "204": {
+        "product_name": "Угловой распашной шкаф Лорэна-100-60-240 Черный",
+        "product_href": "https://divan.ru/product/uglovoj-raspashnoj-shkaf-lorena-100-60-240-chernyj",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "34 090руб.",
+        "product_discount": "12%"
+    },
+    "205": {
+        "product_name": "Распашной шкаф Теджонс-3 Deco Milk",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-3-05-milk",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "69 990руб.",
+        "product_discount": "14%"
+    },
+    "206": {
+        "product_name": "Распашной шкаф Нордик-3 Light",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nordik-3-light",
+        "product_new_price": "35 990руб.",
+        "product_old_price": "39 990руб.",
+        "product_discount": "10%"
+    },
+    "207": {
+        "product_name": "Шкаф-купе Мюнхен-3-180-240 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-180-240-yasen-shimo-svetlyj",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "54 690руб.",
+        "product_discount": "36%"
+    },
+    "208": {
+        "product_name": "Распашной шкаф Шевертон-3",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-sheverton-3",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "16%"
+    },
+    "209": {
+        "product_name": "Шкаф-купе Орест-3-180-230 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-180-230-dub-tabachnyj",
+        "product_new_price": "44 290руб.",
+        "product_old_price": "58 990руб.",
+        "product_discount": "24%"
+    },
+    "210": {
+        "product_name": "Распашной шкаф Монблан-3 Сантьяго",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monblan-3-santyago",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "68 990руб.",
+        "product_discount": "13%"
+    },
+    "211": {
+        "product_name": "Стеллаж Линц-4 Brown",
+        "product_href": "https://divan.ru/product/stellaj-linc-4-brown",
+        "product_new_price": "20 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "30%"
+    },
+    "212": {
+        "product_name": "Шкаф-купе Орлеан-3-180-220 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-180-220-beton",
+        "product_new_price": "35 990руб.",
+        "product_old_price": "48 990руб.",
+        "product_discount": "26%"
+    },
+    "213": {
+        "product_name": "Распашной шкаф Пронто-4-170-210 Серый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-4-170-210-seryj",
+        "product_new_price": "49 990руб.",
+        "product_old_price": "55 990руб.",
+        "product_discount": "10%"
+    },
+    "214": {
+        "product_name": "Распашной шкаф Монблан-2 Милк",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monblan-2-milk",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "49 990руб.",
+        "product_discount": "10%"
+    },
+    "215": {
+        "product_name": "Шкаф-купе Итан-3-180-230 Glass Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-180-230-glass-beton",
+        "product_new_price": "51 290руб.",
+        "product_old_price": "68 990руб.",
+        "product_discount": "25%"
+    },
+    "216": {
+        "product_name": "Распашной шкаф Лайт-1-50-210-2 Дуб Сонома/Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lajt-1-50-210-2-dub-sonomabelyj",
+        "product_new_price": "9990руб.",
+        "product_old_price": "12 990руб.",
+        "product_discount": "23%"
+    },
+    "217": {
+        "product_name": "Распашной шкаф Лорэна-3-170-240 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lorena-3-170-240-dub-zolotistyj",
+        "product_new_price": "42 990руб.",
+        "product_old_price": "49 490руб.",
+        "product_discount": "13%"
+    },
+    "218": {
+        "product_name": "Шкаф-купе Мюнхен-3-240-220 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-240-220-dub-tabachnyj",
+        "product_new_price": "43 990руб.",
+        "product_old_price": "61 490руб.",
+        "product_discount": "28%"
+    },
+    "219": {
+        "product_name": "Шкаф-купе Итан-3-180-230 Glass Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-180-230-glass-belyj",
+        "product_new_price": "47 690руб.",
+        "product_old_price": "79 290руб.",
+        "product_discount": "39%"
+    },
+    "220": {
+        "product_name": "Распашной шкаф Магеллан-2 Сосна Винтаж",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-magellan-2-sosna-vintaj",
+        "product_new_price": "28 990руб.",
+        "product_old_price": "35 690руб.",
+        "product_discount": "18%"
+    },
+    "221": {
+        "product_name": "Распашной шкаф Лорэна-2-100-210 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lorena-2-100-210-belyj",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "23 090руб.",
+        "product_discount": "13%"
+    },
+    "222": {
+        "product_name": "Шкаф-купе Орлеан-3-210-240 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-210-240-dub-tabachnyj",
+        "product_new_price": "43 990руб.",
+        "product_old_price": "59 490руб.",
+        "product_discount": "26%"
+    },
+    "223": {
+        "product_name": "Шкаф-купе Орест-2-120-230 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-120-230-belyj",
+        "product_new_price": "31 490руб.",
+        "product_old_price": "51 990руб.",
+        "product_discount": "39%"
+    },
+    "224": {
+        "product_name": "Шкаф-купе Реймс-2-160-230 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-2-160-230-beton",
+        "product_new_price": "42 290руб.",
+        "product_old_price": "56 290руб.",
+        "product_discount": "24%"
+    },
+    "225": {
+        "product_name": "Шкаф-купе Итан-2-140-230 Glass Double Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-140-230-glass-double-dub-tabachnyj",
+        "product_new_price": "39 690руб.",
+        "product_old_price": "60 290руб.",
+        "product_discount": "34%"
+    },
+    "226": {
+        "product_name": "Шкаф-купе Реймс-2-120-230 Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-2-120-230-dub-sonoma",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "57 990руб.",
+        "product_discount": "39%"
+    },
+    "227": {
+        "product_name": "Распашной шкаф Теджонс-2 Art Aquamarine",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-2-04-akvamarin",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "53 090руб.",
+        "product_discount": "15%"
+    },
+    "228": {
+        "product_name": "Стеллаж Матис-2 Latte",
+        "product_href": "https://divan.ru/product/stellaj-matis-2-latte",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "17 990руб.",
+        "product_discount": "16%"
+    },
+    "229": {
+        "product_name": "Распашной шкаф Равенна-2 Plain",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-ravenna-2-plain",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "42 990руб.",
+        "product_discount": "13%"
+    },
+    "230": {
+        "product_name": "Шкаф-купе Орлеан-3-240-220 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-240-220-dub-tabachnyj",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "61 490руб.",
+        "product_discount": "26%"
+    },
+    "231": {
+        "product_name": "Шкаф-купе Орлеан-3-240-240 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-240-240-yasen-shimo-svetlyj",
+        "product_new_price": "45 990руб.",
+        "product_old_price": "72 990руб.",
+        "product_discount": "36%"
+    },
+    "232": {
+        "product_name": "Шкаф-купе Мюнхен-3-240-240 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-240-240-dub-tabachnyj",
+        "product_new_price": "47 990руб.",
+        "product_old_price": "66 690руб.",
+        "product_discount": "28%"
+    },
+    "233": {
+        "product_name": "Распашной шкаф Нордик Scandi Plain",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nordik-scandi-plain",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "20%"
+    },
+    "234": {
+        "product_name": "Распашной шкаф Ливорно-1 Панакота",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-livorno-1-panakota",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "15 990руб.",
+        "product_discount": "25%"
+    },
+    "235": {
+        "product_name": "Шкаф-купе Тебар-2-160-240 Велюр без зеркал",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-2-160-240-velyur-bez-zerkal",
+        "product_new_price": "35 990руб.",
+        "product_old_price": "37 990руб.",
+        "product_discount": "5%"
+    },
+    "236": {
+        "product_name": "Шкаф-купе Итан-2-120-230 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-120-230-beton",
+        "product_new_price": "31 290руб.",
+        "product_old_price": "41 990руб.",
+        "product_discount": "25%"
+    },
+    "237": {
+        "product_name": "Распашной шкаф Теджонс-4 Deco Milk",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-4-05-milk",
+        "product_new_price": "79 990руб.",
+        "product_old_price": "96 990руб.",
+        "product_discount": "17%"
+    },
+    "238": {
+        "product_name": "Распашной шкаф Стелла-2.1-100-240 Дуб Золотистый с зеркалом",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-2-1-100-240-dub-zolotistyj-s-zerkalom",
+        "product_new_price": "27 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "6%"
+    },
+    "239": {
+        "product_name": "Распашной шкаф Равенна-1 Plain",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-ravenna-1-plain",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "22 990руб.",
+        "product_discount": "13%"
+    },
+    "240": {
+        "product_name": "Шкаф-купе Итан-2-160-230 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-160-230-dub-tabachnyj",
+        "product_new_price": "35 990руб.",
+        "product_old_price": "47 990руб.",
+        "product_discount": "25%"
+    },
+    "241": {
+        "product_name": "Стеллаж Бруно-5Л Белый",
+        "product_href": "https://divan.ru/product/stellaj-bruno-5l-belyj",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "25%"
+    },
+    "242": {
+        "product_name": "Распашной шкаф Пронто-3-150-220 Велюр",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-3-150-220-velyur",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "49 990руб.",
+        "product_discount": "10%"
+    },
+    "243": {
+        "product_name": "Распашной шкаф Теджонс-3 Deco Grafit",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-3-05-grafit",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "69 990руб.",
+        "product_discount": "14%"
+    },
+    "244": {
+        "product_name": "Шкаф-купе Мюнхен-2-120-220 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-2-120-220-beton",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "33 990руб.",
+        "product_discount": "23%"
+    },
+    "245": {
+        "product_name": "Распашной шкаф Тонхейм-2",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tonhejm-2",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "49 990руб.",
+        "product_discount": "26%"
+    },
+    "246": {
+        "product_name": "Шкаф-купе Итан-2-120-230 Glass Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-120-230-glass-belyj",
+        "product_new_price": "33 490руб.",
+        "product_old_price": "55 690руб.",
+        "product_discount": "39%"
+    },
+    "247": {
+        "product_name": "Шкаф-купе Орлеан-3-210-220 Венге",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-210-220-venge",
+        "product_new_price": "37 990руб.",
+        "product_old_price": "59 990руб.",
+        "product_discount": "36%"
+    },
+    "248": {
+        "product_name": "Шкаф-купе Итан-3-180-230 Glass Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-180-230-glass-dub-sonoma",
+        "product_new_price": "47 690руб.",
+        "product_old_price": "79 290руб.",
+        "product_discount": "39%"
+    },
+    "249": {
+        "product_name": "Угловой распашной шкаф Стелла-80-50-200 Дуб Сонома с зеркалом",
+        "product_href": "https://divan.ru/product/uglovoj-raspashnoj-shkaf-stella-80-50-200-dub-sonoma-s-zerkalom",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "22 990руб.",
+        "product_discount": "13%"
+    },
+    "250": {
+        "product_name": "Шкаф-купе Итан-2-160-230 Дуб Сонома/Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-160-230-dub-sonomabelyj",
+        "product_new_price": "31 990руб.",
+        "product_old_price": "52 990руб.",
+        "product_discount": "39%"
+    },
+    "251": {
+        "product_name": "Шкаф-купе Реймс-2-120-230 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-2-120-230-belyj",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "57 990руб.",
+        "product_discount": "39%"
+    },
+    "252": {
+        "product_name": "Шкаф-купе Орест-2-120-230 Glass Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-120-230-glass-belyj",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "61 290руб.",
+        "product_discount": "39%"
+    },
+    "253": {
+        "product_name": "Распашной шкаф Пронто-3-150-220 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-3-150-220-belyj",
+        "product_new_price": "42 990руб.",
+        "product_old_price": "49 990руб.",
+        "product_discount": "14%"
+    },
+    "254": {
+        "product_name": "Шкаф-купе Инмарк-3-160-210 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-inmark-3-160-210-dub-zolotistyj",
+        "product_new_price": "46 990руб.",
+        "product_old_price": "57 990руб.",
+        "product_discount": "18%"
+    },
+    "255": {
+        "product_name": "Шкаф-купе Мюнхен-3-240-240 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-240-240-yasen-shimo-svetlyj",
+        "product_new_price": "43 990руб.",
+        "product_old_price": "69 290руб.",
+        "product_discount": "36%"
+    },
+    "256": {
+        "product_name": "Стеллаж Талдом-2 Белый",
+        "product_href": "https://divan.ru/product/stellaj-taldom-2-belyj",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "29%"
+    },
+    "257": {
+        "product_name": "Шкаф-купе Итан-2-140-230 Glass Double Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-140-230-glass-double-beton",
+        "product_new_price": "39 690руб.",
+        "product_old_price": "60 290руб.",
+        "product_discount": "34%"
+    },
+    "258": {
+        "product_name": "Шкаф-купе Тебар-4-220-230 Графит без зеркал",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-4-220-230-grafit-bez-zerkal",
+        "product_new_price": "50 990руб.",
+        "product_old_price": "55 990руб.",
+        "product_discount": "8%"
+    },
+    "259": {
+        "product_name": "Распашной шкаф Монмарт-3-120-220 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monmart-3-120-220-dub-sonoma",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "43 990руб.",
+        "product_discount": "15%"
+    },
+    "260": {
+        "product_name": "Шкаф-купе Реймс-3-180-230 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-3-180-230-beton",
+        "product_new_price": "50 290руб.",
+        "product_old_price": "67 290руб.",
+        "product_discount": "25%"
+    },
+    "261": {
+        "product_name": "Шкаф-купе Орлеан-2-140-240 Венге",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-140-240-venge",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "47 290руб.",
+        "product_discount": "36%"
+    },
+    "262": {
+        "product_name": "Распашной шкаф Теджонс-2 Art Santiago",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-2-04-santyago",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "53 090руб.",
+        "product_discount": "15%"
+    },
+    "263": {
+        "product_name": "Распашной шкаф Стелла-4-240-210 Велюр",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-4-240-210-velyur",
+        "product_new_price": "39 990руб.",
+        "product_old_price": "44 990руб.",
+        "product_discount": "11%"
+    },
+    "264": {
+        "product_name": "Шкаф-купе Орлеан-3-180-240 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-180-240-beton",
+        "product_new_price": "39 990руб.",
+        "product_old_price": "53 690руб.",
+        "product_discount": "25%"
+    },
+    "265": {
+        "product_name": "Шкаф-купе Итан-3-180-230 Glass Triple Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-180-230-glass-triple-dub-sonoma",
+        "product_new_price": "53 290руб.",
+        "product_old_price": "88 490руб.",
+        "product_discount": "39%"
+    },
+    "266": {
+        "product_name": "Распашной шкаф Лорэна-4-200-210 Велюр",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lorena-4-200-210-velyur",
+        "product_new_price": "56 990руб.",
+        "product_old_price": "63 790руб.",
+        "product_discount": "10%"
+    },
+    "267": {
+        "product_name": "Распашной шкаф Лорэна-1-50-210 Черный",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lorena-1-50-210-chernyj",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "15 390руб.",
+        "product_discount": "15%"
+    },
+    "268": {
+        "product_name": "Распашной шкаф Стелла-4.1-180-200 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-4-1-180-200-belyj",
+        "product_new_price": "31 990руб.",
+        "product_old_price": "36 990руб.",
+        "product_discount": "13%"
+    },
+    "269": {
+        "product_name": "Шкаф-купе Итан-3-180-230 Glass Triple Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-180-230-glass-triple-beton",
+        "product_new_price": "56 290руб.",
+        "product_old_price": "75 990руб.",
+        "product_discount": "25%"
+    },
+    "270": {
+        "product_name": "Стеллаж модульный Матис-2 Latte",
+        "product_href": "https://divan.ru/product/stellaj-modulnyj-matis-2-latte",
+        "product_new_price": "27 980руб.",
+        "product_old_price": "32 980руб.",
+        "product_discount": "15%"
+    },
+    "271": {
+        "product_name": "Распашной шкаф Монблан-3 Графит",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monblan-3-grafit",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "68 990руб.",
+        "product_discount": "13%"
+    },
+    "272": {
+        "product_name": "Шкаф-купе Итан-2-120-230 Glass Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-120-230-glass-dub-sonoma",
+        "product_new_price": "33 490руб.",
+        "product_old_price": "55 690руб.",
+        "product_discount": "39%"
+    },
+    "273": {
+        "product_name": "Стеллаж Линц-5 Light",
+        "product_href": "https://divan.ru/product/stellaj-linc-5-light",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "35 990руб.",
+        "product_discount": "27%"
+    },
+    "274": {
+        "product_name": "Шкаф-купе Итан-2-160-230 Glass Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-160-230-glass-beton",
+        "product_new_price": "41 290руб.",
+        "product_old_price": "54 990руб.",
+        "product_discount": "24%"
+    },
+    "275": {
+        "product_name": "Шкаф-купе Орлеан-3-210-240 Венге",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-210-240-venge",
+        "product_new_price": "40 990руб.",
+        "product_old_price": "65 490руб.",
+        "product_discount": "37%"
+    },
+    "276": {
+        "product_name": "Распашной шкаф Стелла-2.1-90-200 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-2-1-90-200-dub-sonoma",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "10%"
+    },
+    "277": {
+        "product_name": "Шкаф-купе Орест-2-160-230 Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-160-230-dub-sonoma",
+        "product_new_price": "35 690руб.",
+        "product_old_price": "59 290руб.",
+        "product_discount": "39%"
+    },
+    "278": {
+        "product_name": "Распашной шкаф Монблан-2 Аквамарин",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monblan-2-akvamarin",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "49 990руб.",
+        "product_discount": "10%"
+    },
+    "279": {
+        "product_name": "Шкаф-купе Орест-2-120-230 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-120-230-beton",
+        "product_new_price": "34 290руб.",
+        "product_old_price": "45 990руб.",
+        "product_discount": "25%"
+    },
+    "280": {
+        "product_name": "Шкаф-купе Инмарк-2-120-220 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-inmark-2-120-220-dub-zolotistyj",
+        "product_new_price": "43 990руб.",
+        "product_old_price": "51 990руб.",
+        "product_discount": "15%"
+    },
+    "281": {
+        "product_name": "Шкаф-купе Мюнхен-2-160-220 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-2-160-220-belyj",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "46 990руб.",
+        "product_discount": "36%"
+    },
+    "282": {
+        "product_name": "Стеллаж Аргос-1 Дуб Ирландский/Белый",
+        "product_href": "https://divan.ru/product/stellaj-argos-1-dub-irlandskij-belyj",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "21 240руб.",
+        "product_discount": "20%"
+    },
+    "283": {
+        "product_name": "Распашной шкаф Теджонс-2 Deco Grafit",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-2-05-grafit",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "53 090руб.",
+        "product_discount": "15%"
+    },
+    "284": {
+        "product_name": "Шкаф-купе Мюнхен-2-160-220 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-2-160-220-beton",
+        "product_new_price": "31 990руб.",
+        "product_old_price": "42 990руб.",
+        "product_discount": "25%"
+    },
+    "285": {
+        "product_name": "Шкаф-купе Итан-2-140-230 Glass Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-140-230-glass-belyj",
+        "product_new_price": "35 490руб.",
+        "product_old_price": "59 290руб.",
+        "product_discount": "40%"
+    },
+    "286": {
+        "product_name": "Шкаф-купе Итан-3-210-230 Glass Triple Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-210-230-glass-triple-belyj",
+        "product_new_price": "58 990руб.",
+        "product_old_price": "97 990руб.",
+        "product_discount": "39%"
+    },
+    "287": {
+        "product_name": "Распашной шкаф Нордик Dark",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nordik-dark",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "20%"
+    },
+    "288": {
+        "product_name": "Шкаф-купе Мюнхен-3-180-220 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-180-220-belyj",
+        "product_new_price": "31 990руб.",
+        "product_old_price": "50 290руб.",
+        "product_discount": "36%"
+    },
+    "289": {
+        "product_name": "Шкаф-купе Итан-2-140-230 Glass Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-140-230-glass-dub-tabachnyj",
+        "product_new_price": "38 690руб.",
+        "product_old_price": "51 690руб.",
+        "product_discount": "25%"
+    },
+    "290": {
+        "product_name": "Шкаф-купе Итан-3-210-230 Glass Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-210-230-glass-dub-sonoma",
+        "product_new_price": "52 990руб.",
+        "product_old_price": "87 990руб.",
+        "product_discount": "39%"
+    },
+    "291": {
+        "product_name": "Шкаф-купе Тебар-4-200-230 Белый без зеркал",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-4-200-230-belyj-bez-zerkal",
+        "product_new_price": "40 990руб.",
+        "product_old_price": "44 990руб.",
+        "product_discount": "8%"
+    },
+    "292": {
+        "product_name": "Стеллаж Нордик-3 Dark",
+        "product_href": "https://divan.ru/product/stellaj-nordik-3-dark",
+        "product_new_price": "15 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "15%"
+    },
+    "293": {
+        "product_name": "Шкаф-купе Орест-3-210-230 Glass Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-210-230-glass-dub-tabachnyj",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "81 690руб.",
+        "product_discount": "26%"
+    },
+    "294": {
+        "product_name": "Распашной шкаф Лектор-4-180-200 Дуб Ирландский",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lektor-4-180-200-dub-irlandskij",
+        "product_new_price": "39 990руб.",
+        "product_old_price": "52 990руб.",
+        "product_discount": "24%"
+    },
+    "295": {
+        "product_name": "Шкаф-купе Итан-2-140-230 Дуб Сонома/Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-140-230-dub-sonomabelyj",
+        "product_new_price": "29 690руб.",
+        "product_old_price": "49 490руб.",
+        "product_discount": "40%"
+    },
+    "296": {
+        "product_name": "Стеллаж Бриз-1 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/stellaj-briz-1-dub-zolotistyj",
+        "product_new_price": "7990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "20%"
+    },
+    "297": {
+        "product_name": "Шкаф-купе Орлеан-2-160-220 Венге",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-160-220-venge",
+        "product_new_price": "30 990руб.",
+        "product_old_price": "48 990руб.",
+        "product_discount": "36%"
+    },
+    "298": {
+        "product_name": "Шкаф-купе Итан-3-210-230 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-210-230-beton",
+        "product_new_price": "46 290руб.",
+        "product_old_price": "61 690руб.",
+        "product_discount": "24%"
+    },
+    "299": {
+        "product_name": "Шкаф-купе Итан-3-180-230 Glass Triple Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-180-230-glass-triple-belyj",
+        "product_new_price": "53 290руб.",
+        "product_old_price": "88 490руб.",
+        "product_discount": "39%"
+    },
+    "300": {
+        "product_name": "Шкаф-купе Итан-3-210-230 Glass Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-210-230-glass-belyj",
+        "product_new_price": "52 990руб.",
+        "product_old_price": "87 990руб.",
+        "product_discount": "39%"
+    },
+    "301": {
+        "product_name": "Шкаф-купе Орлеан-2-120-240 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-120-240-belyj",
+        "product_new_price": "26 990руб.",
+        "product_old_price": "42 290руб.",
+        "product_discount": "36%"
+    },
+    "302": {
+        "product_name": "Шкаф-купе Орлеан-3-210-220 Дуб Молочный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-210-220-dub-molochnyj",
+        "product_new_price": "37 990руб.",
+        "product_old_price": "59 990руб.",
+        "product_discount": "36%"
+    },
+    "303": {
+        "product_name": "Шкаф-купе Орлеан-3-210-220 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-210-220-belyj",
+        "product_new_price": "37 990руб.",
+        "product_old_price": "59 990руб.",
+        "product_discount": "36%"
+    },
+    "304": {
+        "product_name": "Распашной шкаф Майер-2-100-210 Плюс Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-majer-2-100-210-plyus-dub-sonoma",
+        "product_new_price": "32 990руб.",
+        "product_old_price": "35 990руб.",
+        "product_discount": "8%"
+    },
+    "305": {
+        "product_name": "Шкаф-купе Орлеан-2-160-240 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-160-240-yasen-shimo-svetlyj",
+        "product_new_price": "32 990руб.",
+        "product_old_price": "52 690руб.",
+        "product_discount": "37%"
+    },
+    "306": {
+        "product_name": "Шкаф-купе Мюнхен-3-210-220 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-210-220-dub-tabachnyj",
+        "product_new_price": "38 990руб.",
+        "product_old_price": "54 690руб.",
+        "product_discount": "28%"
+    },
+    "307": {
+        "product_name": "Распашной шкаф Майер-3-120-240 Плюс Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-majer-3-120-240-plyus-dub-sonoma",
+        "product_new_price": "39 990руб.",
+        "product_old_price": "44 990руб.",
+        "product_discount": "11%"
+    },
+    "308": {
+        "product_name": "Шкаф-купе Орлеан-3-180-240 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-180-240-yasen-shimo-svetlyj",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "58 990руб.",
+        "product_discount": "37%"
+    },
+    "309": {
+        "product_name": "Шкаф-купе Мюнхен-3-240-240 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-240-240-belyj",
+        "product_new_price": "43 990руб.",
+        "product_old_price": "69 290руб.",
+        "product_discount": "36%"
+    },
+    "310": {
+        "product_name": "Шкаф-купе Мюнхен-3-180-220 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-180-220-beton",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "48 990руб.",
+        "product_discount": "28%"
+    },
+    "311": {
+        "product_name": "Распашной шкаф Шевертон-2",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-sheverton-2",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "17%"
+    },
+    "312": {
+        "product_name": "Шкаф-купе Орест-2-160-230 Glass Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-160-230-glass-belyj",
+        "product_new_price": "41 490руб.",
+        "product_old_price": "68 990руб.",
+        "product_discount": "39%"
+    },
+    "313": {
+        "product_name": "Распашной шкаф Стелла-4.1-180-200 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-4-1-180-200-dub-sonoma",
+        "product_new_price": "31 990руб.",
+        "product_old_price": "36 990руб.",
+        "product_discount": "13%"
+    },
+    "314": {
+        "product_name": "Распашной шкаф Теджонс-3 Art Aquamarine",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-3-04-akvamarin",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "69 990руб.",
+        "product_discount": "14%"
+    },
+    "315": {
+        "product_name": "Шкаф-купе Орест-3-210-230 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-210-230-beton",
+        "product_new_price": "49 290руб.",
+        "product_old_price": "65 990руб.",
+        "product_discount": "25%"
+    },
+    "316": {
+        "product_name": "Шкаф-купе Итан-2-160-230 Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-160-230-dub-sonoma",
+        "product_new_price": "31 990руб.",
+        "product_old_price": "52 990руб.",
+        "product_discount": "39%"
+    },
+    "317": {
+        "product_name": "Распашной шкаф Пронто-2-90-210 Серый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-2-90-210-seryj",
+        "product_new_price": "31 990руб.",
+        "product_old_price": "36 990руб.",
+        "product_discount": "13%"
+    },
+    "318": {
+        "product_name": "Стеллаж Матис-2 White",
+        "product_href": "https://divan.ru/product/stellaj-matis-2-white",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "17 990руб.",
+        "product_discount": "16%"
+    },
+    "319": {
+        "product_name": "Распашной шкаф Лайт-4-240-240 Дуб Сонома 2 зеркала 4 двери",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lajt-4-240-240-dub-sonoma-2-zerkala-4-dveri",
+        "product_new_price": "42 990руб.",
+        "product_old_price": "49 990руб.",
+        "product_discount": "14%"
+    },
+    "320": {
+        "product_name": "Шкаф-купе Итан-2-160-230 Glass Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-160-230-glass-dub-sonoma",
+        "product_new_price": "37 990руб.",
+        "product_old_price": "62 990руб.",
+        "product_discount": "39%"
+    },
+    "321": {
+        "product_name": "Шкаф-купе Итан-2-140-230 Glass Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-140-230-glass-beton",
+        "product_new_price": "38 690руб.",
+        "product_old_price": "51 690руб.",
+        "product_discount": "25%"
+    },
+    "322": {
+        "product_name": "Шкаф-купе Орлеан-2-160-240 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-160-240-belyj",
+        "product_new_price": "32 990руб.",
+        "product_old_price": "52 690руб.",
+        "product_discount": "37%"
+    },
+    "323": {
+        "product_name": "Стеллаж Сплит-6 Белый",
+        "product_href": "https://divan.ru/product/stellaj-split-6-belyj",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "21 990руб.",
+        "product_discount": "18%"
+    },
+    "324": {
+        "product_name": "Шкаф-купе Орлеан-3-180-220 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-180-220-yasen-shimo-svetlyj",
+        "product_new_price": "33 990руб.",
+        "product_old_price": "53 690руб.",
+        "product_discount": "36%"
+    },
+    "325": {
+        "product_name": "Распашной шкаф Теджонс-4 Deco Aquamarine",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-4-05-akvamarin",
+        "product_new_price": "79 990руб.",
+        "product_old_price": "96 990руб.",
+        "product_discount": "17%"
+    },
+    "326": {
+        "product_name": "Шкаф-купе Орлеан-3-180-240 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-180-240-dub-tabachnyj",
+        "product_new_price": "39 990руб.",
+        "product_old_price": "53 690руб.",
+        "product_discount": "25%"
+    },
+    "327": {
+        "product_name": "Стеллаж Сплит-5 Дуб Сонома",
+        "product_href": "https://divan.ru/product/stellaj-split-5-dub-sonoma",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "20 990руб.",
+        "product_discount": "19%"
+    },
+    "328": {
+        "product_name": "Стеллаж Маранг-12 Wood",
+        "product_href": "https://divan.ru/product/stellaj-marang-12-wood",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "16%"
+    },
+    "329": {
+        "product_name": "Распашной шкаф Теджонс-2 Deco Milk",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-2-05-milk",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "53 090руб.",
+        "product_discount": "15%"
+    },
+    "330": {
+        "product_name": "Шкаф-купе Итан-3-180-230 Glass Triple Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-180-230-glass-triple-dub-tabachnyj",
+        "product_new_price": "56 290руб.",
+        "product_old_price": "75 990руб.",
+        "product_discount": "25%"
+    },
+    "331": {
+        "product_name": "Стеллаж Роквуд-1 Black",
+        "product_href": "https://divan.ru/product/stellaj-rokvud-1-black",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "23%"
+    },
+    "332": {
+        "product_name": "Распашной шкаф Пронто-4-170-210 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-4-170-210-belyj",
+        "product_new_price": "42 990руб.",
+        "product_old_price": "49 990руб.",
+        "product_discount": "14%"
+    },
+    "333": {
+        "product_name": "Шкаф-купе Орест-2-140-230 Glass Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-140-230-glass-dub-sonoma",
+        "product_new_price": "39 290руб.",
+        "product_old_price": "65 490руб.",
+        "product_discount": "40%"
+    },
+    "334": {
+        "product_name": "Шкаф-купе Мюнхен-2-120-220 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-2-120-220-dub-tabachnyj",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "33 990руб.",
+        "product_discount": "23%"
+    },
+    "335": {
+        "product_name": "Стеллаж Линц-3 Brown",
+        "product_href": "https://divan.ru/product/stellaj-linc-3-brown",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "37%"
+    },
+    "336": {
+        "product_name": "Распашной шкаф Пронто-4-190-240 Велюр",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-4-190-240-velyur",
+        "product_new_price": "58 990руб.",
+        "product_old_price": "66 990руб.",
+        "product_discount": "11%"
+    },
+    "337": {
+        "product_name": "Шкаф-купе Орест-3-180-230 Дуб Сонома/Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-180-230-dub-sonomabelyj",
+        "product_new_price": "40 290руб.",
+        "product_old_price": "66 690руб.",
+        "product_discount": "39%"
+    },
+    "338": {
+        "product_name": "Стеллаж Сплит-2 Белый",
+        "product_href": "https://divan.ru/product/stellaj-split-2-belyj",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "17%"
+    },
+    "339": {
+        "product_name": "Шкаф-купе Орест-2-140-230 Glass Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-140-230-glass-dub-tabachnyj",
+        "product_new_price": "41 990руб.",
+        "product_old_price": "55 990руб.",
+        "product_discount": "25%"
+    },
+    "340": {
+        "product_name": "Распашной шкаф Лорэна-4-240-240 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lorena-4-240-240-belyj",
+        "product_new_price": "46 990руб.",
+        "product_old_price": "53 890руб.",
+        "product_discount": "12%"
+    },
+    "341": {
+        "product_name": "Шкаф-купе Орлеан-3-180-240 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-180-240-belyj",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "58 990руб.",
+        "product_discount": "37%"
+    },
+    "342": {
+        "product_name": "Распашной шкаф Теджонс-3 Art Milk",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-3-04-milk",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "69 990руб.",
+        "product_discount": "14%"
+    },
+    "343": {
+        "product_name": "Шкаф-купе Орлеан-2-120-220 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-120-220-beton",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "35 290руб.",
+        "product_discount": "26%"
+    },
+    "344": {
+        "product_name": "Шкаф-купе Инмарк-2-140-220 Велюр",
+        "product_href": "https://divan.ru/product/shkaf-kupe-inmark-2-140-220-velyur",
+        "product_new_price": "49 990руб.",
+        "product_old_price": "57 990руб.",
+        "product_discount": "13%"
+    },
+    "345": {
+        "product_name": "Распашной шкаф Тонхейм-3",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tonhejm-3",
+        "product_new_price": "49 990руб.",
+        "product_old_price": "64 990руб.",
+        "product_discount": "23%"
+    },
+    "346": {
+        "product_name": "Распашной шкаф Лорэна-1-50-210 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lorena-1-50-210-dub-zolotistyj",
+        "product_new_price": "11 490руб.",
+        "product_old_price": "14 290руб.",
+        "product_discount": "19%"
+    },
+    "347": {
+        "product_name": "Шкаф-купе Итан-3-210-230 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-210-230-dub-tabachnyj",
+        "product_new_price": "46 290руб.",
+        "product_old_price": "61 690руб.",
+        "product_discount": "24%"
+    },
+    "348": {
+        "product_name": "Шкаф-купе Тебар-4-210-230 Графит без зеркал",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-4-210-230-grafit-bez-zerkal",
+        "product_new_price": "49 990руб.",
+        "product_old_price": "53 990руб.",
+        "product_discount": "7%"
+    },
+    "349": {
+        "product_name": "Шкаф-купе Мюнхен-2-160-220 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-2-160-220-yasen-shimo-svetlyj",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "46 990руб.",
+        "product_discount": "36%"
+    },
+    "350": {
+        "product_name": "Шкаф-купе Орлеан-2-160-220 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-160-220-belyj",
+        "product_new_price": "30 990руб.",
+        "product_old_price": "48 990руб.",
+        "product_discount": "36%"
+    },
+    "351": {
+        "product_name": "Шкаф-купе Итан-2-140-230 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-140-230-beton",
+        "product_new_price": "33 290руб.",
+        "product_old_price": "44 490руб.",
+        "product_discount": "25%"
+    },
+    "352": {
+        "product_name": "Шкаф-купе Орлеан-3-240-240 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-240-240-belyj",
+        "product_new_price": "45 990руб.",
+        "product_old_price": "72 990руб.",
+        "product_discount": "36%"
+    },
+    "353": {
+        "product_name": "Распашной шкаф Нордик-1 Dark",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nordik-1-dark",
+        "product_new_price": "15 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "15%"
+    },
+    "354": {
+        "product_name": "Распашной шкаф Майер-2-100-240 Плюс Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-majer-2-100-240-plyus-dub-sonoma",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "38 990руб.",
+        "product_discount": "10%"
+    },
+    "355": {
+        "product_name": "Шкаф-купе Орест-2-160-230 Glass Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-160-230-glass-dub-tabachnyj",
+        "product_new_price": "44 290руб.",
+        "product_old_price": "59 290руб.",
+        "product_discount": "25%"
+    },
+    "356": {
+        "product_name": "Шкаф-купе Орест-3-210-230 Glass Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-210-230-glass-dub-sonoma",
+        "product_new_price": "56 690руб.",
+        "product_old_price": "93 990руб.",
+        "product_discount": "39%"
+    },
+    "357": {
+        "product_name": "Стеллаж Линц-4 Light",
+        "product_href": "https://divan.ru/product/stellaj-linc-4-light",
+        "product_new_price": "20 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "30%"
+    },
+    "358": {
+        "product_name": "Стеллаж Нордик-3 Light",
+        "product_href": "https://divan.ru/product/stellaj-nordik-3-light",
+        "product_new_price": "15 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "15%"
+    },
+    "359": {
+        "product_name": "Шкаф-купе Инмарк-3-180-240 Графит",
+        "product_href": "https://divan.ru/product/shkaf-kupe-inmark-3-180-240-grafit",
+        "product_new_price": "63 990руб.",
+        "product_old_price": "76 990руб.",
+        "product_discount": "16%"
+    },
+    "360": {
+        "product_name": "Шкаф-купе Мюнхен-3-240-240 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-240-240-beton",
+        "product_new_price": "47 990руб.",
+        "product_old_price": "66 690руб.",
+        "product_discount": "28%"
+    },
+    "361": {
+        "product_name": "Распашной шкаф Пронто-3-130-210 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-3-130-210-belyj",
+        "product_new_price": "30 990руб.",
+        "product_old_price": "34 990руб.",
+        "product_discount": "11%"
+    },
+    "362": {
+        "product_name": "Шкаф-купе Орест-3-210-230 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-210-230-belyj",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "74 490руб.",
+        "product_discount": "39%"
+    },
+    "363": {
+        "product_name": "Распашной шкаф Сальвадор-2-90-210 Wood",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-salvador-2-90-210-wood",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "16%"
+    },
+    "364": {
+        "product_name": "Шкаф-купе Итан-3-180-230 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-180-230-beton",
+        "product_new_price": "40 990руб.",
+        "product_old_price": "54 990руб.",
+        "product_discount": "25%"
+    },
+    "365": {
+        "product_name": "Стеллаж Матис-1 White",
+        "product_href": "https://divan.ru/product/stellaj-matis-1-white",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "13%"
+    },
+    "366": {
+        "product_name": "Шкаф-купе Орлеан-3-240-220 Венге",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-240-220-venge",
+        "product_new_price": "42 990руб.",
+        "product_old_price": "67 290руб.",
+        "product_discount": "36%"
+    },
+    "367": {
+        "product_name": "Распашной шкаф Теджонс-3 Art Santiago",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-3-04-santyago",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "69 990руб.",
+        "product_discount": "14%"
+    },
+    "368": {
+        "product_name": "Шкаф-купе Эконом-2-100-240 Белый с зеркалом",
+        "product_href": "https://divan.ru/product/shkaf-ekonom-2-100-240-belyj-s-zerkalom",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "8%"
+    },
+    "369": {
+        "product_name": "Шкаф-купе Орест-2-120-230 Glass Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-120-230-glass-beton",
+        "product_new_price": "39 290руб.",
+        "product_old_price": "52 990руб.",
+        "product_discount": "25%"
+    },
+    "370": {
+        "product_name": "Шкаф-купе Орест-2-140-230 Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-140-230-dub-sonoma",
+        "product_new_price": "33 290руб.",
+        "product_old_price": "55 690руб.",
+        "product_discount": "40%"
+    },
+    "371": {
+        "product_name": "Распашной шкаф Теджонс-3 Deco Santiago",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-3-05-santyago",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "69 990руб.",
+        "product_discount": "14%"
+    },
+    "372": {
+        "product_name": "Распашной шкаф Монблан-4 Аквамарин",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monblan-4-akvamarin",
+        "product_new_price": "79 990руб.",
+        "product_old_price": "96 990руб.",
+        "product_discount": "17%"
+    },
+    "373": {
+        "product_name": "Распашной шкаф Монмарт-4-180-220 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monmart-4-180-220-belyj",
+        "product_new_price": "54 990руб.",
+        "product_old_price": "63 990руб.",
+        "product_discount": "14%"
+    },
+    "374": {
+        "product_name": "Шкаф-купе Винсент-2-100-240 Белый без зеркал",
+        "product_href": "https://divan.ru/product/shkaf-kupe-vinsent-2-100-240-belyj-bez-zerkal",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "26 990руб.",
+        "product_discount": "14%"
+    },
+    "375": {
+        "product_name": "Шкаф-купе Итан-2-160-230 Glass Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-160-230-glass-dub-tabachnyj",
+        "product_new_price": "41 290руб.",
+        "product_old_price": "54 990руб.",
+        "product_discount": "24%"
+    },
+    "376": {
+        "product_name": "Шкаф-купе Орлеан-3-180-240 Венге",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-180-240-venge",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "58 990руб.",
+        "product_discount": "37%"
+    },
+    "377": {
+        "product_name": "Распашной шкаф Пронто-2-90-210 Дуб Сонома / Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-2-90-210-dub-sonoma--belyj",
+        "product_new_price": "26 990руб.",
+        "product_old_price": "31 990руб.",
+        "product_discount": "15%"
+    },
+    "378": {
+        "product_name": "Шкаф-купе Реймс-3-210-230 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-3-210-230-dub-tabachnyj",
+        "product_new_price": "55 690руб.",
+        "product_old_price": "74 490руб.",
+        "product_discount": "25%"
+    },
+    "379": {
+        "product_name": "Распашной шкаф Монблан-2 Графит",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monblan-2-grafit",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "49 990руб.",
+        "product_discount": "10%"
+    },
+    "380": {
+        "product_name": "Шкаф-купе Мюнхен-3-240-220 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-240-220-belyj",
+        "product_new_price": "39 990руб.",
+        "product_old_price": "63 690руб.",
+        "product_discount": "37%"
+    },
+    "381": {
+        "product_name": "Шкаф-купе Орлеан-3-210-220 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-210-220-yasen-shimo-svetlyj",
+        "product_new_price": "37 990руб.",
+        "product_old_price": "59 990руб.",
+        "product_discount": "36%"
+    },
+    "382": {
+        "product_name": "Распашной шкаф Пронто-2-90-210 Велюр",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-2-90-210-velyur",
+        "product_new_price": "31 990руб.",
+        "product_old_price": "36 990руб.",
+        "product_discount": "13%"
+    },
+    "383": {
+        "product_name": "Распашной шкаф Лайт-1-50-210-1 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lajt-1-50-210-1-dub-sonoma",
+        "product_new_price": "8990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "10%"
+    },
+    "384": {
+        "product_name": "Шкаф-купе Мюнхен-3-240-220 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-240-220-beton",
+        "product_new_price": "43 990руб.",
+        "product_old_price": "61 490руб.",
+        "product_discount": "28%"
+    },
+    "385": {
+        "product_name": "Распашной шкаф Монмарт-3-120-220 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monmart-3-120-220-belyj",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "43 990руб.",
+        "product_discount": "15%"
+    },
+    "386": {
+        "product_name": "Шкаф-купе Итан-2-160-230 Glass Double Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-160-230-glass-double-dub-sonoma",
+        "product_new_price": "39 490руб.",
+        "product_old_price": "72 290руб.",
+        "product_discount": "45%"
+    },
+    "387": {
+        "product_name": "Шкаф-купе Итан-2-160-230 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-160-230-belyj",
+        "product_new_price": "31 990руб.",
+        "product_old_price": "52 990руб.",
+        "product_discount": "39%"
+    },
+    "388": {
+        "product_name": "Шкаф-купе Орест-3-210-230 Glass Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-210-230-glass-belyj",
+        "product_new_price": "56 690руб.",
+        "product_old_price": "93 990руб.",
+        "product_discount": "39%"
+    },
+    "389": {
+        "product_name": "Шкаф-купе Итан-2-120-230 Glass Double Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-120-230-glass-double-beton",
+        "product_new_price": "37 290руб.",
+        "product_old_price": "55 990руб.",
+        "product_discount": "33%"
+    },
+    "390": {
+        "product_name": "Шкаф-купе Орест-3-180-230 Glass Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-180-230-glass-dub-sonoma",
+        "product_new_price": "51 290руб.",
+        "product_old_price": "84 990руб.",
+        "product_discount": "39%"
+    },
+    "391": {
+        "product_name": "Распашной шкаф Пронто-4-190-240 Дуб Сонома / Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-4-190-240-dub-sonoma--belyj",
+        "product_new_price": "58 990руб.",
+        "product_old_price": "65 990руб.",
+        "product_discount": "10%"
+    },
+    "392": {
+        "product_name": "Шкаф-купе Орлеан-2-140-240 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-140-240-beton",
+        "product_new_price": "31 990руб.",
+        "product_old_price": "42 990руб.",
+        "product_discount": "25%"
+    },
+    "393": {
+        "product_name": "Стеллаж Сплит-1 Дуб Сонома",
+        "product_href": "https://divan.ru/product/stellaj-split-1-dub-sonoma",
+        "product_new_price": "8990руб.",
+        "product_old_price": "11 990руб.",
+        "product_discount": "25%"
+    },
+    "394": {
+        "product_name": "Распашной шкаф Стелла-3.1-130-200 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-3-1-130-200-belyj",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "26 990руб.",
+        "product_discount": "14%"
+    },
+    "395": {
+        "product_name": "Шкаф-купе Итан-3-180-230 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-180-230-belyj",
+        "product_new_price": "36 690руб.",
+        "product_old_price": "61 290руб.",
+        "product_discount": "40%"
+    },
+    "396": {
+        "product_name": "Распашной шкаф Лорэна-2-100-210 Черный",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lorena-2-100-210-chernyj",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "28 590руб.",
+        "product_discount": "9%"
+    },
+    "397": {
+        "product_name": "Шкаф-купе Орест-3-180-230 Glass Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-180-230-glass-dub-tabachnyj",
+        "product_new_price": "54 290руб.",
+        "product_old_price": "73 290руб.",
+        "product_discount": "25%"
+    },
+    "398": {
+        "product_name": "Стеллаж Копенгаген Black",
+        "product_href": "https://divan.ru/product/stellaj-kopengagen-black",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "25%"
+    },
+    "399": {
+        "product_name": "Распашной шкаф Техно-3 Дуб Крафт Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tehno-3-dub-kraft-belyj",
+        "product_new_price": "29 270руб.",
+        "product_old_price": "37 490руб.",
+        "product_discount": "21%"
+    },
+    "400": {
+        "product_name": "Распашной шкаф Стелла-2-100-220 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-2-100-220-belyj",
+        "product_new_price": "15 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "15%"
+    },
+    "401": {
+        "product_name": "Шкаф-купе Мюнхен-2-140-220 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-2-140-220-yasen-shimo-svetlyj",
+        "product_new_price": "25 990руб.",
+        "product_old_price": "41 690руб.",
+        "product_discount": "37%"
+    },
+    "402": {
+        "product_name": "Шкаф-купе Мюнхен-2-160-220 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-2-160-220-dub-tabachnyj",
+        "product_new_price": "31 990руб.",
+        "product_old_price": "42 990руб.",
+        "product_discount": "25%"
+    },
+    "403": {
+        "product_name": "Распашной шкаф Стелла-4-180-200 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-4-180-200-dub-sonoma",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "35 990руб.",
+        "product_discount": "16%"
+    },
+    "404": {
+        "product_name": "Распашной шкаф Монмарт-2-80-210 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monmart-2-80-200-belyj",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "16%"
+    },
+    "405": {
+        "product_name": "Распашной шкаф Монблан-3 Аквамарин",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monblan-3-akvamarin",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "68 990руб.",
+        "product_discount": "13%"
+    },
+    "406": {
+        "product_name": "Шкаф-купе Тебар-4-220-230 Дуб Сонома 2 зеркала",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-4-220-230-dub-sonoma-2-zerkala",
+        "product_new_price": "52 990руб.",
+        "product_old_price": "57 990руб.",
+        "product_discount": "8%"
+    },
+    "407": {
+        "product_name": "Распашной шкаф Стелла-3.1-120-240 Велюр",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-3-1-120-240-velyur",
+        "product_new_price": "28 990руб.",
+        "product_old_price": "32 990руб.",
+        "product_discount": "12%"
+    },
+    "408": {
+        "product_name": "Шкаф-купе Тебар-2-120-230 Дуб Сонома 1 зеркало",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-2-120-230-dub-sonoma-1-zerkalo",
+        "product_new_price": "28 990руб.",
+        "product_old_price": "31 990руб.",
+        "product_discount": "9%"
+    },
+    "409": {
+        "product_name": "Шкаф-купе Итан-2-140-230 Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-140-230-dub-sonoma",
+        "product_new_price": "29 690руб.",
+        "product_old_price": "49 490руб.",
+        "product_discount": "40%"
+    },
+    "410": {
+        "product_name": "Распашной шкаф Лайт-3-170-240 Белый без зеркал 3 двери",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lajt-3-170-240-belyj-bez-zerkal-3-dveri",
+        "product_new_price": "26 990руб.",
+        "product_old_price": "28 990руб.",
+        "product_discount": "6%"
+    },
+    "411": {
+        "product_name": "Шкаф-купе Реймс-2-140-230 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-2-140-230-dub-tabachnyj",
+        "product_new_price": "39 690руб.",
+        "product_old_price": "52 990руб.",
+        "product_discount": "25%"
+    },
+    "412": {
+        "product_name": "Шкаф-купе Реймс-2-140-230 Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-2-140-230-dub-sonoma",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "61 490руб.",
+        "product_discount": "39%"
+    },
+    "413": {
+        "product_name": "Шкаф-купе Реймс-3-210-230 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-3-210-230-belyj",
+        "product_new_price": "52 290руб.",
+        "product_old_price": "86 990руб.",
+        "product_discount": "39%"
+    },
+    "414": {
+        "product_name": "Распашной шкаф Теджонс-4 Art Santiago",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-4-04-santyago",
+        "product_new_price": "79 990руб.",
+        "product_old_price": "96 990руб.",
+        "product_discount": "17%"
+    },
+    "415": {
+        "product_name": "Распашной шкаф Гритон-2 Light",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-griton-2-light",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "12%"
+    },
+    "416": {
+        "product_name": "Шкаф-купе Орлеан-2-160-220 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-160-220-beton",
+        "product_new_price": "32 990руб.",
+        "product_old_price": "44 690руб.",
+        "product_discount": "26%"
+    },
+    "417": {
+        "product_name": "Шкаф-купе Орест-3-180-230 Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-180-230-dub-sonoma",
+        "product_new_price": "40 290руб.",
+        "product_old_price": "66 690руб.",
+        "product_discount": "39%"
+    },
+    "418": {
+        "product_name": "Шкаф-купе Орлеан-2-160-240 Венге",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-160-240-venge",
+        "product_new_price": "32 990руб.",
+        "product_old_price": "52 690руб.",
+        "product_discount": "37%"
+    },
+    "419": {
+        "product_name": "Стеллаж Роквуд-2 Black",
+        "product_href": "https://divan.ru/product/stellaj-rokvud-2-black",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "16%"
+    },
+    "420": {
+        "product_name": "Распашной шкаф Гритон-1 Light",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-griton-1-light",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "17 990руб.",
+        "product_discount": "16%"
+    },
+    "421": {
+        "product_name": "Шкаф-купе Итан-3-210-230 Glass Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-210-230-glass-dub-tabachnyj",
+        "product_new_price": "56 990руб.",
+        "product_old_price": "76 290руб.",
+        "product_discount": "25%"
+    },
+    "422": {
+        "product_name": "Стеллаж Сплит-5 Белый",
+        "product_href": "https://divan.ru/product/stellaj-split-5-belyj",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "20 990руб.",
+        "product_discount": "19%"
+    },
+    "423": {
+        "product_name": "Распашной шкаф Монмарт-4-200-240 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monmart-4-200-240-belyj",
+        "product_new_price": "62 990руб.",
+        "product_old_price": "71 990руб.",
+        "product_discount": "12%"
+    },
+    "424": {
+        "product_name": "Распашной шкаф Лайт-2-100-210 Дуб Сонома без зеркал 2 двери",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lajt-2-100-210-dub-sonoma-bez-zerkal-2-dveri",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "10%"
+    },
+    "425": {
+        "product_name": "Шкаф-купе Орлеан-3-240-240 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-3-240-240-beton",
+        "product_new_price": "48 990руб.",
+        "product_old_price": "66 690руб.",
+        "product_discount": "26%"
+    },
+    "426": {
+        "product_name": "Распашной шкаф Майер-2-80-240 Плюс Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-majer-2-80-240-plyus-dub-sonoma",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "33 990руб.",
+        "product_discount": "11%"
+    },
+    "427": {
+        "product_name": "Распашной шкаф Нордик-1 Scandi Plain",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nordik-1-scandi-plain",
+        "product_new_price": "15 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "15%"
+    },
+    "428": {
+        "product_name": "Шкаф-купе Итан-2-120-230 Glass Double Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-120-230-glass-double-dub-tabachnyj",
+        "product_new_price": "37 290руб.",
+        "product_old_price": "55 990руб.",
+        "product_discount": "33%"
+    },
+    "429": {
+        "product_name": "Распашной шкаф Пронто-3-150-220 Серый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-3-150-220-seryj",
+        "product_new_price": "43 990руб.",
+        "product_old_price": "49 990руб.",
+        "product_discount": "12%"
+    },
+    "430": {
+        "product_name": "Распашной шкаф Теджонс-2 Deco Santiago",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-2-05-santyago",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "53 090руб.",
+        "product_discount": "15%"
+    },
+    "431": {
+        "product_name": "Шкаф-купе Мюнхен-3-180-220 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-3-180-220-dub-tabachnyj",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "48 990руб.",
+        "product_discount": "28%"
+    },
+    "432": {
+        "product_name": "Распашной шкаф Пронто-4-170-210 Велюр",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-4-170-210-velyur",
+        "product_new_price": "51 990руб.",
+        "product_old_price": "59 990руб.",
+        "product_discount": "13%"
+    },
+    "433": {
+        "product_name": "Стеллаж Талдом-2 Дуб Ирландский",
+        "product_href": "https://divan.ru/product/stellaj-taldom-2-dub-irlandskij",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "29%"
+    },
+    "434": {
+        "product_name": "Распашной шкаф Нордик Light",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nordik-light",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "20%"
+    },
+    "435": {
+        "product_name": "Стеллаж Линц-3 Grey",
+        "product_href": "https://divan.ru/product/stellaj-linc-3-grey",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "37%"
+    },
+    "436": {
+        "product_name": "Шкаф-купе Итан-3-180-230 Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-180-230-dub-sonoma",
+        "product_new_price": "36 690руб.",
+        "product_old_price": "61 290руб.",
+        "product_discount": "40%"
+    },
+    "437": {
+        "product_name": "Шкаф-купе Итан-3-210-230 Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-210-230-dub-sonoma",
+        "product_new_price": "41 290руб.",
+        "product_old_price": "68 290руб.",
+        "product_discount": "39%"
+    },
+    "438": {
+        "product_name": "Шкаф-купе Итан-2-120-230 Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-120-230-dub-sonoma",
+        "product_new_price": "27 990руб.",
+        "product_old_price": "46 490руб.",
+        "product_discount": "39%"
+    },
+    "439": {
+        "product_name": "Шкаф-купе Реймс-3-180-230 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-3-180-230-belyj",
+        "product_new_price": "47 290руб.",
+        "product_old_price": "78 490руб.",
+        "product_discount": "39%"
+    },
+    "440": {
+        "product_name": "Шкаф-купе Орлеан-2-160-240 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-160-240-dub-tabachnyj",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "47 290руб.",
+        "product_discount": "26%"
+    },
+    "441": {
+        "product_name": "Стеллаж Линц-4 Grey",
+        "product_href": "https://divan.ru/product/stellaj-linc-4-grey",
+        "product_new_price": "20 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "30%"
+    },
+    "442": {
+        "product_name": "Распашной шкаф Пронто-4-170-210 Дуб Сонома / Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-4-170-210-dub-sonoma--belyj",
+        "product_new_price": "42 990руб.",
+        "product_old_price": "49 990руб.",
+        "product_discount": "14%"
+    },
+    "443": {
+        "product_name": "Распашной шкаф Теджонс-4 Deco Grafit",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-4-05-grafit",
+        "product_new_price": "79 990руб.",
+        "product_old_price": "96 990руб.",
+        "product_discount": "17%"
+    },
+    "444": {
+        "product_name": "Шкаф-купе Орлеан-2-120-240 Венге",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-120-240-venge",
+        "product_new_price": "26 990руб.",
+        "product_old_price": "42 290руб.",
+        "product_discount": "36%"
+    },
+    "445": {
+        "product_name": "Шкаф-купе Реймс-3-210-230 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-3-210-230-beton",
+        "product_new_price": "55 690руб.",
+        "product_old_price": "74 490руб.",
+        "product_discount": "25%"
+    },
+    "446": {
+        "product_name": "Шкаф-купе Тебар-4-210-240 Дуб Сонома 2 зеркала",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-4-210-240-dub-sonoma-2-zerkala",
+        "product_new_price": "42 990руб.",
+        "product_old_price": "47 990руб.",
+        "product_discount": "10%"
+    },
+    "447": {
+        "product_name": "Шкаф-купе Винсент-3-200-240 Белый без зеркал",
+        "product_href": "https://divan.ru/product/shkaf-kupe-vinsent-3-200-240-belyj-bez-zerkal",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "43 990руб.",
+        "product_discount": "15%"
+    },
+    "448": {
+        "product_name": "Шкаф-купе Орлеан-2-120-240 Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-120-240-beton",
+        "product_new_price": "28 990руб.",
+        "product_old_price": "38 690руб.",
+        "product_discount": "25%"
+    },
+    "449": {
+        "product_name": "Стеллаж Роквуд-1 Light",
+        "product_href": "https://divan.ru/product/stellaj-rokvud-1-light",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "16 990руб.",
+        "product_discount": "23%"
+    },
+    "450": {
+        "product_name": "Стеллаж Роквуд-2 Light",
+        "product_href": "https://divan.ru/product/stellaj-rokvud-2-light",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "16%"
+    },
+    "451": {
+        "product_name": "Шкаф-купе Итан-3-210-230 Glass Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-210-230-glass-beton",
+        "product_new_price": "56 990руб.",
+        "product_old_price": "76 290руб.",
+        "product_discount": "25%"
+    },
+    "452": {
+        "product_name": "Шкаф-купе Мюнхен-2-120-220 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-myunhen-2-120-220-yasen-shimo-svetlyj",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "36 990руб.",
+        "product_discount": "35%"
+    },
+    "453": {
+        "product_name": "Стеллаж Аргос-1 Белый",
+        "product_href": "https://divan.ru/product/stellaj-argos-1-belyj",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "21 240руб.",
+        "product_discount": "20%"
+    },
+    "454": {
+        "product_name": "Шкаф-купе Орлеан-2-120-240 Ясень Шимо Светлый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-120-240-yasen-shimo-svetlyj",
+        "product_new_price": "26 990руб.",
+        "product_old_price": "42 290руб.",
+        "product_discount": "36%"
+    },
+    "455": {
+        "product_name": "Распашной шкаф Стелла-3.1-130-200 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-3-1-130-200-dub-sonoma",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "26 990руб.",
+        "product_discount": "14%"
+    },
+    "456": {
+        "product_name": "Шкаф-купе Орлеан-2-120-240 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-120-240-dub-tabachnyj",
+        "product_new_price": "28 990руб.",
+        "product_old_price": "38 690руб.",
+        "product_discount": "25%"
+    },
+    "457": {
+        "product_name": "Распашной шкаф Окленд Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-oklend-belyj",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "32 990руб.",
+        "product_discount": "24%"
+    },
+    "458": {
+        "product_name": "Распашной шкаф Стелла-3-180-210 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-3-180-210-dub-zolotistyj",
+        "product_new_price": "32 990руб.",
+        "product_old_price": "38 990руб.",
+        "product_discount": "15%"
+    },
+    "459": {
+        "product_name": "Распашной шкаф Стелла-3-150-240 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-3-150-240-dub-sonoma",
+        "product_new_price": "26 990руб.",
+        "product_old_price": "31 990руб.",
+        "product_discount": "15%"
+    },
+    "460": {
+        "product_name": "Шкаф-купе Итан-2-160-230 Glass Double Бетон",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-160-230-glass-double-beton",
+        "product_new_price": "42 290руб.",
+        "product_old_price": "61 990руб.",
+        "product_discount": "31%"
+    },
+    "461": {
+        "product_name": "Шкаф-купе Итан-3-210-230 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-3-210-230-belyj",
+        "product_new_price": "41 290руб.",
+        "product_old_price": "68 290руб.",
+        "product_discount": "39%"
+    },
+    "462": {
+        "product_name": "Стеллаж Бриз-2 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/stellaj-briz-2-dub-zolotistyj",
+        "product_new_price": "8990руб.",
+        "product_old_price": "11 990руб.",
+        "product_discount": "25%"
+    },
+    "463": {
+        "product_name": "Распашной шкаф Стелла-1-40-210 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-1-40-210-dub-sonoma",
+        "product_new_price": "8990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "10%"
+    },
+    "464": {
+        "product_name": "Шкаф-купе Реймс-2-120-230 Дуб Табачный",
+        "product_href": "https://divan.ru/product/shkaf-kupe-rejms-2-120-230-dub-tabachnyj",
+        "product_new_price": "37 290руб.",
+        "product_old_price": "50 290руб.",
+        "product_discount": "25%"
+    },
+    "465": {
+        "product_name": "Распашной шкаф Монмарт-4-200-240 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monmart-4-200-240-dub-sonoma",
+        "product_new_price": "62 990руб.",
+        "product_old_price": "69 990руб.",
+        "product_discount": "10%"
+    },
+    "466": {
+        "product_name": "Распашной шкаф Тонхейм-1-2",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tonhejm-1-2",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "23%"
+    },
+    "467": {
+        "product_name": "Шкаф-купе Орлеан-2-140-220 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-140-220-belyj",
+        "product_new_price": "27 990руб.",
+        "product_old_price": "43 690руб.",
+        "product_discount": "35%"
+    },
+    "468": {
+        "product_name": "Распашной шкаф Стелла-3-130-200 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-3-130-200-belyj",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "23 990руб.",
+        "product_discount": "16%"
+    },
+    "469": {
+        "product_name": "Распашной шкаф Лайт-2-100-240 Белый без зеркал 2 двери",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lajt-2-100-240-belyj-bez-zerkal-2-dveri",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "10%"
+    },
+    "470": {
+        "product_name": "Стеллаж Маранг-10 Wood",
+        "product_href": "https://divan.ru/product/stellaj-marang-10-wood",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "16%"
+    },
+    "471": {
+        "product_name": "Распашной шкаф Монмарт-2-100-240 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monmart-2-100-240-dub-sonoma",
+        "product_new_price": "31 990руб.",
+        "product_old_price": "36 990руб.",
+        "product_discount": "13%"
+    },
+    "472": {
+        "product_name": "Распашной шкаф Монмарт-2-100-240 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-monmart-2-100-240-belyj",
+        "product_new_price": "31 990руб.",
+        "product_old_price": "36 990руб.",
+        "product_discount": "13%"
+    },
+    "473": {
+        "product_name": "Распашной шкаф Стелла-2-120-240 Дуб Сонома",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-2-120-240-dub-sonoma",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "12%"
+    },
+    "474": {
+        "product_name": "Распашной шкаф Стелла-4.1-160-210 Велюр",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-4-1-160-210-velyur",
+        "product_new_price": "35 990руб.",
+        "product_old_price": "39 990руб.",
+        "product_discount": "10%"
+    },
+    "475": {
+        "product_name": "Шкаф-купе Орлеан-2-120-220 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orlean-2-120-220-belyj",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "38 690руб.",
+        "product_discount": "35%"
+    },
+    "476": {
+        "product_name": "Угловой распашной шкаф Лорэна-80-50-200 Дуб Ирландский",
+        "product_href": "https://divan.ru/product/uglovoj-raspashnoj-shkaf-lorena-80-50-200-dub-irlandskij",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "26 390руб.",
+        "product_discount": "24%"
+    },
+    "477": {
+        "product_name": "Стеллаж Аргос-2 Белый/Дуб Ирландский",
+        "product_href": "https://divan.ru/product/stellaj-argos-2-belyj-dub-irlandskij",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "21 240руб.",
+        "product_discount": "20%"
+    },
+    "478": {
+        "product_name": "Шкаф-купе Орест-2-120-230 Glass Дуб Сонома",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-2-120-230-glass-dub-sonoma",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "61 290руб.",
+        "product_discount": "39%"
+    },
+    "479": {
+        "product_name": "Распашной шкаф Хорстен Дуб Вотан",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-horsten-dub-votan",
+        "product_new_price": "15 490руб.",
+        "product_old_price": "20 490руб.",
+        "product_discount": "24%"
+    },
+    "480": {
+        "product_name": "Распашной шкаф Лайт-4-240-210 Дуб Сонома без зеркал 4 двери",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lajt-4-240-210-dub-sonoma-bez-zerkal-4-dveri",
+        "product_new_price": "32 990руб.",
+        "product_old_price": "38 990руб.",
+        "product_discount": "15%"
+    },
+    "481": {
+        "product_name": "Угловой распашной шкаф Лорэна-90-50-200 Белый",
+        "product_href": "https://divan.ru/product/uglovoj-raspashnoj-shkaf-lorena-90-50-200-belyj",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "26 390руб.",
+        "product_discount": "24%"
+    },
+    "482": {
+        "product_name": "Шкаф-купе Эконом-2-80-190 Белый без зеркал",
+        "product_href": "https://divan.ru/product/shkaf-ekonom-2-80-190-belyj-sneg-bez-zerkal",
+        "product_new_price": "8990руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "10%"
+    },
+    "483": {
+        "product_name": "Шкаф-купе Орест-3-210-230 Дуб Сонома/Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-orest-3-210-230-dub-sonomabelyj",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "74 490руб.",
+        "product_discount": "39%"
+    },
+    "484": {
+        "product_name": "Шкаф-купе Итан-2-140-230 Белый",
+        "product_href": "https://divan.ru/product/shkaf-kupe-itan-2-140-230-belyj",
+        "product_new_price": "29 690руб.",
+        "product_old_price": "49 490руб.",
+        "product_discount": "40%"
+    },
+    "485": {
+        "product_name": "Шкаф-купе Тебар-2-100-190 Графит 1 зеркало",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-2-100-190-grafit-1-zerkalo",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "8%"
+    },
+    "486": {
+        "product_name": "Стеллаж Маранг-11 Wood",
+        "product_href": "https://divan.ru/product/stellaj-marang-11-wood",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "29 990руб.",
+        "product_discount": "16%"
+    },
+    "487": {
+        "product_name": "Распашной шкаф Лорэна-1-50-210 Велюр",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lorena-1-50-210-velyur",
+        "product_new_price": "14 490руб.",
+        "product_old_price": "17 590руб.",
+        "product_discount": "17%"
+    },
+    "488": {
+        "product_name": "Распашной шкаф Стелла-2.1-100-220 Велюр",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-2-1-100-220-velyur",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "25 990руб.",
+        "product_discount": "7%"
+    },
+    "489": {
+        "product_name": "Распашной шкаф Лорэна-2-100-240 Велюр",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lorena-2-100-240-velyur",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "28 590руб.",
+        "product_discount": "12%"
+    },
+    "490": {
+        "product_name": "Распашной шкаф Стелла-2-120-220 Велюр",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-2-120-220-velyur",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "26 990руб.",
+        "product_discount": "14%"
+    },
+    "491": {
+        "product_name": "Распашной шкаф Хельга-2 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-helga-2-belyj",
+        "product_new_price": "24 290руб.",
+        "product_old_price": "32 290руб.",
+        "product_discount": "24%"
+    },
+    "492": {
+        "product_name": "Распашной шкаф Пронто-4-190-240 Серый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-pronto-4-190-240-seryj",
+        "product_new_price": "56 990руб.",
+        "product_old_price": "63 990руб.",
+        "product_discount": "10%"
+    },
+    "493": {
+        "product_name": "Шкаф-купе Тебар-3-150-200 Дуб Сонома без зеркал",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-3-150-200-dub-sonoma-bez-zerkal",
+        "product_new_price": "28 990руб.",
+        "product_old_price": "30 990руб.",
+        "product_discount": "6%"
+    },
+    "494": {
+        "product_name": "Распашной шкаф Хайдер Дуб Тортуга",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-hajder-dub-tortuga",
+        "product_new_price": "31 990руб.",
+        "product_old_price": "39 990руб.",
+        "product_discount": "20%"
+    },
+    "495": {
+        "product_name": "Стеллаж Лофт 2 Дуб Золотистый",
+        "product_href": "https://divan.ru/product/stellaj-loft-2-dub-zolotistyj",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "41 990руб.",
+        "product_discount": "16%"
+    },
+    "496": {
+        "product_name": "Распашной шкаф Теджонс-3 Deco Aquamarine",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-3-05-akvamarin",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "69 990руб.",
+        "product_discount": "14%"
+    },
+    "497": {
+        "product_name": "Распашной шкаф Рошаль-2-90-190 Wood",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-roshal-2-90-190-wood",
+        "product_new_price": "64 990руб.",
+        "product_old_price": "72 990руб.",
+        "product_discount": "10%"
+    },
+    "498": {
+        "product_name": "Распашной шкаф Теджонс-2 Time Deco Aquamarine",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tedjons-2-time-deco-aquamarine",
+        "product_new_price": "44 990руб.",
+        "product_old_price": "53 090руб.",
+        "product_discount": "15%"
+    },
+    "499": {
+        "product_name": "Угловой распашной шкаф Стелла-100-60-240 Белый",
+        "product_href": "https://divan.ru/product/uglovoj-raspashnoj-shkaf-stella-100-60-240-belyj",
+        "product_new_price": "26 990руб.",
+        "product_old_price": "30 990руб.",
+        "product_discount": "12%"
+    },
+    "500": {
+        "product_name": "Угловой распашной шкаф Стелла-90-50-200 Белый с зеркалом",
+        "product_href": "https://divan.ru/product/uglovoj-raspashnoj-shkaf-stella-90-50-200-belyj-s-zerkalom",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "25 990руб.",
+        "product_discount": "11%"
+    },
+    "501": {
+        "product_name": "Распашной шкаф Техно-5 Дуб Крафт Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tehno-5-dub-kraft-belyj",
+        "product_new_price": "46 850руб.",
+        "product_old_price": "51 690руб.",
+        "product_discount": "9%"
+    },
+    "502": {
+        "product_name": "Угловой распашной шкаф Стелла-100-55-220 Дуб Сонома",
+        "product_href": "https://divan.ru/product/uglovoj-raspashnoj-shkaf-stella-100-55-220-dub-sonoma",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "28 990руб.",
+        "product_discount": "13%"
+    },
+    "503": {
+        "product_name": "Стеллаж Бруно-54 Дуб Сонома",
+        "product_href": "https://divan.ru/product/stellaj-bruno-54-dub-sonoma",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "20%"
+    },
+    "504": {
+        "product_name": "Стеллаж Сплит-6 Дуб Сонома",
+        "product_href": "https://divan.ru/product/stellaj-split-6-dub-sonoma",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "21 990руб.",
+        "product_discount": "18%"
+    },
+    "505": {
+        "product_name": "Распашной шкаф Орланд-3-130-190 Wood",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-orland-3-130-190-wood",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "39 990руб.",
+        "product_discount": "12%"
+    },
+    "506": {
+        "product_name": "Распашной шкаф Лорэна-3-150-210 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lorena-3-150-210-belyj",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "39 990руб.",
+        "product_discount": "25%"
+    },
+    "507": {
+        "product_name": "Распашной шкаф Ливорно-1 Графит",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-livorno-1-grafit",
+        "product_new_price": "11 990руб.",
+        "product_old_price": "15 990руб.",
+        "product_discount": "25%"
+    },
+    "508": {
+        "product_name": "Распашной шкаф Нордик-3 Kant",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nordik-3-kant",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "43 990руб.",
+        "product_discount": "20%"
+    },
+    "509": {
+        "product_name": "Распашной шкаф Магеллан-1 Сосна Винтаж",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-magellan-1-sosna-vintaj",
+        "product_new_price": "20 190руб.",
+        "product_old_price": "24 690руб.",
+        "product_discount": "18%"
+    },
+    "510": {
+        "product_name": "Распашной шкаф Нордик Kant",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nordik-kant",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "25 990руб.",
+        "product_discount": "15%"
+    },
+    "511": {
+        "product_name": "Стеллаж Дизель-1 Веллингтон",
+        "product_href": "https://divan.ru/product/stellaj-dizel-1-vellington",
+        "product_new_price": "13 190руб.",
+        "product_old_price": "16 290руб.",
+        "product_discount": "19%"
+    },
+    "512": {
+        "product_name": "Стеллаж Оскар",
+        "product_href": "https://divan.ru/product/stellaj-oskar",
+        "product_new_price": "13 390руб.",
+        "product_old_price": "16 290руб.",
+        "product_discount": "17%"
+    },
+    "513": {
+        "product_name": "Распашной шкаф Гритон-2 Dark",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-griton-2-dark",
+        "product_new_price": "21 990руб.",
+        "product_old_price": "24 990руб.",
+        "product_discount": "12%"
+    },
+    "514": {
+        "product_name": "Стеллаж СТ-3 Белый",
+        "product_href": "https://divan.ru/product/stellaj-st-3-belyj",
+        "product_new_price": "7690руб.",
+        "product_old_price": "8290руб.",
+        "product_discount": "7%"
+    },
+    "515": {
+        "product_name": "Распашной шкаф Нордик-1 Kant",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nordik-1-kant",
+        "product_new_price": "15 990руб.",
+        "product_old_price": "18 990руб.",
+        "product_discount": "15%"
+    },
+    "516": {
+        "product_name": "Распашной шкаф Урбан",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-urban",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "10%"
+    },
+    "517": {
+        "product_name": "Распашной шкаф Дизель-1 Энигма",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-dizel-1-enigma",
+        "product_new_price": "13 990руб.",
+        "product_old_price": "19 290руб.",
+        "product_discount": "27%"
+    },
+    "518": {
+        "product_name": "Стеллаж Урбан-2",
+        "product_href": "https://divan.ru/product/stellaj-urban-2",
+        "product_new_price": "9990руб.",
+        "product_old_price": "10 990руб.",
+        "product_discount": "9%"
+    },
+    "519": {
+        "product_name": "Распашной шкаф Техно-6 Дуб Крафт Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tehno-6-dub-kraft-belyj",
+        "product_new_price": "65 830руб.",
+        "product_old_price": "73 290руб.",
+        "product_discount": "10%"
+    },
+    "520": {
+        "product_name": "Распашной шкаф Джаз-1",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-djaz-1",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "21 990руб.",
+        "product_discount": "18%"
+    },
+    "521": {
+        "product_name": "Распашной шкаф Фиджи-7 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-fidji-7-belyj",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "22 490руб.",
+        "product_discount": "11%"
+    },
+    "522": {
+        "product_name": "Распашной шкаф Фиджи-7 Антрацит",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-fidji-7-antratsit",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "22 490руб.",
+        "product_discount": "11%"
+    },
+    "523": {
+        "product_name": "Угловой распашной шкаф Дизель",
+        "product_href": "https://divan.ru/product/uglovoj-shkaf-dizel",
+        "product_new_price": "21 290руб.",
+        "product_old_price": "29 290руб.",
+        "product_discount": "27%"
+    },
+    "524": {
+        "product_name": "Распашной шкаф Джаз-2",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-djaz-2",
+        "product_new_price": "23 590руб.",
+        "product_old_price": "28 690руб.",
+        "product_discount": "17%"
+    },
+    "525": {
+        "product_name": "Шкаф-купе Дакар-2-140-240 Камень Светлый / Дуб Ирландский",
+        "product_href": "https://divan.ru/product/shkaf-kupe-dakar-2-140-240-kamen-svetlyj--dub-irlandskij",
+        "product_new_price": "38 990руб.",
+        "product_old_price": "47 990руб.",
+        "product_discount": "18%"
+    },
+    "526": {
+        "product_name": "Шкаф-купе Дакар-3-180-230 Камень Светлый / Дуб Ирландский",
+        "product_href": "https://divan.ru/product/shkaf-kupe-dakar-3-180-230-kamen-svetlyj--dub-irlandskij",
+        "product_new_price": "51 990руб.",
+        "product_old_price": "62 990руб.",
+        "product_discount": "17%"
+    },
+    "527": {
+        "product_name": "Распашной шкаф Тиффани-2 Вудлайн Крем",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tiffani-2",
+        "product_new_price": "30 490руб.",
+        "product_old_price": "42 490руб.",
+        "product_discount": "28%"
+    },
+    "528": {
+        "product_name": "Распашной шкаф Норд-2 Дуб Золотой",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nord-2-dub-zolotoj",
+        "product_new_price": "25 280руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "9%"
+    },
+    "529": {
+        "product_name": "Стеллаж Магеллан-2 Сосна Винтаж",
+        "product_href": "https://divan.ru/product/stellaj-magellan-2-sosna-vintaj",
+        "product_new_price": "17 890руб.",
+        "product_old_price": "21 990руб.",
+        "product_discount": "18%"
+    },
+    "530": {
+        "product_name": "Распашной шкаф Дизель-2 Энигма",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-dizel-2-enigma",
+        "product_new_price": "21 290руб.",
+        "product_old_price": "29 290руб.",
+        "product_discount": "27%"
+    },
+    "531": {
+        "product_name": "Распашной шкаф Техно-4 Дуб Крафт Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tehno-4-dub-kraft-belyj",
+        "product_new_price": "42 850руб.",
+        "product_old_price": "47 690руб.",
+        "product_discount": "10%"
+    },
+    "532": {
+        "product_name": "Стеллаж Тиффани Вудлайн Крем",
+        "product_href": "https://divan.ru/product/stellaj-tiffani",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "23 690руб.",
+        "product_discount": "28%"
+    },
+    "533": {
+        "product_name": "Стеллаж Урбан-1",
+        "product_href": "https://divan.ru/product/stellaj-urban-1",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "21 990руб.",
+        "product_discount": "9%"
+    },
+    "534": {
+        "product_name": "Распашной шкаф Норд-2 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nord-2-belyj",
+        "product_new_price": "24 680руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "11%"
+    },
+    "535": {
+        "product_name": "Шкаф-купе Дакар-3-160-210 Камень Светлый / Дуб Ирландский",
+        "product_href": "https://divan.ru/product/shkaf-kupe-dakar-3-160-210-kamen-svetlyj--dub-irlandskij",
+        "product_new_price": "43 990руб.",
+        "product_old_price": "52 990руб.",
+        "product_discount": "16%"
+    },
+    "536": {
+        "product_name": "Шкаф-купе Дакар-2-100-220 Камень Светлый / Дуб Ирландский",
+        "product_href": "https://divan.ru/product/shkaf-kupe-dakar-2-100-220-kamen-svetlyj--dub-irlandskij",
+        "product_new_price": "28 990руб.",
+        "product_old_price": "35 990руб.",
+        "product_discount": "19%"
+    },
+    "537": {
+        "product_name": "Распашной шкаф Тиффани-1 Вудлайн Крем",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tiffani-1",
+        "product_new_price": "21 690руб.",
+        "product_old_price": "30 290руб.",
+        "product_discount": "28%"
+    },
+    "538": {
+        "product_name": "Шкаф-купе Тебар-3-140-190 Белый без зеркал",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-3-140-190-belyj-bez-zerkal",
+        "product_new_price": "26 990руб.",
+        "product_old_price": "28 990руб.",
+        "product_discount": "6%"
+    },
+    "539": {
+        "product_name": "Шкаф-купе Тебар-3-140-200 Графит 1 зеркало",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-3-140-200-grafit-1-zerkalo",
+        "product_new_price": "38 990руб.",
+        "product_old_price": "41 990руб.",
+        "product_discount": "7%"
+    },
+    "540": {
+        "product_name": "Распашной шкаф Оскар-3",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-oskar-3",
+        "product_new_price": "12 290руб.",
+        "product_old_price": "14 990руб.",
+        "product_discount": "18%"
+    },
+    "541": {
+        "product_name": "Распашной шкаф Техно-7 Дуб Крафт Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tehno-7-dub-kraft-belyj",
+        "product_new_price": "92 810руб.",
+        "product_old_price": "103 290руб.",
+        "product_discount": "10%"
+    },
+    "542": {
+        "product_name": "Распашной шкаф Дизель-2 Веллингтон",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-dizel-2-vellington",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "29 290руб.",
+        "product_discount": "18%"
+    },
+    "543": {
+        "product_name": "Распашной шкаф Оскар-2",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-oskar-2",
+        "product_new_price": "22 790руб.",
+        "product_old_price": "27 690руб.",
+        "product_discount": "17%"
+    },
+    "544": {
+        "product_name": "Распашной шкаф Техно-2 Дуб Крафт Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tehno-2-dub-kraft-belyj",
+        "product_new_price": "27 270руб.",
+        "product_old_price": "35 290руб.",
+        "product_discount": "22%"
+    },
+    "545": {
+        "product_name": "Угловой распашной шкаф Урбан угловой",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-urban-uglovoj",
+        "product_new_price": "38 290руб.",
+        "product_old_price": "42 290руб.",
+        "product_discount": "9%"
+    },
+    "546": {
+        "product_name": "Стеллаж Магеллан-1 Сосна Винтаж",
+        "product_href": "https://divan.ru/product/stellaj-magellan-1-sosna-vintaj",
+        "product_new_price": "16 290руб.",
+        "product_old_price": "20 290руб.",
+        "product_discount": "19%"
+    },
+    "547": {
+        "product_name": "Стеллаж Дизель-1 Энигма",
+        "product_href": "https://divan.ru/product/stellaj-dizel-1-enigma",
+        "product_new_price": "11 690руб.",
+        "product_old_price": "16 290руб.",
+        "product_discount": "28%"
+    },
+    "548": {
+        "product_name": "Распашной шкаф Ливорно-1 Графит с зеркалом",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-livorno-1-grafit-s-zerkalom",
+        "product_new_price": "15 290руб.",
+        "product_old_price": "18 290руб.",
+        "product_discount": "16%"
+    },
+    "549": {
+        "product_name": "Стеллаж Нордик-3 Kant",
+        "product_href": "https://divan.ru/product/stellaj-nordik-3-kant",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "15%"
+    },
+    "550": {
+        "product_name": "Распашной шкаф Акварель-3 Капучино",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-akvarel-3-kapuchino",
+        "product_new_price": "23 290руб.",
+        "product_old_price": "28 490руб.",
+        "product_discount": "18%"
+    },
+    "551": {
+        "product_name": "Распашной шкаф Ливорно-2 Графит с зеркалом",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-livorno-2-grafit-s-zerkalom",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "27 490руб.",
+        "product_discount": "16%"
+    },
+    "552": {
+        "product_name": "Распашной шкаф Ливорно-2 Графит",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-livorno-2-grafit",
+        "product_new_price": "19 490руб.",
+        "product_old_price": "24 690руб.",
+        "product_discount": "21%"
+    },
+    "553": {
+        "product_name": "Угловой шкаф Акварель-1.1 Капучино",
+        "product_href": "https://divan.ru/product/uglovoj-shkaf-akvarel-1-1-kapuchino",
+        "product_new_price": "17 290руб.",
+        "product_old_price": "19 690руб.",
+        "product_discount": "12%"
+    },
+    "554": {
+        "product_name": "Угловой шкаф Акварель-1.1 Лайм",
+        "product_href": "https://divan.ru/product/uglovoj-shkaf-akvarel-1-1-lajm",
+        "product_new_price": "17 290руб.",
+        "product_old_price": "19 690руб.",
+        "product_discount": "12%"
+    },
+    "555": {
+        "product_name": "Распашной шкаф Акварель-1 Лайм с ящиками",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-akvarel-1-lajm-s-yaschikami",
+        "product_new_price": "9990руб.",
+        "product_old_price": "12 490руб.",
+        "product_discount": "20%"
+    },
+    "556": {
+        "product_name": "Угловой шкаф Акварель-1.2 Лайм",
+        "product_href": "https://divan.ru/product/uglovoj-shkaf-akvarel-1-2-lajm",
+        "product_new_price": "17 290руб.",
+        "product_old_price": "19 690руб.",
+        "product_discount": "12%"
+    },
+    "557": {
+        "product_name": "Распашной шкаф Ливорно-4 Панакота",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-livorno-4-panakota",
+        "product_new_price": "59 990руб.",
+        "product_old_price": "65 990руб.",
+        "product_discount": "9%"
+    },
+    "558": {
+        "product_name": "Распашной шкаф Ливорно-1 Панакота с зеркалом",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-livorno-1-panakota-s-zerkalom",
+        "product_new_price": "15 290руб.",
+        "product_old_price": "18 290руб.",
+        "product_discount": "16%"
+    },
+    "559": {
+        "product_name": "Распашной шкаф Ливорно-3 Панакота",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-livorno-3-panakota",
+        "product_new_price": "46 690руб.",
+        "product_old_price": "51 490руб.",
+        "product_discount": "9%"
+    },
+    "560": {
+        "product_name": "Распашной шкаф Акварель-3 Лайм",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-akvarel-3-lajm",
+        "product_new_price": "23 290руб.",
+        "product_old_price": "28 490руб.",
+        "product_discount": "18%"
+    },
+    "561": {
+        "product_name": "Распашной шкаф Ливорно-2 Панакота с зеркалом",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-livorno-2-panakota-s-zerkalom",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "27 490руб.",
+        "product_discount": "16%"
+    },
+    "562": {
+        "product_name": "Распашной шкаф Ливорно-2 Панакота",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-livorno-2-panakota",
+        "product_new_price": "19 490руб.",
+        "product_old_price": "24 690руб.",
+        "product_discount": "21%"
+    },
+    "563": {
+        "product_name": "Угловой шкаф Акварель-1.2 Капучино",
+        "product_href": "https://divan.ru/product/uglovoj-shkaf-akvarel-1-2-kapuchino",
+        "product_new_price": "17 290руб.",
+        "product_old_price": "19 690руб.",
+        "product_discount": "12%"
+    },
+    "564": {
+        "product_name": "Распашной шкаф Фелини-2-100-210 Дуб Кельтик",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-felini-2-100-210-dub-keltik",
+        "product_new_price": "29 990руб.",
+        "product_old_price": "36 990руб.",
+        "product_discount": "18%"
+    },
+    "565": {
+        "product_name": "Распашной шкаф Лектор-3-180-240 Дуб Кельтик",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lektor-3-180-240-dub-keltik",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "48 990руб.",
+        "product_discount": "28%"
+    },
+    "566": {
+        "product_name": "Распашной шкаф Фелини-2-90-190 Дуб Кельтик",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-felini-2-90-190-dub-keltik",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "31 990руб.",
+        "product_discount": "21%"
+    },
+    "567": {
+        "product_name": "Стеллаж Гритон Dark",
+        "product_href": "https://divan.ru/product/stellaj-griton-dark",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "19 990руб.",
+        "product_discount": "15%"
+    },
+    "568": {
+        "product_name": "Распашной шкаф Тиффани-2 Орех Элия",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tiffani-2-oreh-eliya",
+        "product_new_price": "32 990руб.",
+        "product_old_price": "36 290руб.",
+        "product_discount": "9%"
+    },
+    "569": {
+        "product_name": "Стеллаж СТ-1 Венге",
+        "product_href": "https://divan.ru/product/stellaj-st-1-venge",
+        "product_new_price": "7490руб.",
+        "product_old_price": "8290руб.",
+        "product_discount": "9%"
+    },
+    "570": {
+        "product_name": "Распашной шкаф Лектор-2-120-230 Дуб Кельтик",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lektor-2-120-230-dub-keltik",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "34 990руб.",
+        "product_discount": "28%"
+    },
+    "571": {
+        "product_name": "Распашной шкаф Гритон-1 Dark",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-griton-1-dark",
+        "product_new_price": "14 990руб.",
+        "product_old_price": "17 990руб.",
+        "product_discount": "16%"
+    },
+    "572": {
+        "product_name": "Шкаф-купе Дакар-2-160-240 Камень Темный / Дуб Ирландский",
+        "product_href": "https://divan.ru/product/shkaf-kupe-dakar-2-160-240-kamen-temnyj--dub-irlandskij",
+        "product_new_price": "41 990руб.",
+        "product_old_price": "52 990руб.",
+        "product_discount": "20%"
+    },
+    "573": {
+        "product_name": "Распашной шкаф ШО-1 Венге/Беленый дуб",
+        "product_href": "https://divan.ru/product/stellaj-sho-1-vengebelenyj-dub",
+        "product_new_price": "10 690руб.",
+        "product_old_price": "11 690руб.",
+        "product_discount": "8%"
+    },
+    "574": {
+        "product_name": "Стеллаж ПК-96 Венге",
+        "product_href": "https://divan.ru/product/stellaj-pk-96-venge",
+        "product_new_price": "16 290руб.",
+        "product_old_price": "17 990руб.",
+        "product_discount": "9%"
+    },
+    "575": {
+        "product_name": "Стеллаж Лофт 1.16 Дуб Кельтик",
+        "product_href": "https://divan.ru/product/stellaj-loft-1-16-dub-keltik",
+        "product_new_price": "23 990руб.",
+        "product_old_price": "28 990руб.",
+        "product_discount": "17%"
+    },
+    "576": {
+        "product_name": "Стеллаж ПК-96 Белый",
+        "product_href": "https://divan.ru/product/stellaj-pk-96-belyj",
+        "product_new_price": "16 290руб.",
+        "product_old_price": "17 990руб.",
+        "product_discount": "9%"
+    },
+    "577": {
+        "product_name": "Стеллаж СТ-2 Комби без дверей",
+        "product_href": "https://divan.ru/product/stellaj-st-2-venge-dub-bez-dverej",
+        "product_new_price": "7490руб.",
+        "product_old_price": "8290руб.",
+        "product_discount": "9%"
+    },
+    "578": {
+        "product_name": "Шкаф-купе Дакар-3-160-220 Камень Темный / Дуб Кельтик",
+        "product_href": "https://divan.ru/product/shkaf-kupe-dakar-3-160-220-kamen-temnyj--dub-keltik",
+        "product_new_price": "45 990руб.",
+        "product_old_price": "54 990руб.",
+        "product_discount": "16%"
+    },
+    "579": {
+        "product_name": "Стеллаж СТ-2 Белый без дверей",
+        "product_href": "https://divan.ru/product/stellaj-st-2-belyj-bez-dverej",
+        "product_new_price": "7490руб.",
+        "product_old_price": "8290руб.",
+        "product_discount": "9%"
+    },
+    "580": {
+        "product_name": "Стеллаж Марио Light",
+        "product_href": "https://divan.ru/product/stellaj-mario-light",
+        "product_new_price": "9290руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "7%"
+    },
+    "581": {
+        "product_name": "Шкаф-купе Дакар-3-180-240 Камень Темный / Дуб Ирландский",
+        "product_href": "https://divan.ru/product/shkaf-kupe-dakar-3-180-240-kamen-temnyj--dub-irlandskij",
+        "product_new_price": "49 990руб.",
+        "product_old_price": "59 990руб.",
+        "product_discount": "16%"
+    },
+    "582": {
+        "product_name": "Шкаф-купе Дакар-2-120-220 Камень Темный / Дуб Кельтик",
+        "product_href": "https://divan.ru/product/shkaf-kupe-dakar-2-120-220-kamen-temnyj--dub-keltik",
+        "product_new_price": "33 990руб.",
+        "product_old_price": "41 990руб.",
+        "product_discount": "19%"
+    },
+    "583": {
+        "product_name": "Стеллаж ПК-9 Венге / Дуб",
+        "product_href": "https://divan.ru/product/stellaj-pk-9-venge-dub",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "11 690руб.",
+        "product_discount": "5%"
+    },
+    "584": {
+        "product_name": "Стеллаж СТ-1 Белый",
+        "product_href": "https://divan.ru/product/stellaj-st-1-belyj",
+        "product_new_price": "7490руб.",
+        "product_old_price": "8290руб.",
+        "product_discount": "9%"
+    },
+    "585": {
+        "product_name": "Распашной шкаф Лектор-4-220-240 Дуб Кельтик",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-lektor-4-220-240-dub-keltik",
+        "product_new_price": "47 990руб.",
+        "product_old_price": "64 990руб.",
+        "product_discount": "26%"
+    },
+    "586": {
+        "product_name": "Распашной шкаф ШО-1 Дуб Сонома",
+        "product_href": "https://divan.ru/product/stellaj-sho-1-dub-sonoma",
+        "product_new_price": "10 690руб.",
+        "product_old_price": "11 690руб.",
+        "product_discount": "8%"
+    },
+    "587": {
+        "product_name": "Шкаф-купе Тебар-4-230-240 Дуб Кельтик без зеркал",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-4-230-240-dub-keltik-bez-zerkal",
+        "product_new_price": "48 990руб.",
+        "product_old_price": "53 990руб.",
+        "product_discount": "9%"
+    },
+    "588": {
+        "product_name": "Стеллаж СТ-9 Дуб Сонома",
+        "product_href": "https://divan.ru/product/stellaj-st-9-dub-sonoma",
+        "product_new_price": "9490руб.",
+        "product_old_price": "10 290руб.",
+        "product_discount": "7%"
+    },
+    "589": {
+        "product_name": "Стеллаж ПК-9 Белый",
+        "product_href": "https://divan.ru/product/stellaj-pk-9-belyj",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "11 690руб.",
+        "product_discount": "5%"
+    },
+    "590": {
+        "product_name": "Стеллаж СТ-3 Венге",
+        "product_href": "https://divan.ru/product/stellaj-st-3-venge",
+        "product_new_price": "7690руб.",
+        "product_old_price": "8290руб.",
+        "product_discount": "7%"
+    },
+    "591": {
+        "product_name": "Стеллаж Акварель-3 Капучино",
+        "product_href": "https://divan.ru/product/stellaj-akvarel-3-kapuchino",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "11 690руб.",
+        "product_discount": "5%"
+    },
+    "592": {
+        "product_name": "Стеллаж Акварель-4 Капучино",
+        "product_href": "https://divan.ru/product/stellaj-akvarel-4-kapuchino",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "21 290руб.",
+        "product_discount": "15%"
+    },
+    "593": {
+        "product_name": "Стеллаж Акварель-4 Лайм",
+        "product_href": "https://divan.ru/product/stellaj-akvarel-4-lajm",
+        "product_new_price": "17 990руб.",
+        "product_old_price": "21 290руб.",
+        "product_discount": "15%"
+    },
+    "594": {
+        "product_name": "Стеллаж СТ-9 Венге",
+        "product_href": "https://divan.ru/product/stellaj-st-9-venge",
+        "product_new_price": "9490руб.",
+        "product_old_price": "10 290руб.",
+        "product_discount": "7%"
+    },
+    "595": {
+        "product_name": "Стеллаж Акварель-3 Лайм",
+        "product_href": "https://divan.ru/product/stellaj-akvarel-3-lajm",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "11 690руб.",
+        "product_discount": "5%"
+    },
+    "596": {
+        "product_name": "Стеллаж Марио White",
+        "product_href": "https://divan.ru/product/stellaj-mario-white",
+        "product_new_price": "9290руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "7%"
+    },
+    "597": {
+        "product_name": "Распашной шкаф Акварель-1 Капучино с ящиками",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-akvarel-1-kapuchino-s-yaschikami",
+        "product_new_price": "9990руб.",
+        "product_old_price": "12 490руб.",
+        "product_discount": "20%"
+    },
+    "598": {
+        "product_name": "Шкаф-купе Тебар-2-140-220 Дуб Кельтик без зеркал",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-2-140-220-dub-keltik-bez-zerkal",
+        "product_new_price": "27 990руб.",
+        "product_old_price": "30 990руб.",
+        "product_discount": "9%"
+    },
+    "599": {
+        "product_name": "Распашной шкаф ШО-1 Дуб сонома/Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-sho-1-dub-sonomabelyj",
+        "product_new_price": "10 690руб.",
+        "product_old_price": "11 690руб.",
+        "product_discount": "8%"
+    },
+    "600": {
+        "product_name": "Стеллаж Акварель-1 Капучино",
+        "product_href": "https://divan.ru/product/stellaj-akvarel-1-kapuchino",
+        "product_new_price": "7990руб.",
+        "product_old_price": "9290руб.",
+        "product_discount": "13%"
+    },
+    "601": {
+        "product_name": "Шкаф-купе Тебар-3-180-230 Дуб Кельтик без зеркал",
+        "product_href": "https://divan.ru/product/shkaf-kupe-tebar-3-180-230-dub-keltik-bez-zerkal",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "39 990руб.",
+        "product_discount": "7%"
+    },
+    "602": {
+        "product_name": "Стеллаж Акварель-1 Лайм",
+        "product_href": "https://divan.ru/product/stellaj-akvarel-1-lajm",
+        "product_new_price": "7990руб.",
+        "product_old_price": "9290руб.",
+        "product_discount": "13%"
+    },
+    "603": {
+        "product_name": "Стеллаж Акварель",
+        "product_href": "https://divan.ru/product/stellaj-akvarel",
+        "product_new_price": "5490руб.",
+        "product_old_price": "6690руб.",
+        "product_discount": "17%"
+    },
+    "604": {
+        "product_name": "Стеллаж СТ-2 Дуб сонома/Белый без дверей",
+        "product_href": "https://divan.ru/product/stellaj-st-2-dub-sonomabelyj-bez-dverej",
+        "product_new_price": "7490руб.",
+        "product_old_price": "8290руб.",
+        "product_discount": "9%"
+    },
+    "605": {
+        "product_name": "Стеллаж ШУ-20 Венге",
+        "product_href": "https://divan.ru/product/stellaj-shu-20-venge",
+        "product_new_price": "6490руб.",
+        "product_old_price": "7290руб.",
+        "product_discount": "10%"
+    },
+    "606": {
+        "product_name": "Распашной шкаф Тиффани-1 Орех Элия",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tiffani-1-oreh-eliya",
+        "product_new_price": "23 190руб.",
+        "product_old_price": "25 690руб.",
+        "product_discount": "9%"
+    },
+    "607": {
+        "product_name": "Стеллаж Марио Combi",
+        "product_href": "https://divan.ru/product/stellaj-mario-combi",
+        "product_new_price": "9290руб.",
+        "product_old_price": "9990руб.",
+        "product_discount": "7%"
+    },
+    "608": {
+        "product_name": "Стеллаж ПК-96 Дуб Сонома/Белый",
+        "product_href": "https://divan.ru/product/stellaj-pk-96-dub-sonomabelyj",
+        "product_new_price": "16 290руб.",
+        "product_old_price": "17 990руб.",
+        "product_discount": "9%"
+    },
+    "609": {
+        "product_name": "Стеллаж Лофт 2 Дуб Кельтик",
+        "product_href": "https://divan.ru/product/stellaj-loft-2-dub-keltik",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "41 990руб.",
+        "product_discount": "16%"
+    },
+    "610": {
+        "product_name": "Стеллаж Нордик-3 Edge",
+        "product_href": "https://divan.ru/product/stellaj-nordik-3-edge",
+        "product_new_price": "16 990руб.",
+        "product_old_price": "20 050руб.",
+        "product_discount": "15%"
+    },
+    "611": {
+        "product_name": "Распашной шкаф Техно-6 Дуб Золотой",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-tehno-6-dub-zolotoj",
+        "product_new_price": "65 440руб.",
+        "product_old_price": "72 690руб.",
+        "product_discount": "9%"
+    },
+    "612": {
+        "product_name": "Распашной шкаф ШО-2 Венге/Беленый дуб",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-sho-2-vengebelenyj-dub",
+        "product_new_price": "14 290руб.",
+        "product_old_price": "15 490руб.",
+        "product_discount": "7%"
+    },
+    "613": {
+        "product_name": "Стеллаж Гудвин-2",
+        "product_href": "https://divan.ru/product/stellaj-gudvin-2",
+        "product_new_price": "4990руб.",
+        "product_old_price": "5290руб.",
+        "product_discount": "5%"
+    },
+    "614": {
+        "product_name": "Стеллаж Бруно-5Л Венге",
+        "product_href": "https://divan.ru/product/stellaj-bruno-5l-venge",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "22 390руб.",
+        "product_discount": "10%"
+    },
+    "615": {
+        "product_name": "Распашной шкаф Сидней-1 Дуб Крафт Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-sidnej-1-dub-kraft-belyj",
+        "product_new_price": "18 990руб.",
+        "product_old_price": "20 990руб.",
+        "product_discount": "9%"
+    },
+    "616": {
+        "product_name": "Распашной шкаф Сидней-3 Дуб Крафт Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-sidnej-3-dub-kraft-belyj",
+        "product_new_price": "22 990руб.",
+        "product_old_price": "25 290руб.",
+        "product_discount": "9%"
+    },
+    "617": {
+        "product_name": "Стеллаж Бруно-54 Венге",
+        "product_href": "https://divan.ru/product/stellaj-bruno-54-venge",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "27 990руб.",
+        "product_discount": "10%"
+    },
+    "618": {
+        "product_name": "Распашной шкаф Сидней-2 Дуб Крафт Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-sidnej-2-dub-kraft-belyj",
+        "product_new_price": "25 690руб.",
+        "product_old_price": "28 290руб.",
+        "product_discount": "9%"
+    },
+    "619": {
+        "product_name": "Распашной шкаф Нордик Edge",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nordik-edge",
+        "product_new_price": "24 990руб.",
+        "product_old_price": "29 490руб.",
+        "product_discount": "15%"
+    },
+    "620": {
+        "product_name": "Распашной шкаф Нордик-3 Edge",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nordik-3-edge",
+        "product_new_price": "36 990руб.",
+        "product_old_price": "43 650руб.",
+        "product_discount": "15%"
+    },
+    "621": {
+        "product_name": "Распашной шкаф Нордик-1 Edge",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nordik-1-edge",
+        "product_new_price": "15 990руб.",
+        "product_old_price": "18 870руб.",
+        "product_discount": "15%"
+    },
+    "622": {
+        "product_name": "Распашной шкаф Норд-5 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nord-5-belyj",
+        "product_new_price": "35 270руб.",
+        "product_old_price": "39 690руб.",
+        "product_discount": "11%"
+    },
+    "623": {
+        "product_name": "Распашной шкаф Вирджиния-3",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-virdjiniya-3",
+        "product_new_price": "34 990руб.",
+        "product_old_price": "40 290руб.",
+        "product_discount": "13%"
+    },
+    "624": {
+        "product_name": "Стеллаж Вирджиния-1",
+        "product_href": "https://divan.ru/product/stellaj-virdjiniya-1",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "12 690руб.",
+        "product_discount": "13%"
+    },
+    "625": {
+        "product_name": "Распашной шкаф Норд-1 Дуб Золотой",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nord-1-dub-zolotoj",
+        "product_new_price": "19 280руб.",
+        "product_old_price": "21 490руб.",
+        "product_discount": "10%"
+    },
+    "626": {
+        "product_name": "Распашной шкаф Норд-5 Дуб Золотой",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nord-5-dub-zolotoj",
+        "product_new_price": "33 870руб.",
+        "product_old_price": "37 490руб.",
+        "product_discount": "9%"
+    },
+    "627": {
+        "product_name": "Распашной шкаф Стелла-2.1 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-stella-2-1-belyj",
+        "product_new_price": "20 990руб.",
+        "product_old_price": "22 990руб.",
+        "product_discount": "8%"
+    },
+    "628": {
+        "product_name": "Распашной шкаф Норд-4 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nord-4-belyj",
+        "product_new_price": "38 970руб.",
+        "product_old_price": "43 490руб.",
+        "product_discount": "10%"
+    },
+    "629": {
+        "product_name": "Распашной шкаф Фиджи-6 Антрацит",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-fidji-6-antratsit",
+        "product_new_price": "57 230руб.",
+        "product_old_price": "62 690руб.",
+        "product_discount": "8%"
+    },
+    "630": {
+        "product_name": "Угловой шкаф Норд-1 Белый",
+        "product_href": "https://divan.ru/product/uglovoj-shkaf-nord-1-belyj",
+        "product_new_price": "35 580руб.",
+        "product_old_price": "39 690руб.",
+        "product_discount": "10%"
+    },
+    "631": {
+        "product_name": "Распашной шкаф Фиджи-1 Антрацит",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-fidji-1-antratsit",
+        "product_new_price": "19 290руб.",
+        "product_old_price": "21 690руб.",
+        "product_discount": "11%"
+    },
+    "632": {
+        "product_name": "Стеллаж Сплит-6 Венге",
+        "product_href": "https://divan.ru/product/stellaj-split-6-venge",
+        "product_new_price": "15 490руб.",
+        "product_old_price": "17 490руб.",
+        "product_discount": "11%"
+    },
+    "633": {
+        "product_name": "Распашной шкаф Норд-3 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nord-3-belyj",
+        "product_new_price": "31 570руб.",
+        "product_old_price": "35 690руб.",
+        "product_discount": "11%"
+    },
+    "634": {
+        "product_name": "Распашной шкаф Норд-3 Дуб Золотой",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nord-3-dub-zolotoj",
+        "product_new_price": "27 870руб.",
+        "product_old_price": "30 990руб.",
+        "product_discount": "10%"
+    },
+    "635": {
+        "product_name": "Распашной шкаф Фиджи-3 Антрацит",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-fidji-3-antratsit",
+        "product_new_price": "39 950руб.",
+        "product_old_price": "43 990руб.",
+        "product_discount": "9%"
+    },
+    "636": {
+        "product_name": "Стеллаж Вирджиния-2",
+        "product_href": "https://divan.ru/product/stellaj-virdjiniya-2",
+        "product_new_price": "10 990руб.",
+        "product_old_price": "12 690руб.",
+        "product_discount": "13%"
+    },
+    "637": {
+        "product_name": "Распашной шкаф Фиджи-4 Антрацит",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-fidji-4-antratsit",
+        "product_new_price": "46 450руб.",
+        "product_old_price": "51 490руб.",
+        "product_discount": "9%"
+    },
+    "638": {
+        "product_name": "Распашной шкаф Фиджи-3 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-fidji-3-belyj",
+        "product_new_price": "39 950руб.",
+        "product_old_price": "43 990руб.",
+        "product_discount": "9%"
+    },
+    "639": {
+        "product_name": "Распашной шкаф Норд-1 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nord-1-belyj",
+        "product_new_price": "20 980руб.",
+        "product_old_price": "23 690руб.",
+        "product_discount": "11%"
+    },
+    "640": {
+        "product_name": "Распашной шкаф Фиджи-6 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-fidji-6-belyj",
+        "product_new_price": "57 230руб.",
+        "product_old_price": "62 690руб.",
+        "product_discount": "8%"
+    },
+    "641": {
+        "product_name": "Распашной шкаф Фиджи-5 Антрацит",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-fidji-5-antratsit",
+        "product_new_price": "37 960руб.",
+        "product_old_price": "41 990руб.",
+        "product_discount": "9%"
+    },
+    "642": {
+        "product_name": "Распашной шкаф Фиджи-1 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-fidji-1-belyj",
+        "product_new_price": "19 290руб.",
+        "product_old_price": "21 690руб.",
+        "product_discount": "11%"
+    },
+    "643": {
+        "product_name": "Распашной шкаф Фиджи-5 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-fidji-5-belyj",
+        "product_new_price": "37 960руб.",
+        "product_old_price": "41 990руб.",
+        "product_discount": "9%"
+    },
+    "644": {
+        "product_name": "Угловой шкаф Норд-1 Дуб Золотой",
+        "product_href": "https://divan.ru/product/uglovoj-shkaf-nord-1-dub-zolotoj",
+        "product_new_price": "34 280руб.",
+        "product_old_price": "37 990руб.",
+        "product_discount": "9%"
+    },
+    "645": {
+        "product_name": "Распашной шкаф Норд-4 Дуб Золотой",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-nord-4-dub-zolotoj",
+        "product_new_price": "39 870руб.",
+        "product_old_price": "43 990руб.",
+        "product_discount": "9%"
+    },
+    "646": {
+        "product_name": "Распашной шкаф Динс-1 Scandi Plain",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-dins-1-scandi-plain",
+        "product_new_price": "12 990руб.",
+        "product_old_price": "17 540руб.",
+        "product_discount": "25%"
+    },
+    "647": {
+        "product_name": "Угловой шкаф Норд-2 Дуб Золотой",
+        "product_href": "https://divan.ru/product/uglovoj-shkaf-nord-2-dub-zolotoj",
+        "product_new_price": "40 280руб.",
+        "product_old_price": "44 490руб.",
+        "product_discount": "9%"
+    },
+    "648": {
+        "product_name": "Распашной шкаф Фиджи-4 Белый",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-fidji-4-belyj",
+        "product_new_price": "46 450руб.",
+        "product_old_price": "51 490руб.",
+        "product_discount": "9%"
+    },
+    "649": {
+        "product_name": "Угловой шкаф Норд-2 Белый",
+        "product_href": "https://divan.ru/product/uglovoj-shkaf-nord-2-belyj",
+        "product_new_price": "39 280руб.",
+        "product_old_price": "43 690руб.",
+        "product_discount": "10%"
+    },
+    "650": {
+        "product_name": "Распашной шкаф Динс-2 Scandi Plain",
+        "product_href": "https://divan.ru/product/raspashnoj-shkaf-dins-2-scandi-plain",
+        "product_new_price": "19 990руб.",
+        "product_old_price": "26 990руб.",
+        "product_discount": "25%"
+    }
+}
