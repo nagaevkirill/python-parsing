@@ -1,0 +1,25 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "LocalBusiness",
+    "name": "Hard Rock Hell Festival",
+    "image": "https://dhzjvxyl79yzn.cloudfront.net/4/42674_2_vauxhall-holiday-park_th.jpg",
+    "url": "https://www.skiddle.com/festivals/hard-rock-hell/",
+    "priceRange": "Tickets available from &pound;60.00",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Accle New Road",
+        "addressLocality": "Great Yarmouth",
+        "postalCode": "NR30 1TB"
+    },
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 52.618677,
+        "longitude": 1.716677
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": null,
+        "bestRating": 5,
+        "reviewCount": 0
+    }
+}
