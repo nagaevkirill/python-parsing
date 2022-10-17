@@ -6,8 +6,7 @@ import datetime
 import csv
 
 
-
-def get_data_labirint(url):    # 'https://www.labirint.ru/genres/1006/?available=1&paperbooks=1&display=table'
+def get_data_labirint(url):  # 'https://www.labirint.ru/genres/1006/?available=1&paperbooks=1&display=table'
     start_time = time.time()
     curr_time = datetime.datetime.now().strftime("%d_%m_%Y_%H_%M")
 
@@ -35,8 +34,8 @@ def get_data_labirint(url):    # 'https://www.labirint.ru/genres/1006/?available
     book_base = []
 
     headers = {
-        "user-agent" : "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36",
-        "accept" : "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        "user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
     }
 
     response = requests.get(url=url, headers=headers)
@@ -44,8 +43,8 @@ def get_data_labirint(url):    # 'https://www.labirint.ru/genres/1006/?available
     soup = BeautifulSoup(response.text, "lxml")
 
     pages_count = int(soup.find("div", class_="pagination-numbers__right").find_all("a")[-1].text)
-   
-    for page in range(1,pages_count + 1):
+
+    for page in range(1, pages_count + 1):
 
         response = requests.get(url=f'{url}&page={page}', headers=headers)
 
@@ -55,43 +54,43 @@ def get_data_labirint(url):    # 'https://www.labirint.ru/genres/1006/?available
         for bi in books_info:
             book_data = bi.find_all("td")
             try:
-                bname = book_data[0].find("a").text.strip()                   
+                bname = book_data[0].find("a").text.strip()
             except:
                 bname = 'Нет названия'
             try:
                 bauthor = book_data[1].find_all("a")
-                bauthor = ", ".join([ath.text for ath in bauthor])                   
+                bauthor = ", ".join([ath.text for ath in bauthor])
             except:
                 bauthor = 'Нет автора'
             try:
-                bpublisher = book_data[2].find("a").text.strip()                   
+                bpublisher = book_data[2].find("a").text.strip()
             except:
                 bpublisher = 'Нет издателя'
             try:
-                bprice = int(book_data[3].find("span", class_="price-val").find("span").text.replace(" ",""))                   
+                bprice = int(book_data[3].find("span", class_="price-val").find("span").text.replace(" ", ""))
             except:
                 bprice = 'Нет цены'
             try:
-                bprice_old = int(book_data[3].find("span", class_="price-gray").text.replace(" ",""))                   
+                bprice_old = int(book_data[3].find("span", class_="price-gray").text.replace(" ", ""))
             except:
                 bprice_old = 'Нет цены'
             try:
-                bdiscount = round((bprice_old - bprice)*100/bprice_old)                
+                bdiscount = round((bprice_old - bprice) * 100 / bprice_old)
             except:
                 bdiscount = 'Нет скидки'
             try:
-                bavailable = book_data[5].find("div").text.strip()                   
+                bavailable = book_data[5].find("div").text.strip()
             except:
                 bavailable = 'Нет в наличии'
 
             book_base.append({
                 "Наименование": bname,
-                "Автор" : bauthor,
-                "Издатель" : bpublisher,
+                "Автор": bauthor,
+                "Издатель": bpublisher,
                 "Цена": bprice,
-                "Цена без скидки" : bprice_old,
+                "Цена без скидки": bprice_old,
                 "Скидка": bdiscount,
-                "Наличие" : bavailable
+                "Наличие": bavailable
             })
 
             with open(f"labirint_{curr_time}.csv", "a", encoding='utf-8') as file:
@@ -108,17 +107,18 @@ def get_data_labirint(url):    # 'https://www.labirint.ru/genres/1006/?available
                         bavailable
                     )
                 )
-             
+
         print(f"Обработано страниц {page}/{pages_count}")
 
     print(f'Затраченное время {round(time.time() - start_time, 2)}')
 
     with open(f"labirint_{curr_time}.json", "w", encoding='utf-8') as file:
         json.dump(book_base, file, indent=4, ensure_ascii=False)
-    
+
+
 def main():
     get_data_labirint('https://www.labirint.ru/genres/1006/?available=1&paperbooks=1&display=table')
-    
+
 
 if __name__ == '__main__':
     main()
